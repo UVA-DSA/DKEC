@@ -2,7 +2,7 @@
   "model": "DKEC",
   "task": "multi_label",
   "dataset": "MIMIC3-3737",
-  "root_dir": "/sfs/weka/scratch/zar8jw/EMNLP",
+  "root_dir": "your_root/DKEC",
 
   "train": {
     "learning_rate": 1e-4,
@@ -38,8 +38,8 @@
   },
 
   "wandb": {
-    "enable": true,
-    "entity": "gexueren",
+    "enable": false,
+    "entity": "your_wandb_name",
     "project": "MIMIC-3737"
   },
 

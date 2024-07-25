@@ -1,8 +1,8 @@
 {
   "model": "BERT",
   "task": "multi_label",
-  "dataset": "RAA",
-  "root_dir": "/sfs/weka/scratch/zar8jw/EMNLP",
+  "dataset": "MIMIC3-3737",
+  "root_dir": "your_root/DKEC",
 
   "train": {
     "learning_rate": 1e-4,
@@ -36,8 +36,8 @@
 
   "wandb": {
     "enable": false,
-    "entity": "gexueren",
-    "project": "RAA-seed-3407"
+    "entity": "your_wandb_name",
+    "project": "MIMIC-3737"
   },
 
   "DKEC": {

@@ -2,7 +2,7 @@
   "model": "BERT_LA",
   "task": "multi_label",
   "dataset": "MIMIC3-3737",
-  "root_dir": "/sfs/weka/scratch/zar8jw/EMNLP",
+  "root_dir": "your_root/DKEC",
 
   "train": {
     "learning_rate": 3e-5,
@@ -17,7 +17,7 @@
     "backbone": "UFNLP/gatortron-base",
     "loss_type": "BCEWithLogitsLoss",
     "topk": 8,
-    "seed": 0
+    "seed": 3407
   },
 
   "test": {
@@ -25,7 +25,7 @@
     "batch_size": 4,
     "epoch": 7,
     "seed": 0,
-    "is_test": true
+    "is_test": false
   },
 
   "optimizer": {
@@ -36,9 +36,9 @@
   },
 
   "wandb": {
-    "enable": true,
+    "enable": false,
     "entity": "gexueren",
-    "project": "MIMIC-3737-seed-0"
+    "project": "MIMIC-3737"
   },
 
   "BERTLA": {

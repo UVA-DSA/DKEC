@@ -1,8 +1,8 @@
 {
   "model": "BERT",
   "task": "multi_label",
-  "dataset": "MIMIC3",
-  "root_dir": "/sfs/weka/scratch/zar8jw/EMNLP",
+  "dataset": "MIMIC3-3737",
+  "root_dir": "your_root/DKEC",
 
   "train": {
     "learning_rate": 1e-5,
@@ -15,7 +15,7 @@
     "graph_layer": null,
     "reduced_dim": null,
     "backbone": "stanford-crfm/BioMedLM",
-    "topk": 12,
+    "topk": 8,
     "loss_type": "BCEWithLogitsLoss",
     "seed": 3407
   },
@@ -25,7 +25,7 @@
     "batch_size": 4,
     "epoch": 6,
     "seed": 3407,
-    "is_test": true
+    "is_test": false
   },
 
   "optimizer": {
@@ -36,9 +36,9 @@
   },
 
   "wandb": {
-    "enable": true,
-    "entity": "gexueren",
-    "project": "MIMIC-6668"
+    "enable": false,
+    "entity": "your_wandb_name",
+    "project": "MIMIC-3737"
   },
 
   "DKEC": {

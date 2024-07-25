@@ -1,18 +1,19 @@
 {
   "model": "DKEC",
   "task": "multi_label",
-  "dataset": "RAA",
-  "root_dir": "/sfs/weka/scratch/zar8jw/EMNLP",
+  "dataset": "MIMIC3-3737",
+  "root_dir": "your_root/DKEC",
 
   "train": {
     "learning_rate": 1e-6,
     "batch_size": 4,
     "epochs": 30,
     "dropout": 0.2,
-    "max_len": 512,
+    "max_len": 1024,
     "window_size": 1,
     "graph": "HGT",
-    "graph_layer": 1,
+    "graph_layer": 2,
+    "with_hier": true,
     "reduced_dim": null,
     "backbone": "stanford-crfm/BioMedLM",
     "topk": 8,
@@ -37,9 +38,9 @@
   },
 
   "wandb": {
-    "enable": true,
-    "entity": "gexueren",
-    "project": "RAA-seed-3407"
+    "enable": false,
+    "entity": "your_wandb_name",
+    "project": "MIMIC-3737"
   },
 
   "DKEC": {

@@ -1,20 +1,21 @@
 {
   "model": "BERT",
   "task": "multi_label",
-  "dataset": "RAA",
-  "root_dir": "/sfs/weka/scratch/zar8jw/EMNLP",
+  "dataset": "MIMIC3-3737",
+  "root_dir": "your_root/DKEC",
 
   "train": {
     "learning_rate": 1e-4,
     "batch_size": 8,
     "epochs": 30,
     "dropout": 0.2,
+    "backbone": "nlpie/distil-biobert",
     "max_len": 512,
     "window_size": 1,
     "graph": "",
     "graph_layer": null,
     "reduced_dim": null,
-    "backbone": "nlpie/distil-biobert",
+    "topk": 8,
     "loss_type": "BCEWithLogitsLoss",
     "seed": 3407
   },
@@ -36,8 +37,8 @@
 
   "wandb": {
     "enable": false,
-    "entity": "gexueren",
-    "project": "RAA-seed-3407"
+    "entity": "your_wandb_name",
+    "project": "MIMIC-3737"
   },
 
   "DKEC": {

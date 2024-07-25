@@ -2,7 +2,7 @@
   "model": "DKEC",
   "task": "multi_label",
   "dataset": "MIMIC3-3737",
-  "root_dir": "/sfs/weka/scratch/zar8jw/EMNLP",
+  "root_dir": "your_root/DKEC",
 
   "train": {
     "learning_rate": 1e-4,
@@ -14,12 +14,12 @@
     "graph": "HGT",
     "graph_layer": 2,
     "with_hier": true,
-    "reduced_dim": true,
+    "reduced_dim": 32,
     "backbone": "nlpie/tiny-clinicalbert",
     "loss_type": "BCEWithLogitsLoss",
     "topk": 8,
     "seed": 3407,
-    "note": "sumpool_linear"
+    "note": "maxpool_linear"
   },
 
   "test": {
@@ -27,7 +27,7 @@
     "batch_size": 16,
     "epoch": 11,
     "seed": 3407,
-    "is_test": true
+    "is_test": false
   },
 
   "optimizer": {
@@ -39,7 +39,7 @@
 
   "wandb": {
     "enable": true,
-    "entity": "gexueren",
+    "entity": "your_wandb_name",
     "project": "MIMIC-3737"
   },
 

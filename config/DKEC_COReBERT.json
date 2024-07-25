@@ -2,7 +2,7 @@
   "model": "DKEC",
   "task": "multi_label",
   "dataset": "MIMIC3-3737",
-  "root_dir": "/sfs/weka/scratch/zar8jw/EMNLP",
+  "root_dir": "your_root/DKEC",
 
   "train": {
     "learning_rate": 1e-5,
@@ -14,12 +14,12 @@
     "graph": "HGT",
     "graph_layer": 2,
     "with_hier": true,
-    "reduced_dim": true,
+    "reduced_dim": 32,
     "backbone": "bvanaken/CORe-clinical-outcome-biobert-v1",
     "loss_type": "BCEWithLogitsLoss",
     "topk": 8,
     "seed": 3407,
-    "note": "sumpool_linear"
+    "note": "maxpool_linear"
   },
 
   "test": {
@@ -27,7 +27,7 @@
     "batch_size": 8,
     "epoch": 12,
     "seed": 3407,
-    "is_test": true
+    "is_test": false
   },
 
   "optimizer": {
@@ -38,8 +38,8 @@
   },
 
   "wandb": {
-    "enable": true,
-    "entity": "gexueren",
+    "enable": false,
+    "entity": "your_wandb_name",
     "project": "MIMIC-3737"
   },
 

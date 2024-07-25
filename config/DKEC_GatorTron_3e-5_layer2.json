@@ -1,25 +1,25 @@
 {
   "model": "DKEC",
   "task": "multi_label",
-  "dataset": "MIMIC3",
-  "root_dir": "/sfs/weka/scratch/zar8jw/EMNLP",
+  "dataset": "MIMIC3-3737",
+  "root_dir": "your_root/DKEC",
 
   "train": {
     "learning_rate": 3e-5,
     "batch_size": 4,
-    "epochs": 20,
+    "epochs": 30,
     "dropout": 0.2,
     "max_len": 512,
     "window_size": 3,
     "graph": "HGT",
     "graph_layer": 2,
     "with_hier": true,
-    "reduced_dim": true,
+    "reduced_dim": 32,
     "backbone": "UFNLP/gatortron-base",
     "loss_type": "BCEWithLogitsLoss",
-    "topk": 12,
+    "topk": 8,
     "seed": 3407,
-    "note": "sumpool_linear"
+    "note": "maxpool_linear"
   },
 
   "test": {
@@ -38,9 +38,9 @@
   },
 
   "wandb": {
-    "enable": true,
-    "entity": "gexueren",
-    "project": "MIMIC-6668"
+    "enable": false,
+    "entity": "your_wandb_name",
+    "project": "MIMIC-3737"
   },
 
   "DKEC": {
