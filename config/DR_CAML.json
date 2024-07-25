@@ -1,0 +1,65 @@
+{
+  "model": "DR_CAML",
+  "task": "multi_label",
+  "dataset": "MIMIC3-3737",
+  "root_dir": "/sfs/weka/scratch/zar8jw/EMNLP",
+
+  "train": {
+    "learning_rate": 1e-4,
+    "batch_size": 16,
+    "epochs": 200,
+    "backbone": "CNN",
+    "max_len": 2500,
+    "window_size": null,
+    "graph": "",
+    "graph_layer": null,
+    "topk": 8,
+    "loss_type": "BCEWithLogitsLoss",
+    "seed": 42
+  },
+
+  "test": {
+    "learning_rate": 1e-4,
+    "batch_size": 16,
+    "epoch": 130,
+    "seed": 42,
+    "is_test": true
+  },
+
+  "optimizer": {
+    "optimizer_type": "Adam",
+    "decay_rate": 0,
+    "adadelta_decay_rate": 0.95,
+    "adadelta_epsilon": 1e-08
+  },
+
+  "wandb": {
+    "enable": true,
+    "entity": "gexueren",
+    "project": "MIMIC-3737-seed-42"
+  },
+
+  "CAML": {
+    "if_group": false,
+    "num_kernels": 50,
+    "kernel_size": 10,
+    "use_gcn": false,
+    "text_embed_dim": 300,
+    "label_embed_dim": 300,
+    "lmbda": 0.01,
+    "gcn_in_features": "",
+    "gcn_hidden_features": "",
+    "gcn_out_features": "",
+    "gcn_dropout": ""
+  },
+
+  "DDP": {
+    "enable": true
+  },
+
+  "FSDP": {
+    "enable": false,
+    "mixed_precision": false,
+    "use_fp16": false
+  }
+}

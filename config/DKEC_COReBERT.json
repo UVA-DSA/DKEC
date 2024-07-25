@@ -1,0 +1,67 @@
+{
+  "model": "DKEC",
+  "task": "multi_label",
+  "dataset": "MIMIC3-3737",
+  "root_dir": "/sfs/weka/scratch/zar8jw/EMNLP",
+
+  "train": {
+    "learning_rate": 1e-5,
+    "batch_size": 8,
+    "epochs": 30,
+    "dropout": 0.2,
+    "max_len": 512,
+    "window_size": 3,
+    "graph": "HGT",
+    "graph_layer": 2,
+    "with_hier": true,
+    "reduced_dim": true,
+    "backbone": "bvanaken/CORe-clinical-outcome-biobert-v1",
+    "loss_type": "BCEWithLogitsLoss",
+    "topk": 8,
+    "seed": 3407,
+    "note": "sumpool_linear"
+  },
+
+  "test": {
+    "learning_rate": 1e-5,
+    "batch_size": 8,
+    "epoch": 12,
+    "seed": 3407,
+    "is_test": true
+  },
+
+  "optimizer": {
+    "optimizer_type": "AdamW",
+    "decay_rate": 1e-5,
+    "betas": 0.95,
+    "eps": 1e-08
+  },
+
+  "wandb": {
+    "enable": true,
+    "entity": "gexueren",
+    "project": "MIMIC-3737"
+  },
+
+  "DKEC": {
+    "num_kernels": 200,
+    "kernel_size": [5, 7, 9, 11],
+    "use_gcn": false,
+    "text_embed_dim": 200,
+    "label_embed_dim": 200,
+    "gcn_in_features": 200,
+    "gcn_hidden_features": 200,
+    "gcn_out_features": 200,
+    "gcn_dropout": 0
+  },
+
+  "DDP": {
+    "enable": true
+  },
+
+  "FSDP": {
+    "enable": false,
+    "mixed_precision": false,
+    "use_fp16": false
+  }
+}

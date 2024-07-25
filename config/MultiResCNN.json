@@ -1,0 +1,60 @@
+{
+  "model": "MultiResCNN",
+  "task": "multi_label",
+  "dataset": "MIMIC3-1000",
+  "root_dir": "/sfs/weka/scratch/zar8jw/EMNLP",
+
+  "train": {
+    "learning_rate": 0.0001,
+    "batch_size": 16,
+    "epochs": 200,
+    "backbone": "CNN",
+    "max_len": 2500,
+    "window_size": null,
+    "graph": "",
+    "graph_layer": null,
+    "topk": 8,
+    "loss_type": "BCEWithLogitsLoss",
+    "seed": 3407
+  },
+
+  "test": {
+    "learning_rate": 1e-4,
+    "batch_size": 16,
+    "epoch": 51,
+    "seed": 3407,
+    "is_test": true
+  },
+
+  "optimizer": {
+    "optimizer_type": "Adam",
+    "decay_rate": 0,
+    "betas": 0.95,
+    "eps": 1e-08
+  },
+
+  "wandb": {
+    "enable": true,
+    "entity": "gexueren",
+    "project": "MIMIC-3737-seed-0"
+  },
+
+  "MultiResCNN": {
+    "kernel_size": [3, 5, 9, 15, 19, 25],
+    "num_filter_maps": 50,
+    "conv_layer": 1,
+    "embed_dropout": 0.2,
+    "residual_dropout": 0.2,
+    "text_embed_dim": 100
+  },
+
+  "DDP": {
+    "enable": true
+  },
+
+  "FSDP": {
+    "enable": false,
+    "mixed_precision": false,
+    "use_fp16": false
+  }
+}

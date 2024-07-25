@@ -1,0 +1,62 @@
+{
+  "model": "DKEC",
+  "task": "multi_label",
+  "dataset": "MIMIC3-3737",
+  "root_dir": "/sfs/weka/scratch/zar8jw/EMNLP",
+
+  "train": {
+    "learning_rate": 1e-4,
+    "batch_size": 16,
+    "epochs": 200,
+    "dropout": 0.2,
+    "backbone": "CNN",
+    "max_len": 2500,
+    "window_size": null,
+    "graph": "HGT",
+    "graph_layer": 2,
+    "with_hier": false,
+    "reduced_dim": null,
+    "topk": 8,
+    "loss_type": "BCEWithLogitsLoss",
+    "seed": 0,
+    "note": "sumpool_fc_woHier"
+  },
+
+  "test": {
+    "learning_rate": 1e-4,
+    "batch_size": 16,
+    "epoch": 89,
+    "seed": 0,
+    "is_test": true
+  },
+
+  "optimizer": {
+    "optimizer_type": "Adam",
+    "decay_rate": 1e-5,
+    "betas": 0.95,
+    "eps": 1e-08
+  },
+
+  "wandb": {
+    "enable": true,
+    "entity": "gexueren",
+    "project": "MIMIC-3737-seed-0"
+  },
+
+  "DKEC": {
+    "num_kernels": 200,
+    "kernel_size": [5, 7, 9, 11],
+    "text_embed_dim": 200,
+    "label_embed_dim": 768
+  },
+
+  "DDP": {
+    "enable": true
+  },
+
+  "FSDP": {
+    "enable": false,
+    "mixed_precision": false,
+    "use_fp16": false
+  }
+}
