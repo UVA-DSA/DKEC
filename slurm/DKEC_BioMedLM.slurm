@@ -11,7 +11,7 @@
 
 module purge
 module load anaconda
-source activate EMSProject
+source activate DKEC
 
 export MASTER_ADDR='localhost' &&  # Set to the master node's IP address if it's not local
 export MASTER_PORT=44259  &&      # Any free port can be used
