@@ -1,0 +1,4548 @@
+{
+    "Medical - Chest Pain - Cardiac Suspected (Protocol 2 - 1)": [
+        [
+            "non-traumatic chest discomfort",
+            "C0235710",
+            "Chest discomfort",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "acute myocardial infarction (ami)",
+            "C0155626",
+            "Acute myocardial infarction",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "angina pectoris",
+            "C0002962",
+            "Angina Pectoris",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "pressure",
+            "C0460139",
+            "Pressure (finding)",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "aching",
+            "C0234238",
+            "Ache",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "burning",
+            "C0085624",
+            "Burning sensation",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "indigestion",
+            "C0013395",
+            "Dyspepsia",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "tightness",
+            "C0232292",
+            "Chest tightness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "substernal pain",
+            "C0151826",
+            "Retrosternal pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "epigastric pain",
+            "C0232493",
+            "Epigastric pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "arm pain",
+            "C0239377",
+            "Arm Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "jaw pain",
+            "C0236000",
+            "Jaw pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "neck pain",
+            "C0007859",
+            "Neck Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "shoulder pain",
+            "C0037011",
+            "Shoulder Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "radiation of pain",
+            "C2129238",
+            "radiating pain of upper back",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "pale",
+            "C0678215",
+            "Body pale (finding)",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "diaphoresis",
+            "C0700590",
+            "Increased sweating",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "shortness of breath",
+            "C0013404",
+            "Dyspnea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "nausea",
+            "C0027497",
+            "Nausea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "vomiting",
+            "C0042963",
+            "Vomiting",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "dizziness",
+            "C0012833",
+            "Dizziness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "non-specific illness",
+            "C0150951",
+            "Systemic illness, non-rheumatological",
+            [
+                "Disease or Syndrome"
+            ]
+        ]
+    ],
+    "Medical - ST Elevation Myocardial Infarction (ACS/AMI) (Protocol 2 - 2)": [
+        [
+            "pressure",
+            "C0460139",
+            "Pressure (finding)",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "aching",
+            "C0234238",
+            "Ache",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "tightness",
+            "C0232292",
+            "Chest tightness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "sub-sternal pain",
+            "C0241243",
+            "Sternal pain",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "epigastric pain",
+            "C0232493",
+            "Epigastric pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "arm pain",
+            "C0239377",
+            "Arm Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "jaw pain",
+            "C0236000",
+            "Jaw pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "neck pain",
+            "C0007859",
+            "Neck Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "shoulder pain",
+            "C0037011",
+            "Shoulder Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "radiation of pain",
+            "C2129238",
+            "radiating pain of upper back",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "pale",
+            "C0678215",
+            "Body pale (finding)",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "diaphoresis",
+            "C0700590",
+            "Increased sweating",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "shortness of breath",
+            "C0013404",
+            "Dyspnea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "nausea",
+            "C0027497",
+            "Nausea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "vomiting",
+            "C0042963",
+            "Vomiting",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "dizziness",
+            "C0012833",
+            "Dizziness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "non-specific illness",
+            "C0150951",
+            "Systemic illness, non-rheumatological",
+            [
+                "Disease or Syndrome"
+            ]
+        ]
+    ],
+    "Medical - Pulmonary Edema/CHF (Protocol 2 - 3)": [
+        [
+            "rales / crackles",
+            "C4068793",
+            "Rales (respiratory crackles)",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "tachypnea",
+            "C0231835",
+            "Tachypnea",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "jvd",
+            "C0425687",
+            "Jugular venous engorgement",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "ascites",
+            "C0003962",
+            "Ascites",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "respiratory distress",
+            "C0476273",
+            "Respiratory distress",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "rales",
+            "C0034642",
+            "Rales",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "apprehension",
+            "C0233485",
+            "apprehension",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "orthopnea",
+            "C0085619",
+            "Orthopnea",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "jugular vein distention",
+            "C3842128",
+            "Jugular vein distention - JVD",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "pink",
+            "C0582067",
+            "Pink skin",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "frothy sputum",
+            "C0577979",
+            "Frothy sputum",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "peripheral pitting",
+            "C0333243",
+            "Pitting edema",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "edema",
+            "C0013604",
+            "Edema",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "diaphoresis",
+            "C0700590",
+            "Increased sweating",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "tripod positioning",
+            "C3875386",
+            "Tripod position",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "inability to speak in full sentences",
+            "C4062228",
+            "Inability to speak",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "accessory muscle",
+            "C0158784",
+            "Accessory skeletal muscle",
+            [
+                "Congenital Abnormality"
+            ]
+        ],
+        [
+            "usage with respiration",
+            "C0439837",
+            "Moves with respiration",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "hypotension",
+            "C0020649",
+            "Hypotension",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "shock",
+            "C0036974",
+            "Shock",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "chest pain",
+            "C0008031",
+            "Chest Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "Medical - Supraventricular Tachycardia (including atrial fibrillation) Medical - Tachycardia Medical - Ventricular Tachycardia with a Pulse (Protocol 2 - 8)": [
+        [
+            "heart rate > 150 bpm",
+            "C0018811",
+            "Heart Rate, Fetal",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "dizziness",
+            "C0012833",
+            "Dizziness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "chest pain",
+            "C0008031",
+            "Chest Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "shortness of breath",
+            "C0013404",
+            "Dyspnea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "potential presenting rhythm",
+            "C0855338",
+            "Gallop rhythm present",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "sinus tachycardia",
+            "C0039239",
+            "Sinus Tachycardia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "atrial fibrillation",
+            "C0004238",
+            "Atrial Fibrillation",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "atrial flutter",
+            "C0004239",
+            "Atrial Flutter",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "multifocal atrial",
+            "C0221158",
+            "Multifocal atrial tachycardia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "tachycardia (mat)",
+            "C0542417",
+            "Matted hair",
+            [
+                "Disease or Syndrome"
+            ]
+        ]
+    ],
+    "Medical - Bradycardia (Protocol 2 - 9)": [
+        [
+            "heart rate < 60 bpm",
+            "C0018811",
+            "Heart Rate, Fetal",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "chest pain",
+            "C0008031",
+            "Chest Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "respiratory distress",
+            "C0476273",
+            "Respiratory distress",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "hypotension",
+            "C0020649",
+            "Hypotension",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "shock",
+            "C0036974",
+            "Shock",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "altered mental status",
+            "C2316693",
+            "Transient altered mental status",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "syncope",
+            "C0039070",
+            "Syncope",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "Medical - Abdominal Pain (Protocol 3 - 2)": [
+        [
+            "abdominal pain",
+            "C0000737",
+            "Abdominal Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "cramp-like",
+            "C0026821",
+            "Muscle Cramp",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "colicky",
+            "C0857334",
+            "Colicky sensation quality",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "gaseous",
+            "C0333246",
+            "Gaseous edema",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "somatic pain",
+            "C0234244",
+            "Tissue Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "sharp",
+            "C1444775",
+            "Sharp sensation quality",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "referred pain",
+            "C0234250",
+            "Pain, Referred",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "pain",
+            "C0030193",
+            "Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "distension",
+            "C1291077",
+            "Abdominal bloating",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "rigidity",
+            "C0026837",
+            "Muscle Rigidity",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "unequal femoral pulses",
+            "C1997431",
+            "Unequal femoral pulses",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "absent femoral pulses",
+            "C2222307",
+            "absent femoral pulses on both sides",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "diaphoresis",
+            "C0700590",
+            "Increased sweating",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "orthostatic changes",
+            "C4717768",
+            "Monitors for orthostatic hypotension when changing positions",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "tenderness",
+            "C0234233",
+            "Sore to touch",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "nausea",
+            "C0027497",
+            "Nausea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "vomiting",
+            "C0042963",
+            "Vomiting",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "diarrhea",
+            "C0011991",
+            "Diarrhea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "dysuria",
+            "C0013428",
+            "Dysuria",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "constipation",
+            "C0009806",
+            "Constipation",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "vaginal bleeding",
+            "C0578503",
+            "Abnormal vaginal bleeding",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "discharge",
+            "C2926602",
+            "Body Substance Discharge",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "pregnancy",
+            "C0032993",
+            "Pregnancy, Prolonged",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "associated symptoms",
+            "C0521989",
+            "Signs and Symptoms Associated with Chief Complaint",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "fever",
+            "C0015967",
+            "Fever",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "headache",
+            "C0018681",
+            "Headache",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "weakness",
+            "C3714552",
+            "Weakness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "malaise",
+            "C0231218",
+            "Malaise",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "myalgias",
+            "C0231528",
+            "Myalgia",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "cough",
+            "C0010200",
+            "Coughing",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "mental status changes",
+            "C0856054",
+            "Mental status changes",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "rash",
+            "C5779628",
+            "Skin rash",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "Medical - Allergic Reaction/Anaphylaxis (Protocol 3 - 3)": [
+        [
+            "anaphylaxis allergic reactions",
+            "C3842027",
+            "Medical-allergic reaction/anaphylaxis",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "allergic reactions",
+            "C0020517",
+            "Hypersensitivity",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "swelling",
+            "C0038999",
+            "Swelling",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "dyspnea",
+            "C0013404",
+            "Dyspnea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "itching",
+            "C0033774",
+            "Pruritus",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "hives",
+            "C0042109",
+            "Urticaria",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "coughing",
+            "C0010200",
+            "Coughing",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "wheezing",
+            "C0043144",
+            "Wheezing",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "respiratory distress",
+            "C0476273",
+            "Respiratory distress",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "chest constriction",
+            "C0232292",
+            "Chest tightness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "throat constriction",
+            "C0236071",
+            "Constriction in throat",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "difficulty swallowing",
+            "C0011168",
+            "Deglutition Disorders",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "hypotension",
+            "C0020649",
+            "Hypotension",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "shock",
+            "C0036974",
+            "Shock",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "edema",
+            "C0013604",
+            "Edema",
+            [
+                "Pathologic Function"
+            ]
+        ]
+    ],
+    "General - Behavioral/Patient Restraint (Protocol 3 - 4)": [
+        [
+            "delusions",
+            "C0011253",
+            "Delusions",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "hallucinations",
+            "C0018524",
+            "Hallucinations",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "depression",
+            "C0011570",
+            "Mental Depression",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "trauma",
+            "C3714660",
+            "Trauma",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "intense",
+            "C2676804",
+            "Pruritis, intense",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "anxiety",
+            "C0003467",
+            "Anxiety",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "agitation",
+            "C0085631",
+            "Agitation",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "confusion",
+            "C0009676",
+            "Confusion",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "affect change",
+            "C4023716",
+            "Nodular changes affecting the eyelids",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "auditory  visual hallucinations",
+            "C0740399",
+            "Auditory and visual hallucinations",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "delusional thoughts",
+            "C0011253",
+            "Delusions",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "bizarre behavior",
+            "C0474407",
+            "Bizarre behavior",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "combative  violent",
+            "C0242151",
+            "Violent",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "expression of suicidal homicidal thoughts",
+            "C1948150",
+            "expresses suicidal/homicidal thoughts",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "Medical - Stroke/TIA (Protocol 3 - 5)": [
+        [
+            "altered mental status",
+            "C2316693",
+            "Transient altered mental status",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "weakness",
+            "C3714552",
+            "Weakness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "paralysis",
+            "C0522224",
+            "Paralysed",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "blindness",
+            "C0456909",
+            "Blindness",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "sensory loss",
+            "C1691779",
+            "Sensory hearing loss",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "aphasia",
+            "C0003537",
+            "Aphasia",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "dysarthria",
+            "C0013362",
+            "Dysarthria",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "syncope",
+            "C0039070",
+            "Syncope",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "vertigo",
+            "C0042571",
+            "Vertigo",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "dizziness",
+            "C0012833",
+            "Dizziness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "vomiting",
+            "C0042963",
+            "Vomiting",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "headache",
+            "C0018681",
+            "Headache",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "seizures",
+            "C0036572",
+            "Seizures",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "respiratory pattern change",
+            "C0517967",
+            "Respiratory pattern",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "hypertension",
+            "C0020538",
+            "Hypertensive disease",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "hypotension",
+            "C0020649",
+            "Hypotension",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "Medical - Diabetic - Hyperglycemia (Protocol 3 - 7)": [
+        [
+            "dehydration",
+            "C0011175",
+            "Dehydration",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "altered mental status",
+            "C2316693",
+            "Transient altered mental status",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "shock",
+            "C0036974",
+            "Shock",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "anxiety",
+            "C0003467",
+            "Anxiety",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "agitation",
+            "C0085631",
+            "Agitation",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "confusion",
+            "C0009676",
+            "Confusion",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "dry skin",
+            "C0151908",
+            "Dry skin",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "red skin",
+            "C0041834",
+            "Erythema",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "warm skin",
+            "C0235218",
+            "Warm skin",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "acetone (fruity) smell on breath",
+            "C0235429",
+            "Ketotic breath",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "kussmaul respirations",
+            "C0541813",
+            "Kussmaul's respiration",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "dry mouth",
+            "C0043352",
+            "Xerostomia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "intensive thirst",
+            "C0426590",
+            "Thirst symptom",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "abnormal behavior",
+            "C0233514",
+            "Abnormal behavior",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "hostile behavior",
+            "C2198641",
+            "milestone: friendly or hostile/aggressive behavior",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "tachycardia",
+            "C0039231",
+            "Tachycardia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "dizziness",
+            "C0012833",
+            "Dizziness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "headache",
+            "C0018681",
+            "Headache",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "Medical - Diabetic - Hypoglycemia (Protocol 3 - 8)": [
+        [
+            "altered mental status",
+            "C2316693",
+            "Transient altered mental status",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "unconsciousness",
+            "C0041657",
+            "Unconscious State",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "anxiety",
+            "C0003467",
+            "Anxiety",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "agitation",
+            "C0085631",
+            "Agitation",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "confusion",
+            "C0009676",
+            "Confusion",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "cool skin",
+            "C0812387",
+            "Feels cold",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "clammy skin",
+            "C0392162",
+            "Clammy skin",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "diaphoresis",
+            "C0700590",
+            "Increased sweating",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "seizure",
+            "C0036572",
+            "Seizures",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "decreased visual acuity",
+            "C3277697",
+            "Decreased visual acuity, progressive",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "blindness",
+            "C0456909",
+            "Blindness",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "abnormal behavior",
+            "C0233514",
+            "Abnormal behavior",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "hostile behavior",
+            "C2198641",
+            "milestone: friendly or hostile/aggressive behavior",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "tachycardia",
+            "C0039231",
+            "Tachycardia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "hypertension",
+            "C0020538",
+            "Hypertensive disease",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "dizziness",
+            "C0012833",
+            "Dizziness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "headache",
+            "C0018681",
+            "Headache",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "weakness",
+            "C3714552",
+            "Weakness",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "Medical - Nausea/Vomiting (Protocol 3 - 9)": [
+        [
+            "pain",
+            "C0030193",
+            "Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "distention",
+            "C3714614",
+            "Distention",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "constipation",
+            "C0009806",
+            "Constipation",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "diarrhea",
+            "C0011991",
+            "Diarrhea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "anorexia",
+            "C0003123",
+            "Anorexia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "radiation",
+            "C0034561",
+            "Radiation-Induced Dermatitis",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "associated symptoms",
+            "C0521989",
+            "Signs and Symptoms Associated with Chief Complaint",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "fever",
+            "C0015967",
+            "Fever",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "headache",
+            "C0018681",
+            "Headache",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "blurred vision",
+            "C0344232",
+            "Blurred vision",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "weakness",
+            "C3714552",
+            "Weakness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "malaise",
+            "C0231218",
+            "Malaise",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "myalgias",
+            "C0231528",
+            "Myalgia",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "cough",
+            "C0010200",
+            "Coughing",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "dysuria",
+            "C0013428",
+            "Dysuria",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "mental status changes",
+            "C0856054",
+            "Mental status changes",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "rash",
+            "C5779628",
+            "Skin rash",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "General - Pain Control (Protocol 3 - 10)": [
+        [
+            "severity",
+            "C1292730",
+            "Condition severity",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "sharp",
+            "C1444775",
+            "Sharp sensation quality",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "dull",
+            "C0278144",
+            "Dull pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "radiation",
+            "C0034561",
+            "Radiation-Induced Dermatitis",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "relation to movement",
+            "C1286639",
+            "Finding related to ability to imitate tongue movements",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "respiration",
+            "C0035204",
+            "Respiration Disorders",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "increased with palpation of area",
+            "C0577950",
+            "Increased area of cardiac dullness",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "Medical - Respiratory Distress/Asthma/COPD/Croup/Reactive Airway (Respiratory Distress) (Protocol 3 - 11)": [
+        [
+            "respiratory distress",
+            "C0476273",
+            "Respiratory distress",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "dyspnea",
+            "C0013404",
+            "Dyspnea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "\u201cair hunger\u201d",
+            "C0231848",
+            "Air hunger",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "labored breathing",
+            "C0553668",
+            "Labored breathing",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "shortness of breath",
+            "C0013404",
+            "Dyspnea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "purse lip respirations",
+            "C1832130",
+            "Pursed lips",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "decreased ability to speak",
+            "C3837988",
+            "decreasing ability to speak",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "increased respiratory rate",
+            "C0231835",
+            "Tachypnea",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "use of accessory muscles",
+            "C1821466",
+            "Use of accessory muscles",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "tripoding",
+            "C0556963",
+            "Tripod grip",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "wheezing",
+            "C0043144",
+            "Wheezing",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "rhonchi",
+            "C0035508",
+            "Rhonchi",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "rales",
+            "C0034642",
+            "Rales",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "fever",
+            "C0015967",
+            "Fever",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "cough",
+            "C0010200",
+            "Coughing",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "tachycardia",
+            "C0039231",
+            "Tachycardia",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "Medical - Seizure (Protocol 3 - 12)": [
+        [
+            "loss of consciousness",
+            "C0041657",
+            "Unconscious State",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "lethargy",
+            "C0023380",
+            "Lethargy",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "confusion",
+            "C0009676",
+            "Confusion",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "decreased mental status",
+            "C0746541",
+            "MENTAL STATUS ALTERED RESPONSIVENESS DECREASED",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "sleepiness",
+            "C0013144",
+            "Drowsiness",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "incontinence",
+            "C0021167",
+            "Incontinence",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "seizure",
+            "C0036572",
+            "Seizures",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "trauma",
+            "C3714660",
+            "Trauma",
+            [
+                "Injury or Poisoning"
+            ]
+        ]
+    ],
+    "Medical - Hypotension/Shock (Nontrauma) (Protocol 3 - 13)": [
+        [
+            "tachycardia",
+            "C0039231",
+            "Tachycardia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "tachypnea",
+            "C0231835",
+            "Tachypnea",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "decreased mental status",
+            "C0746541",
+            "MENTAL STATUS ALTERED RESPONSIVENESS DECREASED",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "hypotension",
+            "C0020649",
+            "Hypotension",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "restlessness",
+            "C3887611",
+            "Restlessness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "confusion",
+            "C0009676",
+            "Confusion",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "weakness",
+            "C3714552",
+            "Weakness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "dizziness",
+            "C0012833",
+            "Dizziness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "weak pulse",
+            "C0232132",
+            "Weak arterial pulse",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "rapid pulse",
+            "C0039231",
+            "Tachycardia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "pale skin",
+            "C0030232",
+            "Pallor",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "cool skin",
+            "C0812387",
+            "Feels cold",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "clammy skin",
+            "C0392162",
+            "Clammy skin",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "delayed capillary refill",
+            "C4718438",
+            "Delayed Capillary Refill Time",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "hypotension",
+            "C0020649",
+            "Hypotension",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "coffee-ground emesis",
+            "C1510416",
+            "Coffee ground vomiting",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "tarry stools",
+            "C0025222",
+            "Melena",
+            [
+                "Pathologic Function"
+            ]
+        ]
+    ],
+    "Medical - Altered Mental Status (Protocol 3 - 15)": [
+        [
+            "unconscious",
+            "C0041657",
+            "Unconscious State",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "change in mentation",
+            "C4025789",
+            "Psychotic mentation",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "syncope",
+            "C0039070",
+            "Syncope",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "loss of consciousness",
+            "C0041657",
+            "Unconscious State",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "lightheadedness",
+            "C0220870",
+            "Lightheadedness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "dizziness",
+            "C0012833",
+            "Dizziness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "palpitations",
+            "C0030252",
+            "Palpitations",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "slow pulse",
+            "C2230138",
+            "Pulse slow (finding)",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "rapid pulse",
+            "C0039231",
+            "Tachycardia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "pulse irregularity",
+            "C0392684",
+            "Pulse irregular",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "decreased blood pressure",
+            "C0020649",
+            "Hypotension",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "Airway - Failed (Protocol 3 - 16)": [
+        [
+            "hypercarbia",
+            "C0020440",
+            "Hypercapnia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "stridor",
+            "C0038450",
+            "Stridor",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "trismus",
+            "C0041105",
+            "Trismus",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "pooling of secretions",
+            "C0423158",
+            "Pooling of tears",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "hypoxia",
+            "C0242184",
+            "Hypoxia",
+            [
+                "Pathologic Function"
+            ]
+        ]
+    ],
+    "Injury - Abdominal Trauma (Abdominal Trauma) (Protocol 4 - 2)": [
+        [
+            "pain",
+            "C0030193",
+            "Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "swelling",
+            "C0038999",
+            "Swelling",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "bleeding",
+            "C0019080",
+            "Hemorrhage",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "deformity",
+            "C0302142",
+            "Deformity",
+            [
+                "Anatomical Abnormality"
+            ]
+        ],
+        [
+            "lesions",
+            "C0221198",
+            "Lesion",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "altered mental status",
+            "C2316693",
+            "Transient altered mental status",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "unconsciousness",
+            "C0041657",
+            "Unconscious State",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "respiratory distress",
+            "C0476273",
+            "Respiratory distress",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "respiratory failure",
+            "C1145670",
+            "Respiratory Failure",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "hypotension",
+            "C0020649",
+            "Hypotension",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "shock",
+            "C0036974",
+            "Shock",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "arrest",
+            "C0018790",
+            "Cardiac Arrest",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "significant mechanism of injury",
+            "C0560612",
+            "Injury by mechanism",
+            [
+                "Injury or Poisoning"
+            ]
+        ]
+    ],
+    "Injury - Burns - Thermal (Protocol 4 - 3)": [
+        [
+            "burns",
+            "C0006434",
+            "Burn injury",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "reddening",
+            "C2052800",
+            "penile reddening",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "blistering",
+            "C0344311",
+            "Blistering eruption",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "pain",
+            "C0030193",
+            "Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "swelling",
+            "C0038999",
+            "Swelling",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "dizziness",
+            "C0012833",
+            "Dizziness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "loss of consciousness",
+            "C0041657",
+            "Unconscious State",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "hypotension",
+            "C0020649",
+            "Hypotension",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "shock",
+            "C0036974",
+            "Shock",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "airway compromise",
+            "C4055482",
+            "Airway compromise",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "airway distress",
+            "C3842014",
+            "Medical-respiratory distress/asthma/COPD/reactive airway disease",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "singed facial hair",
+            "C4324678",
+            "Singed hair",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "singed nasal hair",
+            "C2225567",
+            "singed nasal hairs",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "hoarseness",
+            "C0019825",
+            "Hoarseness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "wheezing",
+            "C0043144",
+            "Wheezing",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "Injury - Crush Syndrome (Protocol 4 - 4)": [
+        [
+            "muscle mass",
+            "C0240417",
+            "Muscle mass",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "Injury - Head (Protocol 4 - 6)": [
+        [
+            "headache",
+            "C0018681",
+            "Headache",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "coma",
+            "C0009421",
+            "Comatose",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "head pain",
+            "C0018681",
+            "Headache",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "swelling",
+            "C0038999",
+            "Swelling",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "head bleeding",
+            "C2144820",
+            "bleeding wound of top of head",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "altered mental status",
+            "C2316693",
+            "Transient altered mental status",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "unconsciousness",
+            "C0041657",
+            "Unconscious State",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "respiratory distress",
+            "C0476273",
+            "Respiratory distress",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "respiratory failure",
+            "C1145670",
+            "Respiratory Failure",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "cushing\u2019s reflex triad",
+            "C1531773",
+            "Currarino triad",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "cheyne-stokes",
+            "C0008039",
+            "Cheyne-Stokes Respiration",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "biot\u2019s respiration",
+            "C0035204",
+            "Respiration Disorders",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "unequal pupil(s)",
+            "C0003079",
+            "Anisocoria",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "dilated pupil(s)",
+            "C3549564",
+            "Tonically dilated pupils",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "sluggish pupil(s)",
+            "C1838871",
+            "Sluggish pupils",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "vomiting",
+            "C0042963",
+            "Vomiting",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "significant mechanism of injury",
+            "C0560612",
+            "Injury by mechanism",
+            [
+                "Injury or Poisoning"
+            ]
+        ]
+    ],
+    "Injury - Thoracic (Protocol 4 - 11)": [
+        [
+            "large contusions",
+            "C0009938",
+            "Contusions",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "tenderness",
+            "C0234233",
+            "Sore to touch",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "fractured ribs",
+            "C0035522",
+            "Rib Fractures",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "flailed segments",
+            "C0856718",
+            "Flail segment",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "pain",
+            "C0030193",
+            "Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "swelling",
+            "C0038999",
+            "Swelling",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "bleeding",
+            "C0019080",
+            "Hemorrhage",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "deformity",
+            "C0302142",
+            "Deformity",
+            [
+                "Anatomical Abnormality"
+            ]
+        ],
+        [
+            "lesions",
+            "C0221198",
+            "Lesion",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "altered mental status",
+            "C2316693",
+            "Transient altered mental status",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "unconsciousness",
+            "C0041657",
+            "Unconscious State",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "respiratory distress",
+            "C0476273",
+            "Respiratory distress",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "respiratory failure",
+            "C1145670",
+            "Respiratory Failure",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "hypotension",
+            "C0020649",
+            "Hypotension",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "shock",
+            "C0036974",
+            "Shock",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "arrest",
+            "C0018790",
+            "Cardiac Arrest",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "significant mechanism of injury",
+            "C0560612",
+            "Injury by mechanism",
+            [
+                "Injury or Poisoning"
+            ]
+        ]
+    ],
+    "Spinal Motion Restriction (Protocol 4 - 13)": [
+        [
+            "pain",
+            "C0030193",
+            "Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "decubitus development",
+            "C0152172",
+            "Angina decubitus",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "spine pain",
+            "C0423673",
+            "Pain in spine",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "limited neck mobility",
+            "C1847392",
+            "Limitation of neck motion",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "neurological deficit",
+            "C0521654",
+            "Neurologic Deficits",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "unstable vital signs",
+            "C2188217",
+            "unstable vital signs",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "Hemorrhage Control (Protocol 4 - 14)": [
+        [
+            "blood loss",
+            "C3163616",
+            "Blood Loss",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "extensive bleeding",
+            "C0032776",
+            "Postmenopausal bleeding",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "bleeding",
+            "C0019080",
+            "Hemorrhage",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "pain",
+            "C0030193",
+            "Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "swelling",
+            "C0038999",
+            "Swelling",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "deformity",
+            "C0302142",
+            "Deformity",
+            [
+                "Anatomical Abnormality"
+            ]
+        ],
+        [
+            "lesions",
+            "C0221198",
+            "Lesion",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "respiratory distress",
+            "C0476273",
+            "Respiratory distress",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "respiratory failure",
+            "C1145670",
+            "Respiratory Failure",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "hypotension",
+            "C0020649",
+            "Hypotension",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "shock",
+            "C0036974",
+            "Shock",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "cardiac arrest",
+            "C0018790",
+            "Cardiac Arrest",
+            [
+                "Disease or Syndrome"
+            ]
+        ]
+    ],
+    "Environmental - Hypothermia (Protocol 5 - 1)": [
+        [
+            "hypothermia",
+            "C0020672",
+            "Hypothermia, natural",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "altered level of consciousness",
+            "C0751054",
+            "Consciousness, Level Altered",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "altered mental status",
+            "C2316693",
+            "Transient altered mental status",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "cold",
+            "C0009443",
+            "Common Cold",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "clammy",
+            "C0392162",
+            "Clammy skin",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "shivering",
+            "C0036973",
+            "Shivering",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "mental status changes",
+            "C0856054",
+            "Mental status changes",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "extremity pain",
+            "C0030196",
+            "Pain in limb",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "sensory abnormality",
+            "C5826949",
+            "Sensory behavioral abnormality",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "bradycardia",
+            "C0428977",
+            "Bradycardia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "hypotension",
+            "C0020649",
+            "Hypotension",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "shock",
+            "C0036974",
+            "Shock",
+            [
+                "Pathologic Function"
+            ]
+        ]
+    ],
+    "Environmental - Heat Exposure/Heat Exhaustion Environmental - Heat Stroke (Protocol 5 - 2)": [
+        [
+            "lack of acclimatization",
+            "C0546945",
+            "heating; lack of",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "fatigue",
+            "C0015672",
+            "Fatigue",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "lack of sleep",
+            "C2242870",
+            "lack of adequate sleep (history)",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "dehydration",
+            "C0011175",
+            "Dehydration",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "skin disorders",
+            "C0037274",
+            "Dermatologic disorders",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "changes in cognitive function",
+            "C1719074",
+            "Change in cognitive status",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "heat stress",
+            "C0282507",
+            "Heat Stress Disorders",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "time distortion",
+            "C0877848",
+            "Distorted hearing",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "memory impairment",
+            "C0233794",
+            "Memory impairment",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "deterioration in attention",
+            "C4061651",
+            "Alteration in attention",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "altered mental status",
+            "C2316693",
+            "Transient altered mental status",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "unconsciousness",
+            "C0041657",
+            "Unconscious State",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "hot skin",
+            "C3872913",
+            "Hot skin",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "dry skin",
+            "C0151908",
+            "Dry skin",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "sweaty skin",
+            "C0424558",
+            "Sweaty hands",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "pale skin",
+            "C0030232",
+            "Pallor",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "clammy skin",
+            "C0392162",
+            "Clammy skin",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "hypotension",
+            "C0020649",
+            "Hypotension",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "shock",
+            "C0036974",
+            "Shock",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "seizures",
+            "C0036572",
+            "Seizures",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "nausea",
+            "C0027497",
+            "Nausea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "weakness",
+            "C3714552",
+            "Weakness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "dizziness",
+            "C0012833",
+            "Dizziness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "syncope",
+            "C0039070",
+            "Syncope",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "rapid",
+            "C4264621",
+            "Rapid metabolizer",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "shallow respirations",
+            "C0221161",
+            "Shallow breathing",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "OB/GYN - Childbirth/Labor/Delivery (Protocol 6 - 2)": [
+        [
+            "progressive dilation of the uterine cervix",
+            "C5770242",
+            "Progressive shortening of uterine cervix",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "uterine contractions",
+            "C0567116",
+            "Finding of uterine contractions",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "complete dilation (10 cm)",
+            "C0742144",
+            "CERVICAL DILATATION CM",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "effacement (thinning) of the cervical lining",
+            "C2370824",
+            "cervical effacement (physical finding)",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "childbirth",
+            "C0581135",
+            "Birth of child",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "OB/GYN - Pre-term Labor (Pre-term Labor) (Protocol 6 - 12)": [
+        [
+            "pre-term labor",
+            "C1135273",
+            "Personal history of pre-term labor",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "rhythmic uterine contractions",
+            "C4717998",
+            "Rhythmic contractions",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "history of cervical dilation",
+            "C2110923",
+            "born following secondary arrest of cervical dilation",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "rupture of membranes",
+            "C0948106",
+            "Rupture of Membranes",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "passage of bloodstained mucous (mucous plug)",
+            "C5563324",
+            "Mucous plugging",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "Medical - Overdose/Poisoning - Opioid (Protocol 7 - 1)": [
+        [
+            "mental status changes",
+            "C0856054",
+            "Mental status changes",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "hypotension",
+            "C0020649",
+            "Hypotension",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "hypertension",
+            "C0020538",
+            "Hypertensive disease",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "hypothermia",
+            "C0020672",
+            "Hypothermia, natural",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "hyperthermia",
+            "C5232927",
+            "Hyperthermia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "decreased respiratory rate",
+            "C0231837",
+            "Slow respiration",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "tachycardia",
+            "C0039231",
+            "Tachycardia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "dysrhythmias",
+            "C0003811",
+            "Cardiac Arrhythmia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "seizures",
+            "C0036572",
+            "Seizures",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "Medical - Overdose/Poisoning - Stimulant (Protocol 7 - 2)": [
+        [
+            "hyperthermia",
+            "C5232927",
+            "Hyperthermia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "agitated delirium",
+            "C1848465",
+            "Agitated delirium",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "positional asphyxia",
+            "C0004044",
+            "Asphyxia",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "hypoxia",
+            "C0242184",
+            "Hypoxia",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "physical self-harm",
+            "C1387390",
+            "physical trauma; history, self-harm or suicide attempt",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "tachycardia",
+            "C0039231",
+            "Tachycardia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "mental status changes",
+            "C0856054",
+            "Mental status changes",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "hypertension",
+            "C0020538",
+            "Hypertensive disease",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "hyperthermia",
+            "C5232927",
+            "Hyperthermia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "tachypnea",
+            "C0231835",
+            "Tachypnea",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "tachycardia",
+            "C0039231",
+            "Tachycardia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "dysrhythmias",
+            "C0003811",
+            "Cardiac Arrhythmia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "seizures",
+            "C0036572",
+            "Seizures",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "Medical - Overdose/Poisoning - Calcium Channel Blocker (Protocol 7 - 5)": [
+        [
+            "hypotension",
+            "C0020649",
+            "Hypotension",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "brady-arrhythmias",
+            "C0428977",
+            "Bradycardia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "cardiac arrest",
+            "C0018790",
+            "Cardiac Arrest",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "arrhythmias",
+            "C0003811",
+            "Cardiac Arrhythmia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "shock",
+            "C0036974",
+            "Shock",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "delayed cardiac collapse",
+            "C5395268",
+            "Collapse due to cardiac arrest",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "bowel ischemia",
+            "C2004435",
+            "Vascular insufficiency of intestine",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "mental status changes",
+            "C0856054",
+            "Mental status changes",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "hypotension",
+            "C0020649",
+            "Hypotension",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "bradycardia",
+            "C0428977",
+            "Bradycardia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "dysrhythmia",
+            "C0003811",
+            "Cardiac Arrhythmia",
+            [
+                "Disease or Syndrome"
+            ]
+        ]
+    ],
+    "General - Cardiac Arrest (Protocol 8 - 2)": [
+        [
+            "pulseless arrest",
+            "C3842066",
+            "Cardiac arrest- pulseless electrical activity",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "unresponsive",
+            "C0237284",
+            "unresponsive behavior",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "apneic",
+            "C0003578",
+            "Apnea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "pulseless",
+            "C0277899",
+            "Absent pulse",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "ventricular fibrillation",
+            "C0042510",
+            "Ventricular Fibrillation",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "pulseless ventricular tachycardia on ecg",
+            "C0750196",
+            "Pulseless ventricular tachycardia",
+            [
+                "Disease or Syndrome"
+            ]
+        ]
+    ],
+    "Medical - Allergic Reaction/Anaphylaxis (Protocol 9 - 2)": [
+        [
+            "anaphylaxis",
+            "C0002792",
+            "anaphylaxis",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "airway obstruction",
+            "C0001883",
+            "Airway Obstruction",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "asthma",
+            "C0004096",
+            "Asthma",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "cyanosis",
+            "C0010520",
+            "Cyanosis",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "respiratory arrest",
+            "C0162297",
+            "Respiratory arrest",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "swelling",
+            "C0038999",
+            "Swelling",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "airway compromise",
+            "C4055482",
+            "Airway compromise",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "hypotension",
+            "C0020649",
+            "Hypotension",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "itching",
+            "C0033774",
+            "Pruritus",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "hives",
+            "C0042109",
+            "Urticaria",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "coughing",
+            "C0010200",
+            "Coughing",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "wheezing",
+            "C0043144",
+            "Wheezing",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "respiratory distress",
+            "C0476273",
+            "Respiratory distress",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "chest constriction",
+            "C0232292",
+            "Chest tightness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "throat constriction",
+            "C0236071",
+            "Constriction in throat",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "difficulty swallowing",
+            "C0011168",
+            "Deglutition Disorders",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "hypotension",
+            "C0020649",
+            "Hypotension",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "shock",
+            "C0036974",
+            "Shock",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "edema",
+            "C0013604",
+            "Edema",
+            [
+                "Pathologic Function"
+            ]
+        ]
+    ],
+    "General - Pain Control (Protocol 9 - 8)": [
+        [
+            "pain",
+            "C0030193",
+            "Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "suffering",
+            "C0683278",
+            "Mental Suffering",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "severity",
+            "C1292730",
+            "Condition severity",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "sharp",
+            "C1444775",
+            "Sharp sensation quality",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "dull",
+            "C0278144",
+            "Dull pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "radiation",
+            "C0034561",
+            "Radiation-Induced Dermatitis",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "relation to movement",
+            "C1286639",
+            "Finding related to ability to imitate tongue movements",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "respiration",
+            "C0035204",
+            "Respiration Disorders",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "increased with palpation of area",
+            "C0577950",
+            "Increased area of cardiac dullness",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "Medical - Overdose/Poisoning/Toxic Ingestion (Protocol 9 - 9)": [
+        [
+            "depressed mental status",
+            "C0011570",
+            "Mental Depression",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "cardiovascular compromise",
+            "C2945640",
+            "compromise",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "mental status changes",
+            "C0856054",
+            "Mental status changes",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "hypotension",
+            "C0020649",
+            "Hypotension",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "hypertension",
+            "C0020538",
+            "Hypertensive disease",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "hypothermia",
+            "C0020672",
+            "Hypothermia, natural",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "hyperthermia",
+            "C5232927",
+            "Hyperthermia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "decreased respiratory rate",
+            "C0231837",
+            "Slow respiration",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "tachycardia",
+            "C0039231",
+            "Tachycardia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "dysrhythmias",
+            "C0003811",
+            "Cardiac Arrhythmia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "seizures",
+            "C0036572",
+            "Seizures",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "Medical - Respiratory Distress/Asthma/COPD/Croup/Reactive Airway (Respiratory Distress - Croup/Epiglottits) (Protocol 9 - 11)": [
+        [
+            "croup",
+            "C0010380",
+            "Croup",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "swelling",
+            "C0038999",
+            "Swelling",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "wheezing",
+            "C0043144",
+            "Wheezing",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "stridor",
+            "C0038450",
+            "Stridor",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "hoarseness",
+            "C0019825",
+            "Hoarseness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "epiglottitis",
+            "C0014541",
+            "Epiglottitis",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "cold-like symptoms",
+            "C0863093",
+            "Cold symptoms",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "respiratory retractions",
+            "C0425470",
+            "Intercostal Retractions",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "see-saw respirations",
+            "C4068866",
+            "See-saw",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "diaphoresis",
+            "C0700590",
+            "Increased sweating",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "tripod position",
+            "C3875386",
+            "Tripod position",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "increased heart rate",
+            "C0039231",
+            "Tachycardia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "altered loc",
+            "C0751054",
+            "Consciousness, Level Altered",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "anxious appearance",
+            "C1718317",
+            "Sad, apethetic, anxious appearance",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "Medical - Seizure (Protocol 9 - 12)": [
+        [
+            "lethargy",
+            "C0023380",
+            "Lethargy",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "confusion",
+            "C0009676",
+            "Confusion",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "decreased mental status",
+            "C0746541",
+            "MENTAL STATUS ALTERED RESPONSIVENESS DECREASED",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "sleepiness",
+            "C0013144",
+            "Drowsiness",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "incontinence",
+            "C0021167",
+            "Incontinence",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "seizure",
+            "C0036572",
+            "Seizures",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "trauma",
+            "C3714660",
+            "Trauma",
+            [
+                "Injury or Poisoning"
+            ]
+        ]
+    ],
+    "Medical - Altered Mental Status (Protocol 9 - 14)": [
+        [
+            "unconscious",
+            "C0041657",
+            "Unconscious State",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "altered level of consciousness",
+            "C0751054",
+            "Consciousness, Level Altered",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "syncope",
+            "C0039070",
+            "Syncope",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "loss of consciousness with recovery",
+            "C0160124",
+            "Concussion with prolonged loss of consciousness and return to pre-existing conscious level",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "lightheadedness",
+            "C0220870",
+            "Lightheadedness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "dizziness",
+            "C0012833",
+            "Dizziness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "palpitations",
+            "C0030252",
+            "Palpitations",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "slow pulse",
+            "C2230138",
+            "Pulse slow (finding)",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "rapid pulse",
+            "C0039231",
+            "Tachycardia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "pulse irregularity",
+            "C0392684",
+            "Pulse irregular",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "decreased blood pressure",
+            "C0020649",
+            "Hypotension",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "Injury - Burns - Thermal (Protocol 10 - 2)": [
+        [
+            "reddening",
+            "C2052800",
+            "penile reddening",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "blistering",
+            "C0344311",
+            "Blistering eruption",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "deep reddening",
+            "C2052800",
+            "penile reddening",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "charred",
+            "C1868570",
+            "CHAR SYNDROME",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "black",
+            "C0153249",
+            "Black piedra",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "white",
+            "C0040249",
+            "White Piedra",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "leathery",
+            "C3670755",
+            "Skin leathery",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "pain",
+            "C0030193",
+            "Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "scald injuries",
+            "C0332691",
+            "Scalding injury",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "flame injuries",
+            "C0418724",
+            "Injury due to flame-thrower",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "burn injury",
+            "C0006434",
+            "Burn injury",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "burn injuries",
+            "C0006434",
+            "Burn injury",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "burns",
+            "C0006434",
+            "Burn injury",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "pain",
+            "C0030193",
+            "Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "swelling",
+            "C0038999",
+            "Swelling",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "dizziness",
+            "C0012833",
+            "Dizziness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "loss of consciousness",
+            "C0041657",
+            "Unconscious State",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "hypotension",
+            "C0020649",
+            "Hypotension",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "shock",
+            "C0036974",
+            "Shock",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "airway compromise",
+            "C4055482",
+            "Airway compromise",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "airway distress",
+            "C3842014",
+            "Medical-respiratory distress/asthma/COPD/reactive airway disease",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "singed facial hair",
+            "C4324678",
+            "Singed hair",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "singed nasal hair",
+            "C2225567",
+            "singed nasal hairs",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "hoarseness",
+            "C0019825",
+            "Hoarseness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "wheezing",
+            "C0043144",
+            "Wheezing",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "Injury - Head (Protocol 10 - 4)": [
+        [
+            "brain injury",
+            "C0270611",
+            "Brain Injuries",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "scalp injury",
+            "C0581310",
+            "Scalp injury",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "skull fracture",
+            "C0037304",
+            "Skull Fractures",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "brain tissue injury",
+            "C0270611",
+            "Brain Injuries",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "diffuse injury",
+            "C0752219",
+            "Diffuse Axonal Injury",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "neurologic changes",
+            "C0542115",
+            "Neurologic changes",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "headache",
+            "C0018681",
+            "Headache",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "coma",
+            "C0009421",
+            "Comatose",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "hypoxia",
+            "C0242184",
+            "Hypoxia",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "hypotension",
+            "C0020649",
+            "Hypotension",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "hypercarbia",
+            "C0020440",
+            "Hypercapnia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "acidosis",
+            "C0001122",
+            "Acidosis",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "increasing intracranial pressure",
+            "C0151740",
+            "Intracranial Hypertension",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "pain",
+            "C0030193",
+            "Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "swelling",
+            "C0038999",
+            "Swelling",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "bleeding",
+            "C0019080",
+            "Hemorrhage",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "altered mental status",
+            "C2316693",
+            "Transient altered mental status",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "unconsciousness",
+            "C0041657",
+            "Unconscious State",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "respiratory distress",
+            "C0476273",
+            "Respiratory distress",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "failure",
+            "C0018801",
+            "Heart failure",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "vomiting",
+            "C0042963",
+            "Vomiting",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "seizure",
+            "C0036572",
+            "Seizures",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "major traumatic mechanism of injury",
+            "C0332677",
+            "major injury",
+            [
+                "Injury or Poisoning"
+            ]
+        ]
+    ]
+}

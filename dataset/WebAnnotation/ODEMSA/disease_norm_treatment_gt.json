@@ -1,0 +1,2833 @@
+{
+    "Medical - Chest Pain - Cardiac Suspected (Protocol 2 - 1)": [
+        [
+            "CPR",
+            "C0007203",
+            "Cardiopulmonary Resuscitation",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "defibrillation",
+            "C0013778",
+            "Electric Countershock",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "cardiac monitor",
+            "C0150496",
+            "Cardiac monitoring",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "12 lead ECG",
+            "C4055630",
+            "12 Lead Continuous ECG",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "ALS",
+            "C4045816",
+            "ALS-008176",
+            [
+                "Organic Chemical"
+            ]
+        ],
+        [
+            "ASPIRIN",
+            "C0004057",
+            "aspirin",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "normal saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "MIDAZOLAM",
+            "C0026056",
+            "midazolam",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "DIAZEPAM",
+            "C0012010",
+            "diazepam",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "NITROGLYCERIN",
+            "C0017887",
+            "nitroglycerin",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "PRESCRIBED NITROGLYCERIN",
+            "C0017887",
+            "nitroglycerin",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "nitroglycerin paste",
+            "C0017887",
+            "nitroglycerin",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "FENTANYL",
+            "C0015846",
+            "fentanyl",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "MORPHINE",
+            "C0026549",
+            "morphine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ]
+    ],
+    "Medical - ST Elevation Myocardial Infarction (ACS/AMI) (Protocol 2 - 2)": [
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "normal saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "12 lead ECG",
+            "C4055630",
+            "12 Lead Continuous ECG",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "cardiac monitor",
+            "C0150496",
+            "Cardiac monitoring",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "ASA",
+            "C0004057",
+            "aspirin",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "NITROGLYCERIN",
+            "C0017887",
+            "nitroglycerin",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ]
+    ],
+    "Medical - Pulmonary Edema/CHF (Protocol 2 - 3)": [
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "CPAP",
+            "C0199451",
+            "Continuous Positive Airway Pressure",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "endotracheal intubation",
+            "C0021932",
+            "Intubation, Intratracheal",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "pulse oximetry",
+            "C0034108",
+            "Oximetry, Pulse",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "normal saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "12 lead ECG",
+            "C4055630",
+            "12 Lead Continuous ECG",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "NITROGLYCERIN",
+            "C0017887",
+            "nitroglycerin",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "LASIX",
+            "C0699992",
+            "Lasix",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "ALBUTEROL",
+            "C0001927",
+            "albuterol",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "ATROVENT",
+            "C0591130",
+            "Atrovent",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "FENTANYL",
+            "C0015846",
+            "fentanyl",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ]
+    ],
+    "Medical - Supraventricular Tachycardia (including atrial fibrillation) Medical - Tachycardia Medical - Ventricular Tachycardia with a Pulse (Protocol 2 - 8)": [],
+    "Medical - Bradycardia (Protocol 2 - 9)": [],
+    "Medical - Abdominal Pain (Protocol 3 - 2)": [
+        [
+            "pulse oximetry",
+            "C0034108",
+            "Oximetry, Pulse",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "Oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "cardiac monitor",
+            "C0150496",
+            "Cardiac monitoring",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "distraction",
+            "C1369038",
+            "Distraction (procedure)",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "breathing techniques",
+            "C0237085",
+            "relaxation/breathing techniques",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Normal Saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "12-Lead ECG",
+            "C4055630",
+            "12 Lead Continuous ECG",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "ONDANSETRON",
+            "C0061851",
+            "ondansetron",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "orally dissolving tablet",
+            "C4271151",
+            "meclizine hydrochloride 25 MG Disintegrating Oral Tablet [Wal-Dram 2]",
+            [
+                "Clinical Drug"
+            ]
+        ]
+    ],
+    "Medical - Allergic Reaction/Anaphylaxis (Protocol 3 - 3)": [
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "autoinjector",
+            "C4058553",
+            "Repatha Autoinjector",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "epinephrine",
+            "C0014563",
+            "epinephrine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Hormone"
+            ]
+        ],
+        [
+            "DIPHENHYDRAMINE",
+            "C0012522",
+            "diphenhydramine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "normal saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ]
+    ],
+    "General - Behavioral/Patient Restraint (Protocol 3 - 4)": [
+        [
+            "Request police",
+            null,
+            null,
+            null
+        ],
+        [
+            "Patient management",
+            null,
+            null,
+            null
+        ],
+        [
+            "Oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "Glucose determination",
+            "C0373620",
+            "blood glucose determination by reagent strip (lab test)",
+            [
+                "Laboratory Procedure"
+            ]
+        ],
+        [
+            "Physically restrain",
+            "C0515125",
+            "Provide sufficient staff to assist with safe application of physical restraining devices or manual restraints",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Chemical Restraint",
+            "C1320374",
+            "Chemical restraint (procedure)",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "MIDAZOLAM",
+            "C0026056",
+            "midazolam",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "DIAZEPAM",
+            "C0012010",
+            "diazepam",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "GEODON",
+            "C0939698",
+            "Geodon",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Haldol",
+            "C0591585",
+            "Haldol",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ]
+    ],
+    "Medical - Stroke/TIA (Protocol 3 - 5)": [
+        [
+            "Oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "BVM",
+            "C0279260",
+            "Bleomycin/Methotrexate/Vinblastine",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Cincinnati or FAST stroke evaluation",
+            "C0297089",
+            "hemoglobin F-Cincinnati",
+            [
+                "Amino Acid, Peptide, or Protein"
+            ]
+        ],
+        [
+            "VAN",
+            "C4724734",
+            "TNFAIP3-Interacting Protein 1",
+            [
+                "Amino Acid, Peptide, or Protein"
+            ]
+        ],
+        [
+            "glucose determination",
+            "C0373620",
+            "blood glucose determination by reagent strip (lab test)",
+            [
+                "Laboratory Procedure"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "normal saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "Cardiac monitor",
+            "C0150496",
+            "Cardiac monitoring",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "12 lead ECG",
+            "C4055630",
+            "12 Lead Continuous ECG",
+            [
+                "Diagnostic Procedure"
+            ]
+        ]
+    ],
+    "Medical - Diabetic - Hyperglycemia (Protocol 3 - 7)": [
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "normal saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "cardiac monitor",
+            "C0150496",
+            "Cardiac monitoring",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "12 lead ECG",
+            "C4055630",
+            "12 Lead Continuous ECG",
+            [
+                "Diagnostic Procedure"
+            ]
+        ]
+    ],
+    "Medical - Diabetic - Hypoglycemia (Protocol 3 - 8)": [
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "Oral Glucose",
+            "C1955477",
+            "Glucose (oral)",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Biologically Active Substance"
+            ]
+        ],
+        [
+            "Glucagon",
+            "C0017687",
+            "glucagon",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance",
+                "Hormone"
+            ]
+        ],
+        [
+            "DEXTROSE",
+            "C2034479",
+            "intravenous infusion of intravenous dextrose",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "Medical - Nausea/Vomiting (Protocol 3 - 9)": [
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "normal saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "ONDANSETRON",
+            "C0061851",
+            "ondansetron",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ]
+    ],
+    "General - Pain Control (Protocol 3 - 10)": [
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "non-opioid treatment",
+            "C5560051",
+            "opioid treatment program",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Nitronox",
+            "C0132582",
+            "Nitronox",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "Acetaminophen",
+            "C0000970",
+            "acetaminophen",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Nonsteroidal",
+            "C1320169",
+            "Nonsteroidal Anti-Androgens",
+            [
+                "Organic Chemical"
+            ]
+        ],
+        [
+            "ibuprofen",
+            "C0020740",
+            "ibuprofen",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "TORADOL",
+            "C0146226",
+            "Toradol",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "normal saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "fentanyl",
+            "C0015846",
+            "fentanyl",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "morphine sulfate",
+            "C0066814",
+            "morphine sulfate",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Ondansetron",
+            "C0061851",
+            "ondansetron",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ]
+    ],
+    "Medical - Respiratory Distress/Asthma/COPD/Croup/Reactive Airway (Respiratory Distress) (Protocol 3 - 11)": [
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "BVM",
+            "C0279260",
+            "Bleomycin/Methotrexate/Vinblastine",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "BRONCHODILATOR METERED DOSE INHALER",
+            "C0418991",
+            "Metered dose inhaler (procedure)",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "BVM ventilation",
+            "C0279260",
+            "Bleomycin/Methotrexate/Vinblastine",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "ENDOTRACHEAL TUBE",
+            "C0455258",
+            "Endotracheal tube suction",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "ALBUTEROL",
+            "C0001927",
+            "albuterol",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "IPRATOPRIUM",
+            null,
+            null,
+            null
+        ],
+        [
+            "DEXAMETHASONE",
+            "C0011777",
+            "dexamethasone",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "CPAP",
+            "C0199451",
+            "Continuous Positive Airway Pressure",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "MAGNESIUM SULFATE",
+            "C0024480",
+            "magnesium sulfate",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "EPINEPHRINE",
+            "C0014563",
+            "epinephrine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Hormone"
+            ]
+        ]
+    ],
+    "Medical - Seizure (Protocol 3 - 12)": [
+        [
+            "Suction the oro/nasopharynx",
+            "C0548067",
+            "Nasopharyngeal suction",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "nasopharyngeal airway",
+            "C0178093",
+            "Nasopharyngeal airway insertion",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "BVM",
+            "C0279260",
+            "Bleomycin/Methotrexate/Vinblastine",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "glucose determination",
+            "C0373620",
+            "blood glucose determination by reagent strip (lab test)",
+            [
+                "Laboratory Procedure"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "normal saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "MIDAZOLAM",
+            "C0026056",
+            "midazolam",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "DIAZEPAM",
+            "C0012010",
+            "diazepam",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "cardiac monitor",
+            "C0150496",
+            "Cardiac monitoring",
+            [
+                "Diagnostic Procedure"
+            ]
+        ]
+    ],
+    "Medical - Hypotension/Shock (Nontrauma) (Protocol 3 - 13)": [
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "BVM",
+            "C0279260",
+            "Bleomycin/Methotrexate/Vinblastine",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "tourniquet",
+            "C0412803",
+            "Tourniquet release",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "IO",
+            "C5418098",
+            "IO-202",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance",
+                "Immunologic Factor"
+            ]
+        ],
+        [
+            "Normal Saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "bolus",
+            "C1511237",
+            "bolus infusion",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Norepinephrine",
+            "C0028351",
+            "norepinephrine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Hormone"
+            ]
+        ],
+        [
+            "Dopamine",
+            "C0013030",
+            "dopamine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Biologically Active Substance"
+            ]
+        ]
+    ],
+    "Medical - Altered Mental Status (Protocol 3 - 15)": [
+        [
+            "supine position",
+            "C2094324",
+            "nursing care: patient positioning maintain supine position",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "glucose check",
+            null,
+            null,
+            null
+        ],
+        [
+            "cardiac monitor",
+            "C0150496",
+            "Cardiac monitoring",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "12 lead ECG",
+            "C4055630",
+            "12 Lead Continuous ECG",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Normal Saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ]
+    ],
+    "Airway - Failed (Protocol 3 - 16)": [
+        [
+            "Oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "head-tilt-chin-lift",
+            "C0396611",
+            "Chin lift",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "jaw thrust",
+            "C0396612",
+            "Jaw thrust",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "oral or nasal airway adjuncts",
+            "C0430613",
+            "Nasal airway assessment",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "two man bag-valve-mask",
+            "C1960998",
+            "Respiratory assist, manual, using bag-valve-mask",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "intubation",
+            "C0021925",
+            "Intubation (procedure)",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "alternative airway",
+            null,
+            null,
+            null
+        ],
+        [
+            "medication facilitated intubation",
+            "C0857231",
+            "To facilitate intubation",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "surgical airway",
+            "C2940805",
+            "Medical and Surgical @ Respiratory System @ Insertion @ Trachea @ Percutaneous @ Intraluminal Device, Endotracheal Airway",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Needle Cricothyrotomy",
+            "C0396429",
+            "Cricothyroidotomy",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "Injury - Abdominal Trauma (Abdominal Trauma) (Protocol 4 - 2)": [
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "BVM",
+            "C0279260",
+            "Bleomycin/Methotrexate/Vinblastine",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "C-spine precautions",
+            "C2112994",
+            "physical therapy precautions cervical spine collar or brace to be worn out of bed",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "normal saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "Pain Control",
+            "C1304888",
+            "Pain control",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "ONDANSETRON",
+            "C0061851",
+            "ondansetron",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Nausea/Vomiting protocol",
+            null,
+            null,
+            null
+        ]
+    ],
+    "Injury - Burns - Thermal (Protocol 4 - 3)": [
+        [
+            "sterile water",
+            "C0359299",
+            "sterile water",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "saline",
+            "C0036082",
+            "Saline Solution",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "Tepid water",
+            "C2057480",
+            "tepid water bath (75-90f)",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "sterile",
+            "C0359299",
+            "sterile water",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "Oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "Orotracheal intubation",
+            "C0396621",
+            "Orotracheal intubation",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "NS",
+            "C1664222",
+            "NS-187",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Wet dressing",
+            "C0307410",
+            "Prophyllin Wet Dressing Ointment",
+            [
+                "Clinical Drug"
+            ]
+        ]
+    ],
+    "Injury - Crush Syndrome (Protocol 4 - 4)": [
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "BVM",
+            "C0279260",
+            "Bleomycin/Methotrexate/Vinblastine",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "bolus",
+            "C1511237",
+            "bolus infusion",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "tourniquet",
+            "C0412803",
+            "Tourniquet release",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "12 lead ECG",
+            "C4055630",
+            "12 Lead Continuous ECG",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "FENTANYL",
+            "C0015846",
+            "fentanyl",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "MORPHINE",
+            "C0026549",
+            "morphine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "normal saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "SODIUM BICARBONATE",
+            "C0074722",
+            "sodium bicarbonate",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "ALBUTEROL",
+            "C0001927",
+            "albuterol",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "CALCIUM CHLORIDE",
+            "C0006686",
+            "calcium chloride",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ]
+    ],
+    "Injury - Head (Protocol 4 - 6)": [
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "BVM",
+            "C0279260",
+            "Bleomycin/Methotrexate/Vinblastine",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "capnography",
+            "C0376529",
+            "Capnography",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "cardiac monitor",
+            "C0150496",
+            "Cardiac monitoring",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "normal saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ]
+    ],
+    "Injury - Thoracic (Protocol 4 - 11)": [
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "BVM",
+            "C0279260",
+            "Bleomycin/Methotrexate/Vinblastine",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "C-spine precautions",
+            "C2112994",
+            "physical therapy precautions cervical spine collar or brace to be worn out of bed",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "needle decompression",
+            "C2957460",
+            "needle decompression of thorax",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "normal saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "cardiac monitor",
+            "C0150496",
+            "Cardiac monitoring",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "pain management",
+            "C0002766",
+            "Pain management",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "Spinal Motion Restriction (Protocol 4 - 13)": [
+        [
+            "Cervical spinal motion restriction",
+            null,
+            null,
+            null
+        ],
+        [
+            "SMR",
+            "C0084575",
+            "SMR 2",
+            [
+                "Organic Chemical"
+            ]
+        ],
+        [
+            "Backboards",
+            null,
+            null,
+            null
+        ]
+    ],
+    "Hemorrhage Control (Protocol 4 - 14)": [
+        [
+            "PPE",
+            "C1518843",
+            "Paclitaxel PPE Microspheres",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "BVM",
+            "C0279260",
+            "Bleomycin/Methotrexate/Vinblastine",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "direct pressure",
+            "C4518815",
+            "Direct left atrial pressure monitoring",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "digital pressure",
+            null,
+            null,
+            null
+        ],
+        [
+            "bandage",
+            null,
+            null,
+            null
+        ],
+        [
+            "TOURNIQUET",
+            "C0412803",
+            "Tourniquet release",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "hemostatic gauze",
+            "C0019120",
+            "Hemostatic Agents",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "packing",
+            "C0184967",
+            "Insertion of pack (procedure)",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "Environmental - Hypothermia (Protocol 5 - 1)": [
+        [
+            "passive rewarming",
+            "C0206156",
+            "Rewarming",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "warmed blankets",
+            "C2223820",
+            "warming blanket (treatment)",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "CPR",
+            "C0007203",
+            "Cardiopulmonary Resuscitation",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "AED",
+            "C1120172",
+            "Aed a 1 allergen",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Immunologic Factor"
+            ]
+        ],
+        [
+            "cardiac monitor",
+            "C0150496",
+            "Cardiac monitoring",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "defibrillation",
+            "C0013778",
+            "Electric Countershock",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "definitive (Supraglottic/dual lumen) airway device",
+            "C4081679",
+            "Insertion of single lumen supraglottic airway device",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "endotracheal tube",
+            "C0455258",
+            "Endotracheal tube suction",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Normal Saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "cardiovascular drugs",
+            "C0007220",
+            "Cardiovascular Agents",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "drug therapy",
+            "C0013216",
+            "Pharmacotherapy",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "Environmental - Heat Exposure/Heat Exhaustion Environmental - Heat Stroke (Protocol 5 - 2)": [
+        [
+            "cool environment",
+            "C1455171",
+            "Cool-X-A",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance"
+            ]
+        ],
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "BVM",
+            "C0279260",
+            "Bleomycin/Methotrexate/Vinblastine",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "PO fluids",
+            "C2051592",
+            "patient receiving / eligible to receive foods/fluids/meds PO",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Normal Saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "cardiac monitor",
+            "C0150496",
+            "Cardiac monitoring",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "lukewarm water",
+            "C0455117",
+            "Washing stoma with clean lukewarm water",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "fan",
+            "C0003243",
+            "Antibodies, Antinuclear",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Immunologic Factor"
+            ]
+        ],
+        [
+            "misting",
+            "C0723238",
+            "Sea Mist",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "fanning",
+            "C0003243",
+            "Antibodies, Antinuclear",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Immunologic Factor"
+            ]
+        ],
+        [
+            "wet sheets",
+            "C0440218",
+            "Silastic - sheeting",
+            [
+                "Organic Chemical",
+                "Biomedical or Dental Material"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "IO",
+            "C5418098",
+            "IO-202",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance",
+                "Immunologic Factor"
+            ]
+        ],
+        [
+            "12 lead ECG",
+            "C4055630",
+            "12 Lead Continuous ECG",
+            [
+                "Diagnostic Procedure"
+            ]
+        ]
+    ],
+    "OB/GYN - Childbirth/Labor/Delivery (Protocol 6 - 2)": [
+        [
+            "Oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Normal Saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "Infection control precautions",
+            "C0547607",
+            "Maintain appropriate infection-control precautions.",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Elevate buttocks",
+            "C0439775",
+            "Elevation procedure",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Sterile field",
+            "C4537811",
+            "initiation and monitoring of donor lung organ perfusion system prior to implantation, each additional hour in sterile field",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Wrap placenta",
+            null,
+            null,
+            null
+        ],
+        [
+            "Place sterile pad",
+            null,
+            null,
+            null
+        ]
+    ],
+    "OB/GYN - Pre-term Labor (Pre-term Labor) (Protocol 6 - 12)": [
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "left lateral recumbent position",
+            null,
+            null,
+            null
+        ],
+        [
+            "delivery",
+            "C0011209",
+            "Obstetric Delivery",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Normal Saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ]
+    ],
+    "Medical - Overdose/Poisoning - Opioid (Protocol 7 - 1)": [
+        [
+            "Oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Normal Saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "NARCAN INTRANASAL",
+            "C0684237",
+            "Narcan",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "NARCAN",
+            "C0684237",
+            "Narcan",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ]
+    ],
+    "Medical - Overdose/Poisoning - Stimulant (Protocol 7 - 2)": [
+        [
+            "Oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "Suction oropharynx",
+            "C0515918",
+            "Suction the oropharynx after completion of tracheal suctioning",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Normal Saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "MIDAZOLAM",
+            "C0026056",
+            "midazolam",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "DIAZEPAM",
+            "C0012010",
+            "diazepam",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "12 lead ECG",
+            "C4055630",
+            "12 Lead Continuous ECG",
+            [
+                "Diagnostic Procedure"
+            ]
+        ]
+    ],
+    "Medical - Overdose/Poisoning - Calcium Channel Blocker (Protocol 7 - 5)": [
+        [
+            "Oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Normal Saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "Bolus",
+            "C1511237",
+            "bolus infusion",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "CALCIUM CHLORIDE",
+            "C0006686",
+            "calcium chloride",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "GLUCAGON",
+            "C0017687",
+            "glucagon",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance",
+                "Hormone"
+            ]
+        ],
+        [
+            "LEVOPHED",
+            "C0733815",
+            "Levophed",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ]
+    ],
+    "General - Cardiac Arrest (Protocol 8 - 2)": [
+        [
+            "Defibrillation",
+            "C0013778",
+            "Electric Countershock",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Epinephrine",
+            "C0014563",
+            "epinephrine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Hormone"
+            ]
+        ],
+        [
+            "Amiodarone",
+            "C0002598",
+            "amiodarone",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Magnesium Sulfate",
+            "C0024480",
+            "magnesium sulfate",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ]
+    ],
+    "Medical - Allergic Reaction/Anaphylaxis (Protocol 9 - 2)": [
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "DIPHENHYDRAMINE",
+            "C0012522",
+            "diphenhydramine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "epinephrine",
+            "C0014563",
+            "epinephrine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Hormone"
+            ]
+        ],
+        [
+            "normal saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ]
+    ],
+    "General - Pain Control (Protocol 9 - 8)": [
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "normal saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "non-opioid treatment",
+            "C5560051",
+            "opioid treatment program",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Nitronox",
+            "C0132582",
+            "Nitronox",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "Acetaminophen",
+            "C0000970",
+            "acetaminophen",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Nonsteroidal",
+            "C1320169",
+            "Nonsteroidal Anti-Androgens",
+            [
+                "Organic Chemical"
+            ]
+        ],
+        [
+            "ibuprofen",
+            "C0020740",
+            "ibuprofen",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "TORADOL",
+            "C0146226",
+            "Toradol",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "FENTANYL",
+            "C0015846",
+            "fentanyl",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "KETAMINE",
+            "C0022614",
+            "ketamine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "MORPHINE SULFATE",
+            "C0066814",
+            "morphine sulfate",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ]
+    ],
+    "Medical - Overdose/Poisoning/Toxic Ingestion (Protocol 9 - 9)": [
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "normal saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "NARCAN INTRANASAL",
+            "C0684237",
+            "Narcan",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "NARCAN",
+            "C0684237",
+            "Narcan",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ]
+    ],
+    "Medical - Respiratory Distress/Asthma/COPD/Croup/Reactive Airway (Respiratory Distress - Croup/Epiglottits) (Protocol 9 - 11)": [
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "BVM",
+            "C0279260",
+            "Bleomycin/Methotrexate/Vinblastine",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Dexmethasone",
+            "C0373502",
+            "Dexamethasone suppression panel, 48 hour This panel must include the following: Free cortisol, urine (82530 x 2) Cortisol (82533 x 2) Volume measurement for timed collection (81050 x 2)",
+            [
+                "Laboratory Procedure"
+            ]
+        ],
+        [
+            "RACEMIC EPINEPHRINE",
+            "C0205758",
+            "racepinephrine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Normal Saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "12 lead ECG",
+            "C4055630",
+            "12 Lead Continuous ECG",
+            [
+                "Diagnostic Procedure"
+            ]
+        ]
+    ],
+    "Medical - Seizure (Protocol 9 - 12)": [
+        [
+            "Suction the oro- and nasopharynx",
+            "C0548067",
+            "Nasopharyngeal suction",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "nasopharyngeal airway",
+            "C0178093",
+            "Nasopharyngeal airway insertion",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "BVM",
+            "C0279260",
+            "Bleomycin/Methotrexate/Vinblastine",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "MIDAZOLAM",
+            "C0026056",
+            "midazolam",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "DIAZEPAM",
+            "C0012010",
+            "diazepam",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "glucose",
+            "C0017725",
+            "glucose",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Biologically Active Substance"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "normal saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "cardiac monitor",
+            "C0150496",
+            "Cardiac monitoring",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "recovery position",
+            "C2919251",
+            "Positioning subject in recovery position",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "Medical - Altered Mental Status (Protocol 9 - 14)": [
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "NARCAN INTRANASAL",
+            "C0684237",
+            "Narcan",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Normal Saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ]
+    ],
+    "Injury - Burns - Thermal (Protocol 10 - 2)": [
+        [
+            "sterile water",
+            "C0359299",
+            "sterile water",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "saline",
+            "C0036082",
+            "Saline Solution",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "tepid water",
+            "C2057480",
+            "tepid water bath (75-90f)",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "Endotracheal Intubation",
+            "C0021932",
+            "Intubation, Intratracheal",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Cricothyrotomy",
+            "C0396429",
+            "Cricothyroidotomy",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Wet dressing",
+            "C0307410",
+            "Prophyllin Wet Dressing Ointment",
+            [
+                "Clinical Drug"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Pain control",
+            "C1304888",
+            "Pain control",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "Injury - Head (Protocol 10 - 4)": [
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "BVM",
+            "C0279260",
+            "Bleomycin/Methotrexate/Vinblastine",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "capnography",
+            "C0376529",
+            "Capnography",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "spinal precautions",
+            "C0150145",
+            "Bleeding precautions",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "PMS",
+            "C0242506",
+            "Fluorescence Spectroscopy",
+            [
+                "Laboratory Procedure"
+            ]
+        ],
+        [
+            "cardiac monitor",
+            "C0150496",
+            "Cardiac monitoring",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "IV",
+            "C0021440",
+            "Intravenous infusion procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "normal saline",
+            "C0445115",
+            "Normal saline",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "",
+            null,
+            null,
+            null
+        ]
+    ]
+}

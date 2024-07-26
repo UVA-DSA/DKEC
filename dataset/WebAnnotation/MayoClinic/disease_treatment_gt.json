@@ -1,0 +1,514 @@
+{
+    "008.45: Clostridioides difficile infection": [
+        "Antibiotics",
+        "Vancomycin",
+        "Fidaxomicin",
+        "Metronidazole",
+        "Surgery",
+        "Antibiotic therapy",
+        "Antibody-based therapy",
+        "bezlotoxumab",
+        "Fecal microbiota transplant"
+    ],
+    "238.4: Polycythemia vera": [
+        "Blood withdrawals",
+        "phlebotomy",
+        "Antihistamines",
+        "Ultraviolet light treatment",
+        "Selective serotonin reuptake inhibitors",
+        "paroxetine",
+        "fluoxetine",
+        "Hydroxyruea",
+        "Interferon alfa-2b",
+        "Ruxolitinib",
+        "Busulfan",
+        "heart medications",
+        "aspirin"
+    ],
+    "276.51: Dehydration": [
+        "replace lost fluids and lost electrolytes",
+        "Oral rehydration solution",
+        "water",
+        "salts",
+        "syringe",
+        "diluted sports drinks",
+        "cool water",
+        "Sports drinks containing electrolytes and a carbohydrate solution",
+        "Salts and fluids delivered through a vein (intravenously)"
+    ],
+    "277.39: Amyloidosis": [
+        "Chemotherapy",
+        "cancer drugs",
+        "Heart medications",
+        "Blood thinners",
+        "drugs that increase urination",
+        "patisiran",
+        "inotersen",
+        "tafamidis",
+        "diflunisal",
+        "Autologous blood stem cell transplant",
+        "Dialysis",
+        "Organ transplant",
+        "Bone marrow transplant",
+        "Liver transplant"
+    ],
+    "285.21: Chronic kidney disease": [
+        "Kidney transplant",
+        "Dialysis",
+        "Hemodialysis",
+        "Peritoneal dialysis",
+        "High Blood pressure medications",
+        "Angiotensin-converting enzyme (ACE) inhibitors",
+        "Angiotensin II receptor blockers",
+        "Diuretic",
+        "low-salt diet",
+        "Erythropoietin",
+        "Statins",
+        "Calcium and vitamin D supplements",
+        "Phosphate binder",
+        "Lower protein diet"
+    ],
+    "327.23: Obstructive sleep apnea": [
+        "Surgery",
+        "Surgical removal of tissue",
+        "Uvulopalatopharyngoplasty",
+        "general anesthetic",
+        "Upper airway stimulation",
+        "CPAP",
+        "BPAP"
+    ],
+    "401.9: Pulmonary hypertension": [
+        "vasodilators",
+        "epoprostenol",
+        "treprostinil",
+        "Iloprost",
+        "selexipag",
+        "Soluble guanylate cyclase (sGC) stimulators",
+        "riociguat",
+        "endothelin receptor antagonists",
+        "bosentan",
+        "macitentan",
+        "ambrisentan"
+    ],
+    "416.9: Chronic obstructive pulmonary disease": [
+        "Bronchodilators",
+        "short-acting bronchodilator",
+        "long-acting bronchodilator",
+        "Albuterol",
+        "Ipratropium",
+        "Levalbuterol"
+    ],
+    "424.0: Valvular heart disease": [
+        "Heart valve repair",
+        "Annuloplasty",
+        "Valvuloplasty"
+    ],
+    "425.4: Cardiomyopathy": [
+        "Beta blockers",
+        "metoprolol",
+        "propranolol",
+        "atenolol",
+        "Calcium channel blockers",
+        "verapamil",
+        "diltiazem",
+        "mavacamten",
+        "Heart rhythm medicines",
+        "amiodarone",
+        "disopyramide",
+        "Blood thinners",
+        "warfarin",
+        "dabigatran",
+        "rivaroxaban",
+        "apixaban"
+    ],
+    "428.0: Heart failure": [
+        "surgery",
+        "Coronary bypass surgery",
+        "Heart valve repair or replacement",
+        "Implantable cardioverter-defibrillator"
+    ],
+    "427.31: Atrial fibrillation": [
+        "Beta blockers",
+        "Calcium channel blockers",
+        "Digoxin",
+        "Anti-arrhythmics",
+        "Blood thinners",
+        "Anticoagulants",
+        "warfarin",
+        "apixaban",
+        "dabigatran",
+        "edoxaban",
+        "rivaroxaban",
+        "Cardioversion therapy",
+        "Electrical cardioversion",
+        "Drug cardioversion",
+        "Atrioventricular (AV) node ablation",
+        "Cardiac ablation",
+        "Maze procedure",
+        "Hybrid atrial fibrillation ablation",
+        "Pulsed field ablation",
+        "left atrial appendage closure"
+    ],
+    "518.81: Respiratory failure": [
+        "Supplemental oxygen",
+        "Mechanical ventilation",
+        "intravenous fluids"
+    ],
+    "244.9: Hypothyroidism": [
+        "thyroid hormone medicine",
+        "levothyroxine"
+    ],
+    "486: Pneumonia": [
+        "Antibiotics",
+        "Cough medicine",
+        "Fever reducers",
+        "pain relievers",
+        "aspirin",
+        "ibuprofen",
+        "acetaminophen"
+    ],
+    "995.92: Sepsis": [
+        "Antibiotics",
+        "Broad-spectrum antibiotics",
+        "intravenous fluids",
+        "Vasopressors",
+        "insulin for blood sugar levels",
+        "Painkillers",
+        "oxygen",
+        "Dialysis",
+        "Surgery"
+    ],
+    "311: Major depressive disorder": [
+        "antidepressants",
+        "Selective serotonin reuptake inhibitors",
+        "citalopram",
+        "escitalopram",
+        "fluoxetine",
+        "paroxetine",
+        "sertraline",
+        "vilazodone",
+        "Serotonin-norepinephrine reuptake inhibitors",
+        "duloxetine",
+        "venlafaxine",
+        "desvenlafaxine",
+        "levomilnacipran",
+        "Atypical antidepressants",
+        "bupropion",
+        "mirtazapine",
+        "nefazodone",
+        "trazodone",
+        "vortioxetine",
+        "Tricyclic antidepressants",
+        "imipramine",
+        "nortriptyline",
+        "amitriptyline",
+        "doxepin",
+        "trimipramine",
+        "desipramine",
+        "protriptyline",
+        "Monoamine oxidase inhibitors",
+        "tranylcypromine",
+        "phenelzine",
+        "isocarboxazid",
+        "selegiline",
+        "mood stabilizers",
+        "antipsychotics",
+        "Anti-anxiety and stimulant medications"
+    ],
+    "287.5: Thrombocytopenia": [
+        "Blood or platelet transfusions",
+        "transfusions of packed red blood cells or platelets",
+        "stronger medications can be used to suppress your immune system",
+        "Corticosteroid",
+        "Surgery",
+        "Splenectomy",
+        "Plasma exchange"
+    ],
+    "455.2: Hemorrhoid": [
+        "surgical procedures",
+        "surgery",
+        "Hemorrhoid removal",
+        "hemorrhoidectomy",
+        "local anesthetic",
+        "Spinal anesthesia",
+        "general anesthesia",
+        "Hemorrhoid stapling",
+        "stapled hemorrhoidopexy"
+    ],
+    "852.00: Subarachnoid hemorrhage": [
+        "surgery",
+        "metal clip",
+        "Endovascular embolization",
+        "nimodipine",
+        "ventriculostomy catheter",
+        "lumbar drains",
+        "physical, occupational and speech therapy"
+    ],
+    "252.00: Hyperparathyroidism": [
+        "surgery",
+        "calcimimetics",
+        "cinacalcet",
+        "vitamin D analogs"
+    ],
+    "331.82: Dementia with Lewy bodies": [
+        "Cholinesterase inhibitors",
+        "rivastigmine",
+        "donepezil",
+        "galantamine",
+        "memantine",
+        "carbidopa-levodopa",
+        "quetiapine",
+        "clozapine",
+        "Tolerating the behavior",
+        "Modifying the environment",
+        "Creating daily routines"
+    ],
+    "465.9: Sinusitis": [
+        "Nasal corticosteroids",
+        "Fluticasone",
+        "Budesonide",
+        "Mometasone",
+        "Beclomethasone",
+        "Saline nasal rinses",
+        "Neti pot",
+        "Corticosteroids shots or pills",
+        "Allergy medicines",
+        "Aspirin desensitization treatment",
+        "Dupilumab",
+        "Omalizumab",
+        "Mepolizumab",
+        "Antibiotics",
+        "Immunotherapy",
+        "Endoscopic sinus surgery"
+    ],
+    "780.4: Dizziness": [
+        "water pills",
+        "diuretic",
+        "Medications that relieve dizziness and nausea",
+        "antihistamines",
+        "anticholinergics",
+        "Anti-anxiety medications",
+        "Diazepam",
+        "alprazolam",
+        "benzodiazepines",
+        "Preventive medicine for migraine"
+    ],
+    "372.30: Conjunctivitis": [
+        "eye drops",
+        "antihistamines",
+        "mast cell stabilizers",
+        "decongestants",
+        "steroids",
+        "anti-inflammatory drops"
+    ],
+    "196.0: Melanoma": [
+        "Radiation therapy",
+        "Laser treatment",
+        "thermotherapy"
+    ],
+    "435.9: Transient ischemic attack": [
+        "Anti-platelet drugs",
+        "Aspirin",
+        "clopidogrel",
+        "Anticoagulants",
+        "apixaban",
+        "rivaroxaban",
+        "edoxaban",
+        "dabigatran",
+        "warfarin"
+    ],
+    "078.5: Cytomegalovirus": [
+        "Antiviral medications",
+        "vaccines"
+    ],
+    "746.02: Pulmonary valve stenosis": [
+        "Balloon valvuloplasty",
+        "Pulmonary valve replacement",
+        "open-heart surgery",
+        "catheter procedure"
+    ],
+    "567.9: Peritonitis": [
+        "antibiotics",
+        "Surgery",
+        "Pain medications",
+        "intravenous fluids",
+        "Oxygen",
+        "blood transfusion",
+        "dialysis"
+    ],
+    "322.9: Meningitis": [
+        "bed rest",
+        "plenty of fluids",
+        "Pain medicine"
+    ],
+    "198.4: Brain tumor": [
+        "Radiosurgery",
+        "Linear accelerator radiosurgery",
+        "Gamma Knife radiosurgery",
+        "Proton radiosurgery"
+    ],
+    "801.21: Craniosynostosis": [
+        "surgery",
+        "endoscopic surgery",
+        "open surgery",
+        "blood transfusion"
+    ],
+    "345.10: Epilepsy": [
+        "Vagus nerve stimulation",
+        "Deep brain stimulation",
+        "Responsive neurostimulation"
+    ],
+    "714.2: Lupus": [
+        "NSAIDs",
+        "naproxen sodium",
+        "ibuprofen",
+        "Antimalarial drugs",
+        "hydroxychloroquine",
+        "Corticosteroids",
+        "Prednisone",
+        "methylprednisolone",
+        "Immunosuppressants",
+        "azathioprine",
+        "mycophenolate",
+        "methotrexate",
+        "cyclosporine",
+        "leflunomide",
+        "Biologics",
+        "belimumab",
+        "Rituximab",
+        "voclosporin",
+        "abatacept",
+        "anifrolumab"
+    ],
+    "517.2: Systemic scleroderma": [
+        "Blood pressure medications",
+        "Drugs that suppress the immune system",
+        "Pills to reduce stomach acid",
+        "Antibiotics",
+        "Cleaning and protection from the cold",
+        "Influenza and pneumonia vaccinations",
+        "hand therapy",
+        "stem cell transplants",
+        "Bone marrow transplant",
+        "Kidney transplant",
+        "Lung transplant"
+    ],
+    "202.40: Hairy cell leukemia": [
+        "Chemotherapy"
+    ],
+    "581.1: Nephrotic syndrome": [
+        "Blood pressure medications",
+        "angiotensin-converting enzyme (ACE) inhibitors",
+        "lisinopril",
+        "benazepril",
+        "captopril",
+        "enalapril",
+        "Water pills",
+        "Diuretics",
+        "furosemide",
+        "spironolactone",
+        "thiazides",
+        "hydrochlorothiazide",
+        "metolazone",
+        "Blood thinners",
+        "Anticoagulants",
+        "heparin",
+        "warfarin",
+        "dabigatran",
+        "apixaban",
+        "rivaroxaban",
+        "Immune system-suppressing medications",
+        "Corticosteroids",
+        "rituximab",
+        "cyclosporine",
+        "cyclophosphamide"
+    ],
+    "729.82: Cramp": [
+        "Pain relievers",
+        "ibuprofen",
+        "naproxen sodium",
+        "nonsteroidal anti-inflammatory drugs",
+        "Hormonal birth control",
+        "oral birth control pills",
+        "injection",
+        "skin patch",
+        "implant",
+        "flexible ring",
+        "intrauterine device"
+    ],
+    "027.0: Listeriosis": [
+        "antibiotics",
+        "prompt antibiotic treatment"
+    ],
+    "238.76: Myelofibrosis": [
+        "Blood transfusions",
+        "Androgen therapy",
+        "Thalidomide",
+        "lenalidomide",
+        "steroid medications"
+    ],
+    "250.30: Diabetes": [
+        "healthy diet",
+        "exercise",
+        "insulin"
+    ],
+    "729.2: Neuralgia": [
+        "depression medicines",
+        "Nortriptyline",
+        "Amitriptyline",
+        "Duloxetine",
+        "Venlafaxine"
+    ],
+    "706.2: Sebaceous cyst": [
+        "Injection",
+        "Incision and drainage",
+        "Minor surgery"
+    ],
+    "816.00: Bone fracture": [
+        "wear a walking boot or brace",
+        "use crutches",
+        "surgery"
+    ],
+    "388.69: Otitis media": [
+        "pain medication",
+        "acetaminophen",
+        "ibuprofen",
+        "anesthetic drops"
+    ],
+    "277.1: Inborn errors of metabolism": [
+        "special diets",
+        "enzyme replacement",
+        "vitamin therapy",
+        "liver transplants"
+    ],
+    "770.4: Atelectasis": [
+        "breathing tube",
+        "Continuous positive airway pressure"
+    ],
+    "218.2: Adenomyosis": [
+        "Anti-inflammatory drugs",
+        "Ibuprofen",
+        "Hormone medications",
+        "estrogen-progestin birth control pills",
+        "patches",
+        "vaginal rings",
+        "Progestin-only contraception",
+        "Intrauterine device",
+        "continuous-use birth control pills",
+        "Hysterectomy"
+    ],
+    "691.8: Atopic dermatitis": [
+        "creams",
+        "gels",
+        "ointments",
+        "corticosteroid",
+        "antibiotic pills",
+        "cyclosporine",
+        "methotrexate",
+        "prednisone",
+        "mycophenolate",
+        "azathioprine",
+        "dupilumab",
+        "tralokinumab"
+    ]
+}

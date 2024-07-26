@@ -1,0 +1,4561 @@
+{
+    "008.45: Clostridioides difficile infection": [
+        [
+            "mild diarrhea",
+            "C3553273",
+            "Diarrhea, chronic, early-onset mild",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "inflammation of the colon",
+            "C0009319",
+            "Colitis",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "significant diarrhea",
+            "C0011991",
+            "Diarrhea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "watery stools",
+            "C0011991",
+            "Diarrhea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "recent antibiotic exposure",
+            "C2169652",
+            "recently taking antibiotics",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "abdominal pain",
+            "C0000737",
+            "Abdominal Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "fever",
+            "C0015967",
+            "Fever",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "distinctive foul odor to the stool resembling horse manure",
+            "C0237137",
+            "foul odor",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "diarrhea",
+            "C0011991",
+            "Diarrhea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "watery diarrhea",
+            "C5563290",
+            "Watery diarrhea, intractable",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "bowel movements ",
+            "C1167677",
+            "Infrequent bowel movements",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "loss of appetite",
+            "C1971624",
+            "Loss of appetite (finding)",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "nausea",
+            "C0027497",
+            "Nausea",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "238.4: Polycythemia vera": [
+        [
+            "asymptomatic",
+            "C0231221",
+            "Asymptomatic (finding)",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "pruritus",
+            "C0033774",
+            "Pruritus",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "itching",
+            "C0033774",
+            "Pruritus",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "gouty arthritis",
+            "C0003868",
+            "Arthritis, Gouty",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "peptic ulcer disease",
+            "C0030920",
+            "Peptic Ulcer",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "erythromelalgia",
+            "C0014804",
+            "Erythromelalgia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "burning pain",
+            "C0234230",
+            "Pain, Burning",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "reddish or bluish coloration",
+            "C4304291",
+            "Reddish color urine",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "splenomegaly",
+            "C0038002",
+            "Splenomegaly",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "palpable",
+            "C0151190",
+            "Palpable purpura",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "276.51: Dehydration": [
+        [
+            "thirst",
+            "C0426590",
+            "Thirst symptom",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "headaches",
+            "C0018681",
+            "Headache",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "general discomfort",
+            "C0858924",
+            "General discomfort",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "loss of appetite",
+            "C1971624",
+            "Loss of appetite (finding)",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "nausea",
+            "C0027497",
+            "Nausea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "decreased urine volume",
+            "C0028961",
+            "Oliguria",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "confusion",
+            "C0009676",
+            "Confusion",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "unexplained tiredness",
+            "C0848717",
+            "generalised tiredness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "purple fingernails",
+            "C4477047",
+            "Purple urine",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "seizures",
+            "C0036572",
+            "Seizures",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "fatigue",
+            "C0015672",
+            "Fatigue",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "277.39: Amyloidosis": [
+        [
+            "proteinuria",
+            "C0033687",
+            "Proteinuria",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "nephrotic syndrome",
+            "C0027726",
+            "Nephrotic Syndrome",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "heart failure",
+            "C0018801",
+            "Heart failure",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "conduction abnormalities like atrioventricular block or sinus node dysfunction",
+            "C4478805",
+            "Coexisting sinus and atrioventricular node dysfunction",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "restrictive filling pattern",
+            "C5542156",
+            "Restrictive filling pattern",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "shortness of breath",
+            "C0013404",
+            "Dyspnea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "fatigue",
+            "C0015672",
+            "Fatigue",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "edema",
+            "C0013604",
+            "Edema",
+            [
+                "Pathologic Function"
+            ]
+        ]
+    ],
+    "285.21: Chronic kidney disease": [
+        [
+            "hypertension",
+            "C0020538",
+            "Hypertensive disease",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "heart failure",
+            "C0018801",
+            "Heart failure",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "azotemia",
+            "C0242528",
+            "Azotemia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "uremia",
+            "C0041948",
+            "Uremia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "lethargy",
+            "C0023380",
+            "Lethargy",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "pericarditis",
+            "C0031046",
+            "Pericarditis",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "encephalopathy",
+            "C0085584",
+            "Encephalopathies",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "uremic frost",
+            "C0333569",
+            "Uremic frost",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "hyperkalemia",
+            "C0020461",
+            "Hyperkalemia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "malaise",
+            "C0231218",
+            "Malaise",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "arrhythmias",
+            "C0003811",
+            "Cardiac Arrhythmia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "fluid overload",
+            "C0546817",
+            "Fluid overload",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "edema",
+            "C0013604",
+            "Edema",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "pulmonary edema",
+            "C0034063",
+            "Pulmonary Edema",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "cachexia",
+            "C0006625",
+            "Cachexia",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "weight loss",
+            "C1262477",
+            "Weight Loss",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "muscle wasting",
+            "C0026846",
+            "Muscular Atrophy",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "weakness",
+            "C3714552",
+            "Weakness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "anorexia",
+            "C0003123",
+            "Anorexia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "cognitive decline",
+            "C0338656",
+            "Impaired cognition",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "dementia",
+            "C0497327",
+            "Dementia",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "sexual dysfunction",
+            "C0549622",
+            "Sexual Dysfunction",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "reduced sex drive",
+            "C4022675",
+            "Increased female libido",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "difficulty obtaining an erection",
+            "C0242350",
+            "Erectile dysfunction",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "trouble with sexual arousal",
+            "C1314759",
+            "Aroused sexually",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "painful menstruation",
+            "C0013390",
+            "Dysmenorrhea",
+            [
+                "Disease or Syndrome"
+            ]
+        ]
+    ],
+    "327.23: Obstructive sleep apnea": [
+        [
+            "daytime sleepiness",
+            "C4551761",
+            "Excessive Daytime Sleepiness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "restless sleep",
+            "C0235160",
+            "Restless sleep",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "snoring",
+            "C0037384",
+            "Snoring",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "headaches",
+            "C0018681",
+            "Headache",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "insomnia",
+            "C0917801",
+            "Sleeplessness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "trouble concentrating",
+            "C5575877",
+            "Trouble concentrating",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "irritability",
+            "C0022107",
+            "Irritable Mood",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "anxiety",
+            "C0003467",
+            "Anxiety",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "depression",
+            "C0011570",
+            "Mental Depression",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "forgetfulness",
+            "C0542476",
+            "Forgetful",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "increased heart rate",
+            "C0039231",
+            "Tachycardia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "blood pressure",
+            "C1271104",
+            "Blood pressure finding",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "decreased sex drive",
+            "C4022676",
+            "Decreased female libido",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "weight gain",
+            "C0043094",
+            "Weight Gain",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "increased urinary frequency",
+            "C0042023",
+            "Increased frequency of micturition",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "nocturia",
+            "C0028734",
+            "Nocturia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "heartburn",
+            "C0018834",
+            "Heartburn",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "reflux",
+            "C0232483",
+            "Reflux",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "night sweats",
+            "C0028081",
+            "Night sweats",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "congestion",
+            "C0700148",
+            "Congestion",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "swelling",
+            "C0038999",
+            "Swelling",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "enlarged tonsils",
+            "C0272386",
+            "Hypertrophy of tonsils",
+            [
+                "Disease or Syndrome"
+            ]
+        ]
+    ],
+    "401.9: Pulmonary hypertension": [
+        [
+            "shortness of breath",
+            "C0013404",
+            "Dyspnea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "fatigue",
+            "C0015672",
+            "Fatigue",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "chest pain",
+            "C0008031",
+            "Chest Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "palpitations",
+            "C0030252",
+            "Palpitations",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "abdominal pain",
+            "C0000737",
+            "Abdominal Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "poor appetite",
+            "C0232462",
+            "Decrease in appetite",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "lightheadedness",
+            "C0220870",
+            "Lightheadedness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "fainting",
+            "C0039070",
+            "Syncope",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "swelling",
+            "C0038999",
+            "Swelling",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "cyanosis",
+            "C0010520",
+            "Cyanosis",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "cough",
+            "C0010200",
+            "Coughing",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "nausea",
+            "C0027497",
+            "Nausea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "vomiting",
+            "C0042963",
+            "Vomiting",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "416.9: Chronic obstructive pulmonary disease": [
+        [
+            "shortness of breath",
+            "C0013404",
+            "Dyspnea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "breathlessness",
+            "C0013404",
+            "Dyspnea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Anxiety",
+            "C0003467",
+            "Anxiety",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "wheezing",
+            "C0043144",
+            "Wheezing",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "chest tightnes",
+            "C0742304",
+            "CHEST PAIN SITE LOWER CHEST",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "tiredness",
+            "C0015672",
+            "Fatigue",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "weight loss",
+            "C1262477",
+            "Weight Loss",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "muscle loss",
+            "C0026846",
+            "Muscular Atrophy",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "anorexia",
+            "C0003123",
+            "Anorexia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "Increased breathlessness",
+            "C0574066",
+            "Increasing breathlessness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Cough",
+            "C0010200",
+            "Coughing",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Chronic cough",
+            "C0010201",
+            "Chronic Cough",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Phlegm",
+            "C3854658",
+            "Purulent phlegm",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Chronic bronchitis",
+            "C0008677",
+            "Bronchitis, Chronic",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "Vigorous coughing",
+            "C2202713",
+            "vomiting preceded by vigorous coughing",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "424.0: Valvular heart disease": [
+        [
+            "dyspnea on exertion",
+            "C0231807",
+            "Dyspnea on exertion",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "orthopnea",
+            "C0085619",
+            "Orthopnea",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "paroxysmal nocturnal dyspnea",
+            "C1956415",
+            "Paroxysmal nocturnal dyspnea",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "angina pectoris",
+            "C0002962",
+            "Angina Pectoris",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "syncope",
+            "C0039070",
+            "Syncope",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "diminished and delayed carotid pulse",
+            "C2183676",
+            "diminished carotid pulses",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "delayed carotid pulse",
+            "C2143205",
+            "pulse delay apical to carotid",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "decreased a2 sound",
+            "C0232695",
+            "Decreased bowel sounds",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "palpitations",
+            "C0030252",
+            "Palpitations",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "cyanosis",
+            "C0010520",
+            "Cyanosis",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "fourth heart sound",
+            "C3853525",
+            "S4 heart sound",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "decreased A2 sound",
+            "C0232695",
+            "Decreased bowel sounds",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "sustained apex beat",
+            "C0878604",
+            "Apex beat sustained",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "precordial thrill",
+            "C2115910",
+            "precordial thrill",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "425.4: Cardiomyopathy": [
+        [
+            "shortness of breath",
+            "C0013404",
+            "Dyspnea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "fatigue",
+            "C0015672",
+            "Fatigue",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "swelling",
+            "C0038999",
+            "Swelling",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "dizziness",
+            "C0012833",
+            "Dizziness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "lightheadedness",
+            "C0220870",
+            "Lightheadedness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "fainting",
+            "C0039070",
+            "Syncope",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "arrhythmias",
+            "C0003811",
+            "Cardiac Arrhythmia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "chest pain",
+            "C0008031",
+            "Chest Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "heart murmurs",
+            "C0018808",
+            "Heart murmur",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "428.0: Heart failure": [
+        [
+            "congestion",
+            "C0700148",
+            "Congestion",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "fluid accumulation",
+            "C4531067",
+            "Intraretinal fluid accumulation",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "edema",
+            "C0013604",
+            "Edema",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "swelling",
+            "C0038999",
+            "Swelling",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "peripheral edema",
+            "C0085649",
+            "Peripheral edema",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "Pulmonary edema",
+            "C0034063",
+            "Pulmonary Edema",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "ascites",
+            "C0003962",
+            "Ascites",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "difficulty breathing",
+            "C0013404",
+            "Dyspnea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "swollen limbs and feet",
+            "C0849969",
+            "swollen foot/feet",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "swollen abdomen",
+            "C0000731",
+            "Abdomen distended",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "427.31: Atrial fibrillation": [
+        [
+            "Rapid heart rate",
+            "C0039231",
+            "Tachycardia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "Irregular heart rates",
+            "C0237314",
+            "Irregular heart beat",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "Sensation of the heart beating too fast",
+            "C3166696",
+            "When frightened, my heart beats fast",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "kipping beats",
+            "C0429003",
+            "Escape beat",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "palpitations",
+            "C0030252",
+            "Palpitations",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "exercise intolerance",
+            "C0424551",
+            "Impaired exercise tolerance",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "anginal chest pain",
+            "C0002965",
+            "Angina, Unstable",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "fatigue",
+            "C0015672",
+            "Fatigue",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "shortness of breath",
+            "C0013404",
+            "Dyspnea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "swelling",
+            "C0038999",
+            "Swelling",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "Loss of consciousness",
+            "C0041657",
+            "Unconscious State",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "stroke",
+            "C0038454",
+            "Cerebrovascular accident",
+            [
+                "Disease or Syndrome"
+            ]
+        ]
+    ],
+    "518.81: Respiratory failure": [],
+    "244.9: Hypothyroidism": [
+        [
+            "goitre",
+            "C0018021",
+            "Goiter",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "Fatigue",
+            "C0015672",
+            "Fatigue",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Feeling cold",
+            "C0235150",
+            "Feeling Cold",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Poor memory and concentration",
+            "C4693708",
+            "Poor immune memory",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "Constipation",
+            "C0009806",
+            "Constipation",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "dyspepsia",
+            "C0013395",
+            "Dyspepsia",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Weight gain",
+            "C0043094",
+            "Weight Gain",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "poor appetite",
+            "C0232462",
+            "Decrease in appetite",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Shortness of breath",
+            "C0013404",
+            "Dyspnea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Hoarse voice",
+            "C0019825",
+            "Hoarseness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "menstrual periods",
+            "C0425946",
+            "Short menstrual periods",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "Abnormal sensation",
+            "C0423571",
+            "Abnormal sensation",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Poor hearing",
+            "C3476154",
+            "My child is bothered by poor hearing in the past 4W",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "Muscle weakness",
+            "C0151786",
+            "Muscle Weakness",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "486: Pneumonia": [
+        [
+            "productive cough",
+            "C0239134",
+            "Productive Cough",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "fever",
+            "C0015967",
+            "Fever",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "shaking chills",
+            "C0085593",
+            "Chills",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "shortness of breath",
+            "C0013404",
+            "Dyspnea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "chest pain",
+            "C0008031",
+            "Chest Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "increased rate of breathing",
+            "C0231835",
+            "Tachypnea",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "confusion",
+            "C0009676",
+            "Confusion",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ]
+    ],
+    "995.92: Sepsis": [
+        [
+            "fever",
+            "C0015967",
+            "Fever",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "low body temperature",
+            "C0020672",
+            "Hypothermia, natural",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "rapid breathing",
+            "C0020578",
+            "Hyperventilation",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "fast heart rate",
+            "C0039231",
+            "Tachycardia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "confusion",
+            "C0009676",
+            "Confusion",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "edema",
+            "C0013604",
+            "Edema",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "rapid heart rate",
+            "C0039231",
+            "Tachycardia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "decreased urination",
+            "C0028961",
+            "Oliguria",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "high blood sugar",
+            "C0020456",
+            "Hyperglycemia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "confusion",
+            "C0009676",
+            "Confusion",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "metabolic acidosis",
+            "C0220981",
+            "Metabolic acidosis",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "faster breathing rate",
+            "C0428744",
+            "Mandatory breath rate",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "respiratory alkalosis",
+            "C0002064",
+            "Alkalosis, Respiratory",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "low blood pressure",
+            "C0020649",
+            "Hypotension",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "decreased systemic vascular resistance",
+            "C0853062",
+            "Vascular resistance systemic decreased",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "disorders in blood-clotting",
+            "C0423010",
+            "Blood clot in eye",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "organ failure",
+            "C0026766",
+            "Multiple Organ Failure",
+            [
+                "Disease or Syndrome"
+            ]
+        ]
+    ],
+    "311: Major depressive disorder": [
+        [
+            "poor concentration and memory",
+            "C4693708",
+            "Poor immune memory",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "withdrawal",
+            "C2825032",
+            "Withdrawal (dysfunction)",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "reduced sex drive",
+            "C4022675",
+            "Increased female libido",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "irritability",
+            "C0022107",
+            "Irritable Mood",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "thoughts of death or suicide",
+            "C4061433",
+            "Recurrent thoughts of suicide",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "Insomnia",
+            "C0917801",
+            "Sleeplessness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "wakes very early",
+            "C0541798",
+            "Terminal insomnia",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "Hypersomnia",
+            "C0917799",
+            "Hypersomnia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "oversleeping",
+            "C0424572",
+            "Oversleeps",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "day-night rhythm disturbances",
+            "C0233724",
+            "Disturbance in speech rhythm",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "diurnal mood variation",
+            "C0424135",
+            "Diurnal variation of mood",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "delusions",
+            "C0011253",
+            "Delusions",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "hallucinations",
+            "C0018524",
+            "Hallucinations",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "fatigue",
+            "C0015672",
+            "Fatigue",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "headaches",
+            "C0018681",
+            "Headache",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "digestive problems",
+            "C0851121",
+            "Digestive problems",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Appetite often decreases",
+            "C0232462",
+            "Decrease in appetite",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "weight loss",
+            "C1262477",
+            "Weight Loss",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "increased appetite",
+            "C0232461",
+            "Increased appetite (finding)",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "weight gain",
+            "C0043094",
+            "Weight Gain",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "agitation",
+            "C0085631",
+            "Agitation",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "lethargy",
+            "C0023380",
+            "Lethargy",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "forgetfulness",
+            "C0542476",
+            "Forgetful",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "slowing of movements",
+            "C0233565",
+            "Bradykinesia",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "287.5: Thrombocytopenia": [
+        [
+            "external bleeding",
+            "C0265042",
+            "Bleeding external hemorrhoids",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "nosebleeds",
+            "C0014591",
+            "Epistaxis",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "bleeding gums",
+            "C0017565",
+            "Gingival Hemorrhage",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "heavier or longer periods",
+            "C5380875",
+            "Heavier periodic housework - usual functional ability",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "breakthrough bleeding",
+            "C0025874",
+            "Metrorrhagia",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "Bruising",
+            "C2136686",
+            "reported bruising (history)",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "purpura",
+            "C0034150",
+            "Purpura",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "petechiae",
+            "C0031256",
+            "Petechiae",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "mucous membranes",
+            "C2230150",
+            "moisture of mucous membranes (physical finding)",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "spontaneous bleeding",
+            "C0746649",
+            "MUCOSAL BLEEDING SPONTANEOUS",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "malaise",
+            "C0231218",
+            "Malaise",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "fatigue",
+            "C0015672",
+            "Fatigue",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "general weakness",
+            "C3714552",
+            "Weakness",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "455.2: Hemorrhoid": [
+        [
+            "pain",
+            "C0030193",
+            "Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "swelling",
+            "C0038999",
+            "Swelling",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "skin tag",
+            "C0037293",
+            "Skin tag",
+            [
+                "Neoplastic Process"
+            ]
+        ],
+        [
+            "irritation",
+            "C1706307",
+            "Irritation (finding)",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "itchiness",
+            "C3840668",
+            "Itchiness",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "852.00: Subarachnoid hemorrhage": [
+        [
+            "headache",
+            "C0018681",
+            "Headache",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Vomiting",
+            "C0042963",
+            "Vomiting",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "seizures",
+            "C0036572",
+            "Seizures",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Confusion",
+            "C0009676",
+            "Confusion",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "decreased level of consciousness",
+            "C1821572",
+            "Decreased level of consciousness",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "coma",
+            "C0009421",
+            "Comatose",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "neck stiffness",
+            "C0151315",
+            "Neck stiffness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "meningism",
+            "C0025287",
+            "Meningism",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "252.00: Hyperparathyroidism": [
+        [
+            "constipation",
+            "C0009806",
+            "Constipation",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "vomiting",
+            "C0042963",
+            "Vomiting",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "weakness",
+            "C3714552",
+            "Weakness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "lethargy",
+            "C0023380",
+            "Lethargy",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "fatigue",
+            "C0015672",
+            "Fatigue",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "depression",
+            "C0011570",
+            "Mental Depression",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "bone pain",
+            "C0151825",
+            "Bone pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "muscle soreness",
+            "C0231528",
+            "Myalgia",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "myalgias",
+            "C0231528",
+            "Myalgia",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "joint pain",
+            "C0003862",
+            "Arthralgia",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "decreased appetite",
+            "C0232462",
+            "Decrease in appetite",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "nausea",
+            "C0027497",
+            "Nausea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "abdominal pain",
+            "C0000737",
+            "Abdominal Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "pancreatitis",
+            "C0030305",
+            "Pancreatitis",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "polyuria",
+            "C0032617",
+            "Polyuria",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "polydipsia",
+            "C0085602",
+            "Polydipsia",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "cognitive impairment",
+            "C0338656",
+            "Impaired cognition",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "kidney stones",
+            "C0392525",
+            "Nephrolithiasis",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "vertigo",
+            "C0042571",
+            "Vertigo",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "osteopenia",
+            "C0029453",
+            "Osteopenia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "osteoporosis",
+            "C0029456",
+            "Osteoporosis",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "bone resorption",
+            "C0231567",
+            "Bone resorption disorder",
+            [
+                "Disease or Syndrome"
+            ]
+        ]
+    ],
+    "331.82: Dementia with Lewy bodies": [
+        [
+            "fluctuating cognition",
+            "C0231239",
+            "Fluctuation",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "visual hallucinations",
+            "C0233763",
+            "Hallucinations, Visual",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "sleep behavior disorder",
+            "C0751772",
+            "REM Sleep Behavior Disorder",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "parkinsonism",
+            "C0242422",
+            "Parkinsonian Disorders",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "constipation",
+            "C0009806",
+            "Constipation",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "dizziness",
+            "C0012833",
+            "Dizziness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "hyposmia",
+            "C2364082",
+            "Sense of smell impaired",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "reduced ability to smell",
+            "C1862934",
+            "ANDROSTENONE, ABILITY TO SMELL",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "RBD",
+            "C0751772",
+            "REM Sleep Behavior Disorder",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "anxiety",
+            "C0003467",
+            "Anxiety",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "depression",
+            "C0011570",
+            "Mental Depression",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "Memory loss",
+            "C0751295",
+            "Memory Loss",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "465.9: Sinusitis": [
+        [
+            "Headache",
+            "C0018681",
+            "Headache",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "facial pain",
+            "C0015468",
+            "Facial Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "pressure of a dull",
+            "C0541911",
+            "Dullness",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "aching",
+            "C0234238",
+            "Ache",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "pain",
+            "C0030193",
+            "Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "thick nasal discharge",
+            "C1844809",
+            "Thick nasal alae",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "pus",
+            "C0476348",
+            "Pus in stool",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "blood",
+            "C0005779",
+            "Blood Coagulation Disorders",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "localized headache",
+            "C0151292",
+            "Headache, recent onset, localized or generalized",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "toothache",
+            "C0040460",
+            "Toothache",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "sinus-related headache",
+            "C0037195",
+            "Sinus headache",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "cough",
+            "C0010200",
+            "Coughing",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "fatigue",
+            "C0015672",
+            "Fatigue",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "hyposmia",
+            "C2364082",
+            "Sense of smell impaired",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "anosmia",
+            "C0003126",
+            "Anosmia",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "ear fullness",
+            "C0239214",
+            "EAR FULLNESS SENSATION",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "780.4: Dizziness": [],
+    "372.30: Conjunctivitis": [
+        [
+            "Red eye",
+            "C0235267",
+            "Redness of eye",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "swelling",
+            "C0038999",
+            "Swelling",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "watering of the eyes",
+            "C4553097",
+            "Watering Eyes, CTCAE",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "inflammation",
+            "C0021368",
+            "Inflammation",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "irritation",
+            "C1706307",
+            "Irritation (finding)",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "redness",
+            "C0332575",
+            "Redness",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "196.0: Melanoma": [
+        [
+            "itch",
+            "C0033774",
+            "Pruritus",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "ulcerate",
+            "C0041582",
+            "Ulcer",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "bleed",
+            "C0019080",
+            "Hemorrhage",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "Asymmetry",
+            "C1306710",
+            "Facial asymmetry",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "Elevated",
+            "C0233479",
+            "Elevated mood",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "Firm",
+            "C0577050",
+            "Liver firm",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "Growing",
+            "C0423693",
+            "Growing pains",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "loss of appetite",
+            "C1971624",
+            "Loss of appetite (finding)",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "nausea",
+            "C0027497",
+            "Nausea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "vomiting",
+            "C0042963",
+            "Vomiting",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "fatigue",
+            "C0015672",
+            "Fatigue",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "435.9: Transient ischemic attack": [
+        [
+            "focal neurologic deficits",
+            "C0746857",
+            "Focal Neurologic Deficits",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "Amaurosis fugax",
+            "C0149793",
+            "Amaurosis Fugax",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "One-sided facial droop",
+            "C0427055",
+            "Facial Paresis",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "One-sided motor weakness",
+            "C2203001",
+            "weakness on one entire side",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Diplopia",
+            "C0012569",
+            "Diplopia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "Problems with balance",
+            "C0241981",
+            "Impairment of balance",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "dizziness",
+            "C0012833",
+            "Dizziness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Visual field deficits",
+            "C4062222",
+            "Total visual deficit",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "homonymous hemianopsia",
+            "C0271202",
+            "Hemianopsia, Homonymous",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "monocular blindness",
+            "C0750958",
+            "Blindness, Monocular",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "Sensory deficits",
+            "C0748618",
+            "Sensory deficit",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "aphasia",
+            "C0003537",
+            "Aphasia",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "Difficulty with articulation",
+            "C1865313",
+            "Speech articulation difficulties",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "dysarthria",
+            "C0013362",
+            "Dysarthria",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "Unsteady gait",
+            "C0231686",
+            "Gait, Unsteady",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "Difficulties with swallowing",
+            "C2183450",
+            "difficulty swallowing with nasal regurgitation",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "dysphagia",
+            "C0011168",
+            "Deglutition Disorders",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "Numbness",
+            "C0028643",
+            "Numbness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "weakness",
+            "C3714552",
+            "Weakness",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "078.5: Cytomegalovirus": [],
+    "746.02: Pulmonary valve stenosis": [
+        [
+            "Heart murmur",
+            "C0018808",
+            "Heart murmur",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "Cyanosis",
+            "C0010520",
+            "Cyanosis",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Dyspnea",
+            "C0013404",
+            "Dyspnea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Dizziness",
+            "C0012833",
+            "Dizziness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Upper thorax pain",
+            "C1406931",
+            "thorax; pain, ischemic",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "Developmental disorders",
+            "C0008073",
+            "Developmental Disabilities",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ]
+    ],
+    "567.9: Peritonitis": [
+        [
+            "acute abdominal pain",
+            "C0740577",
+            "Acute abdominal pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "abdominal tenderness",
+            "C0232498",
+            "Abdominal tenderness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "abdominal guarding",
+            "C0238547",
+            "Abdominal guarding (finding)",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "rigidity",
+            "C0026837",
+            "Muscle Rigidity",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "coughing",
+            "C0010200",
+            "Coughing",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "forced cough",
+            "C1821420",
+            "Forceful cough",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "flexing one's hips",
+            "C4062535",
+            "Impaired ability to flex one or both hips",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "pain",
+            "C0030193",
+            "Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Diffuse abdominal rigidity",
+            "C0159066",
+            "Abdominal rigidity",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Fever",
+            "C0015967",
+            "Fever",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Sinus tachycardia",
+            "C0039239",
+            "Sinus Tachycardia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "ileus",
+            "C1258215",
+            "Ileus",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "intestinal paralysis",
+            "C0030446",
+            "Paralytic Ileus",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "nausea",
+            "C0027497",
+            "Nausea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "vomiting",
+            "C0042963",
+            "Vomiting",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "bloating",
+            "C1291077",
+            "Abdominal bloating",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "no passage of abdominal gas",
+            "C0221152",
+            "Obstipation",
+            [
+                "Disease or Syndrome"
+            ]
+        ]
+    ],
+    "322.9: Meningitis": [
+        [
+            "severe headache",
+            "C2957106",
+            "Headaches, severe",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "neck stiffness",
+            "C0151315",
+            "Neck stiffness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "inability to flex the neck",
+            "C4061190",
+            "Inability to experience the transcendent",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "sudden high fever",
+            "C2037193",
+            "sudden onset of fever",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "altered mental status",
+            "C2316693",
+            "Transient altered mental status",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "photophobia",
+            "C0085636",
+            "Photophobia",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "phonophobia",
+            "C0751466",
+            "Phonophobia",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "irritable",
+            "C0022107",
+            "Irritable Mood",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "unwell",
+            "C0857256",
+            "Unwell",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "leg pain",
+            "C0023222",
+            "Pain in lower limb",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "cold extremities",
+            "C0277925",
+            "Cold extremity",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "abnormal skin color",
+            "C1260926",
+            "Abnormal pigmentation",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "198.4: Brain tumor": [
+        [
+            "headaches",
+            "C0018681",
+            "Headache",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "seizures",
+            "C0036572",
+            "Seizures",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "problem with vision",
+            "C3665347",
+            "Visual Impairment",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "vomiting",
+            "C0042963",
+            "Vomiting",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "mental changes",
+            "C0856054",
+            "Mental status changes",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "raised intracranial pressure",
+            "C0151740",
+            "Intracranial Hypertension",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "visual abnormalities",
+            "C4228946",
+            "Visual abnormalities",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "801.21: Craniosynostosis": [
+        [
+            "change in the shape of the skull",
+            "C4023459",
+            "Abnormal shape of the occiput",
+            [
+                "Anatomical Abnormality"
+            ]
+        ],
+        [
+            "deformity of the skull",
+            "C4759713",
+            "Deformity of the skull",
+            [
+                "Congenital Abnormality"
+            ]
+        ]
+    ],
+    "345.10: Epilepsy": [
+        [
+            "recurrent epileptic seizures",
+            "C4317109",
+            "Epileptic Seizures",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "seizures",
+            "C0036572",
+            "Seizures",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "depression",
+            "C0011570",
+            "Mental Depression",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "anxiety",
+            "C0003467",
+            "Anxiety",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "obsessive\u2013compulsive disorder",
+            "C0028768",
+            "Obsessive-Compulsive Disorder",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "migraine",
+            "C0149931",
+            "Migraine Disorders",
+            [
+                "Disease or Syndrome"
+            ]
+        ]
+    ],
+    "714.2: Lupus": [
+        [
+            "fever",
+            "C0015967",
+            "Fever",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "malaise",
+            "C0231218",
+            "Malaise",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "joint pains",
+            "C0003862",
+            "Arthralgia",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "muscle pains",
+            "C0231528",
+            "Myalgia",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "fatigue",
+            "C0015672",
+            "Fatigue",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "relapses",
+            "C4716637",
+            "Strategies to prevent relapses",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "arthritis",
+            "C0003864",
+            "Arthritis",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "Raynaud syndrome",
+            "C0034735",
+            "Raynaud Phenomenon",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "psychiatric symptoms",
+            "C0233401",
+            "Psychiatric symptom",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "seizures",
+            "C0036572",
+            "Seizures",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "kidney disease",
+            "C0022658",
+            "Kidney Diseases",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "serositis",
+            "C0036749",
+            "Serositis",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "inflammation",
+            "C0021368",
+            "Inflammation",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "peripheral neuropathy",
+            "C0031117",
+            "Peripheral Neuropathy",
+            [
+                "Disease or Syndrome"
+            ]
+        ]
+    ],
+    "517.2: Systemic scleroderma": [
+        [
+            "hardening",
+            "C0702118",
+            "Abnormally hard consistency",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "scarring",
+            "C2004491",
+            "Cicatrix",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "tight",
+            "C0156387",
+            "Tight hymenal ring",
+            [
+                "Anatomical Abnormality"
+            ]
+        ],
+        [
+            "reddish",
+            "C2749813",
+            "Reddish hair",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "scaly",
+            "C0423773",
+            "Scaly skin",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "wastage",
+            "C0268435",
+            "Renal Tubular Acidosis, Type II",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "itching",
+            "C0033774",
+            "Pruritus",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "ulcers",
+            "C0041582",
+            "Ulcer",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "joint pains",
+            "C0003862",
+            "Arthralgia",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "arthritis",
+            "C0003864",
+            "Arthritis",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "discomfort",
+            "C2364135",
+            "Discomfort",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Joint mobility",
+            "C1820723",
+            "Joint mobility",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "calcinosis",
+            "C0006663",
+            "Calcinosis",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "skin thickening",
+            "C0241165",
+            "Thick skin",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "muscle weakness",
+            "C0151786",
+            "Muscle Weakness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "myopathy",
+            "C0026848",
+            "Myopathy",
+            [
+                "Disease or Syndrome"
+            ]
+        ]
+    ],
+    "202.40: Hairy cell leukemia": [
+        [
+            "infections",
+            "C3714514",
+            "Infection",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "low white blood cell count",
+            "C2186577",
+            "reported low white blood cell count",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "anemia",
+            "C0002871",
+            "Anemia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "fatigue",
+            "C0015672",
+            "Fatigue",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "lack of red blood cells",
+            "C4539327",
+            "Red blood cells lack some ('Dr(A-)') or all ('Inab') of the Cromer blood group antigens",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "bleeding",
+            "C0019080",
+            "Hemorrhage",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "low platelet count",
+            "C3275345",
+            "Low to low-normal platelet count",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "reduced levels of cholesterol",
+            "C5232237",
+            "Reduced HDL cholesterol",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "enlarged spleen",
+            "C0038002",
+            "Splenomegaly",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "581.1: Nephrotic syndrome": [
+        [
+            "proteinuria",
+            "C0033687",
+            "Proteinuria",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "hypoalbuminemia",
+            "C0239981",
+            "Hypoalbuminemia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "Edema",
+            "C0013604",
+            "Edema",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "Hyperlipidaemia",
+            "C0020473",
+            "Hyperlipidemia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "Thrombophilia",
+            "C0398623",
+            "Thrombophilia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "hypercoagulability",
+            "C0398623",
+            "Thrombophilia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "Lipiduria",
+            "C0392178",
+            "Lipiduria",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "loss of lipids in the urine",
+            "C4538503",
+            "Loss of movement in the elbows",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "729.82: Cramp": [],
+    "027.0: Listeriosis": [
+        [
+            "fever",
+            "C0015967",
+            "Fever",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "muscle aches",
+            "C0231528",
+            "Myalgia",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "headache",
+            "C0018681",
+            "Headache",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "stiff neck",
+            "C0151315",
+            "Neck stiffness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "confusion",
+            "C0009676",
+            "Confusion",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "loss of balance",
+            "C0241981",
+            "Impairment of balance",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "convulsions",
+            "C4048158",
+            "Convulsions",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "flu-like illness",
+            "C0521839",
+            "Influenza-like illness",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "miscarriage",
+            "C4552766",
+            "Miscarriage",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "stillbirth",
+            "C0595939",
+            "Stillbirth",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "premature delivery",
+            "C0438076",
+            "History of - premature delivery",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "diarrhea",
+            "C0011991",
+            "Diarrhea",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "238.76: Myelofibrosis": [
+        [
+            "Abdominal fullness",
+            "C0235318",
+            "Fullness abdominal",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Enlargement of both the liver and spleen",
+            "C1112137",
+            "Liver and spleen enlargement",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "Bone pain",
+            "C0151825",
+            "Bone pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Bruising",
+            "C2136686",
+            "reported bruising (history)",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "bleeding",
+            "C0019080",
+            "Hemorrhage",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "thrombosis",
+            "C0040053",
+            "Thrombosis",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "Cachexia",
+            "C0006625",
+            "Cachexia",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "loss of appetite",
+            "C1971624",
+            "Loss of appetite (finding)",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "weight loss",
+            "C1262477",
+            "Weight Loss",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "fatigue",
+            "C0015672",
+            "Fatigue",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Fevers",
+            "C0015967",
+            "Fever",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Chills",
+            "C0085593",
+            "Chills",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Gout",
+            "C0018099",
+            "Gout",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "infection",
+            "C3714514",
+            "Infection",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "pneumonia",
+            "C0032285",
+            "Pneumonia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "Pallor",
+            "C0030232",
+            "Pallor",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "shortness of breath",
+            "C0013404",
+            "Dyspnea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "anemia",
+            "C0002871",
+            "Anemia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "Leukoerythroblastic smear",
+            "C0002890",
+            "Leukoerythroblastic Anemia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "raised red blood cell volume",
+            "C0427458",
+            "Red blood cell count above reference range",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "Cutaneous myelofibrosis",
+            "C0026987",
+            "Myelofibrosis",
+            [
+                "Neoplastic Process"
+            ]
+        ]
+    ],
+    "250.30: Diabetes": [
+        [
+            "polyuria",
+            "C0032617",
+            "Polyuria",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "thirst",
+            "C0426590",
+            "Thirst symptom",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "weight loss",
+            "C1262477",
+            "Weight Loss",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "fatigue",
+            "C0015672",
+            "Fatigue",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "blurred vision",
+            "C0344232",
+            "Blurred vision",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "genital itchiness",
+            "C3840668",
+            "Itchiness",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "asymptomatic",
+            "C0231221",
+            "Asymptomatic (finding)",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "729.2: Neuralgia": [],
+    "706.2: Sebaceous cyst": [
+        [
+            "hair loss",
+            "C0002170",
+            "Alopecia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "smooth to the touch",
+            "C0234233",
+            "Sore to touch",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "cyst",
+            "C0010709",
+            "Cyst",
+            [
+                "Anatomical Abnormality"
+            ]
+        ]
+    ],
+    "816.00: Bone fracture": [
+        [
+            "pain",
+            "C0030193",
+            "Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Breaking in the continuity of the periosteum",
+            "C3842551",
+            "Skin breaks out in the sun, not sunburn",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "Edema",
+            "C0013604",
+            "Edema",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "hematoma",
+            "C0018944",
+            "Hematoma",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "pressure pain",
+            "C3647129",
+            "pain pressure",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Involuntary muscle spasms",
+            "C4280325",
+            "Involuntary facial muscle spasms",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "388.69: Otitis media": [
+        [
+            "ear pain",
+            "C2015928",
+            "outcomes otolaryngology ear pain",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "fever",
+            "C0015967",
+            "Fever",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "reduced hearing",
+            "C0018772",
+            "Partial Hearing Loss",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "tenderness",
+            "C0234233",
+            "Sore to touch",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "purulent discharge",
+            "C0333274",
+            "Purulent discharge",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "irritability",
+            "C0022107",
+            "Irritable Mood",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "blocking sensation",
+            "C0522348",
+            "Sensation of blocked ear",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "diarrhea",
+            "C0011991",
+            "Diarrhea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "cough",
+            "C0010200",
+            "Coughing",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "nasal discharge",
+            "C1260880",
+            "Rhinorrhea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "feeling of fullness",
+            "C0858216",
+            "Feeling of gastrointestinal fullness",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "277.1: Inborn errors of metabolism": [
+        [
+            "Growth failure",
+            "C0878787",
+            "Growth failure",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "failure to grow",
+            "C0232412",
+            "Failure of hair growth",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "loss of weight",
+            "C1262477",
+            "Weight Loss",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "Ambiguous genitalia",
+            "C0266362",
+            "Ambiguous Genitalia",
+            [
+                "Congenital Abnormality"
+            ]
+        ],
+        [
+            "delayed puberty",
+            "C0034012",
+            "Delayed Puberty",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "precocious puberty",
+            "C0034013",
+            "Precocious Puberty",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "Developmental delay",
+            "C0424605",
+            "Developmental delay",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "seizures",
+            "C0036572",
+            "Seizures",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "dementia",
+            "C0497327",
+            "Dementia",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "encephalopathy",
+            "C0085584",
+            "Encephalopathies",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "stroke",
+            "C0038454",
+            "Cerebrovascular accident",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "Deafness",
+            "C0011053",
+            "Deafness",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "blindness",
+            "C0456909",
+            "Blindness",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "pain agnosia",
+            "C0563625",
+            "Agnosia for Pain",
+            [
+                "Mental or Behavioral Dysfunction"
+            ]
+        ],
+        [
+            "Skin rash",
+            "C5779628",
+            "Skin rash",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "abnormal pigmentation",
+            "C1260926",
+            "Abnormal pigmentation",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "lacking of pigmentation",
+            "C4313094",
+            "Lack of iris pigment",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "excessive hair growth",
+            "C0020555",
+            "Hypertrichosis",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "lumps and bumps",
+            "C0558440",
+            "Bump - accidental",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "Dental abnormalities",
+            "C0262444",
+            "Abnormality of the dentition",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "Immunodeficiency",
+            "C0021051",
+            "Immunologic Deficiency Syndromes",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "low platelet count",
+            "C3275345",
+            "Low to low-normal platelet count",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "low red blood cell count",
+            "C0427457",
+            "Red blood cell count low (finding)",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "enlarged spleen",
+            "C0038002",
+            "Splenomegaly",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "enlarged lymph nodes",
+            "C0476486",
+            "Generalized enlarged lymph nodes",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "cancer",
+            "C0006826",
+            "Malignant Neoplasms",
+            [
+                "Neoplastic Process"
+            ]
+        ],
+        [
+            "Recurrent vomiting",
+            "C0750325",
+            "Vomiting, recurrent",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "diarrhea",
+            "C0011991",
+            "Diarrhea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "abdominal pain",
+            "C0000737",
+            "Abdominal Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ]
+    ],
+    "770.4: Atelectasis": [
+        [
+            "cough",
+            "C0010200",
+            "Coughing",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "chest pain",
+            "C0008031",
+            "Chest Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "breathing difficulty",
+            "C0013404",
+            "Dyspnea",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "low oxygen saturation",
+            "C0746961",
+            "Oxygen saturation below reference range",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "pleural effusion",
+            "C0032227",
+            "Pleural effusion (disorder)",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "cyanosis",
+            "C0010520",
+            "Cyanosis",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "increased heart rate",
+            "C0039231",
+            "Tachycardia",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "218.2: Adenomyosis": [
+        [
+            "heavy bleeding",
+            "C0232943",
+            "Intermenstrual heavy bleeding",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "pain",
+            "C0030193",
+            "Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Heavy menstrual bleeding",
+            "C0025323",
+            "Menorrhagia",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "Blood loss",
+            "C3163616",
+            "Blood Loss",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "anemia",
+            "C0002871",
+            "Anemia",
+            [
+                "Disease or Syndrome"
+            ]
+        ],
+        [
+            "fatigue",
+            "C0015672",
+            "Fatigue",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "dizziness",
+            "C0012833",
+            "Dizziness",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "moodiness",
+            "C0554980",
+            "Moody (finding)",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "Abnormal uterine bleeding",
+            "C3650625",
+            "Abnormal uterine bleeding",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "Chronic pelvic pain",
+            "C0404484",
+            "Chronic pelvic pain of female",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "cramping menstruation",
+            "C0026821",
+            "Muscle Cramp",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Painful vaginal intercourse",
+            "C2189071",
+            "vaginal pain during intercourse",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "Pressure on bladder",
+            "C2163841",
+            "cystometrogram bladder pressure",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "Dragging sensation",
+            "C1562415",
+            "Skin drag",
+            [
+                "Finding"
+            ]
+        ]
+    ],
+    "691.8: Atopic dermatitis": [
+        [
+            "itching",
+            "C0033774",
+            "Pruritus",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "burning",
+            "C0085624",
+            "Burning sensation",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "soreness",
+            "C0234233",
+            "Sore to touch",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "pain",
+            "C0030193",
+            "Pain",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "dry skin",
+            "C0151908",
+            "Dry skin",
+            [
+                "Sign or Symptom"
+            ]
+        ],
+        [
+            "inflamed",
+            "C0574941",
+            "Inflamed joint",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "scaling cracking",
+            "C1832460",
+            "Flaked, cracked, missing cuticular scales",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "swelling",
+            "C0038999",
+            "Swelling",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "oedema",
+            "C0013604",
+            "Edema",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "excoriation",
+            "C0015256",
+            "Excoriation",
+            [
+                "Injury or Poisoning"
+            ]
+        ],
+        [
+            "bumpiness",
+            "C3151871",
+            "Dry, bumpy skin",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "papulation",
+            "C1519353",
+            "Skin Papule",
+            [
+                "Finding"
+            ]
+        ],
+        [
+            "oozing",
+            "C1446325",
+            "Oozing (Hemorrhage)",
+            [
+                "Pathologic Function"
+            ]
+        ],
+        [
+            "thickening",
+            "C0205400",
+            "Thickened",
+            [
+                "Finding"
+            ]
+        ]
+    ]
+}

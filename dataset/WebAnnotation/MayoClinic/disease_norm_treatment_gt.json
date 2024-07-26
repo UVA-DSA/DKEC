@@ -1,0 +1,3605 @@
+{
+    "008.45: Clostridioides difficile infection": [
+        [
+            "Antibiotics",
+            "C0003232",
+            "Antibiotics",
+            [
+                "Antibiotic"
+            ]
+        ],
+        [
+            "Vancomycin",
+            "C0042313",
+            "vancomycin",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Antibiotic"
+            ]
+        ],
+        [
+            "Fidaxomicin",
+            "C0065023",
+            "fidaxomicin",
+            [
+                "Organic Chemical",
+                "Antibiotic"
+            ]
+        ],
+        [
+            "Metronidazole",
+            "C0025872",
+            "metronidazole",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Surgery",
+            "C0543467",
+            "Operative Surgical Procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Antibiotic therapy",
+            "C0338237",
+            "Antibiotic therapy",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Antibody-based therapy",
+            "C0281176",
+            "Antibody Therapy",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "bezlotoxumab",
+            "C4291320",
+            "bezlotoxumab",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance",
+                "Immunologic Factor"
+            ]
+        ],
+        [
+            "Fecal microbiota transplant",
+            "C2242628",
+            "Fecal Microbiota Transplantation",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "238.4: Polycythemia vera": [
+        [
+            "Blood withdrawals",
+            "C0005834",
+            "Collection of blood specimen for laboratory (procedure)",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "phlebotomy",
+            "C0190979",
+            "Venous blood sampling",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "Antihistamines",
+            "C0019590",
+            "Histamine Antagonists",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Ultraviolet light treatment",
+            "C0041626",
+            "Ultraviolet Therapy",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Selective serotonin reuptake inhibitors",
+            "C0360105",
+            "Selective Serotonin Reuptake Inhibitors",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "paroxetine",
+            "C0070122",
+            "paroxetine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "fluoxetine",
+            "C0016365",
+            "fluoxetine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Hydroxyruea",
+            null,
+            null,
+            null
+        ],
+        [
+            "Interferon alfa-2b",
+            "C0021735",
+            "interferon alfa-2b",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance",
+                "Immunologic Factor"
+            ]
+        ],
+        [
+            "Ruxolitinib",
+            "C2931926",
+            "ruxolitinib",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Busulfan",
+            "C0006463",
+            "busulfan",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Hazardous or Poisonous Substance"
+            ]
+        ],
+        [
+            "heart medications",
+            "C0199536",
+            "Medical procedure on heart, NOS",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "aspirin",
+            "C0004057",
+            "aspirin",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ]
+    ],
+    "276.51: Dehydration": [
+        [
+            "replace lost fluids and lost electrolytes",
+            "C0701935",
+            "N-Lost",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Hazardous or Poisonous Substance"
+            ]
+        ],
+        [
+            "Oral rehydration solution",
+            "C1443923",
+            "Oral rehydration solution",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "water",
+            "C0043047",
+            "water",
+            [
+                "Pharmacologic Substance",
+                "Inorganic Chemical"
+            ]
+        ],
+        [
+            "salts",
+            "C0005404",
+            "bile salts",
+            [
+                "Organic Chemical",
+                "Biologically Active Substance"
+            ]
+        ],
+        [
+            "syringe",
+            null,
+            null,
+            null
+        ],
+        [
+            "diluted sports drinks",
+            "C0079240",
+            "Dilution technique",
+            [
+                "Laboratory Procedure"
+            ]
+        ],
+        [
+            "cool water",
+            "C0548326",
+            "Flush exposed skin with copious amounts of cool water, use eyelid retractors if needed, and utilize appropriate neutralizing agent if indicated.",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Sports drinks containing electrolytes and a carbohydrate solution",
+            "C1874716",
+            "CARBOHYDRATE/ELECTROLYTES",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Salts and fluids delivered through a vein (intravenously)",
+            "C0361878",
+            "Intravenous fluids and electrolytes",
+            [
+                "Pharmacologic Substance"
+            ]
+        ]
+    ],
+    "277.39: Amyloidosis": [
+        [
+            "Chemotherapy",
+            "C3665472",
+            "Chemotherapy",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "cancer drugs",
+            "C4316305",
+            "Oral Anti-Cancer Drugs",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Heart medications",
+            "C0199536",
+            "Medical procedure on heart, NOS",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Blood thinners",
+            "C0003280",
+            "Anticoagulants",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "drugs that increase urination",
+            "C4760395",
+            "Cardiac drugs that increase blood pressure",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "patisiran",
+            "C3896714",
+            "patisiran",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "inotersen",
+            "C4731850",
+            "inotersen",
+            [
+                "Nucleic Acid, Nucleoside, or Nucleotide",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "tafamidis",
+            "C2745274",
+            "tafamidis",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "diflunisal",
+            "C0012228",
+            "diflunisal",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Autologous blood stem cell transplant",
+            "C1960579",
+            "Autologous peripheral blood stem cell transplant",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Dialysis",
+            "C0011946",
+            "Dialysis procedure",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Organ transplant",
+            "C0029216",
+            "Organ Transplantation",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Bone marrow transplant",
+            "C0005961",
+            "Bone Marrow Transplantation",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Liver transplant",
+            "C0023911",
+            "Transplantation of liver",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "285.21: Chronic kidney disease": [
+        [
+            "Kidney transplant",
+            "C0022671",
+            "Kidney Transplantation",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Dialysis",
+            "C0011946",
+            "Dialysis procedure",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Hemodialysis",
+            "C0019004",
+            "Hemodialysis",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Peritoneal dialysis",
+            "C0031139",
+            "Peritoneal Dialysis",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "High Blood pressure medications",
+            "C4529970",
+            "Lowering High Blood Pressure",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Angiotensin-converting enzyme (ACE) inhibitors",
+            "C0003015",
+            "Angiotensin-Converting Enzyme Inhibitors",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Angiotensin II receptor blockers",
+            "C0521942",
+            "Angiotensin II receptor antagonist",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Diuretic",
+            "C5399719",
+            "Diuretic [APC]",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "low-salt diet",
+            "C0418846",
+            "Low salt diet education",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Erythropoietin",
+            "C0014822",
+            "Erythropoietin",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance",
+                "Hormone"
+            ]
+        ],
+        [
+            "Statins",
+            "C0360714",
+            "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Calcium and vitamin D supplements",
+            "C0514627",
+            "Provide adequate intake of vitamin D (e.g., vitamin supplement and organ meats) to facilitate GI absorption of calcium, as appropriate",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Phosphate binder",
+            "C2267031",
+            "Phosphate Binder [EPC]",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Lower protein diet",
+            "C0452269",
+            "Protein diet",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "327.23: Obstructive sleep apnea": [
+        [
+            "Surgery",
+            "C0543467",
+            "Operative Surgical Procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Surgical removal of tissue",
+            "C0846798",
+            "Surgical removal of tooth fragment involving soft tissue",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Uvulopalatopharyngoplasty",
+            "C1535578",
+            "Palatopharyngoplasty",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "general anesthetic",
+            "C0017302",
+            "General anesthetic drugs",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Upper airway stimulation",
+            "C2226686",
+            "examination of upper airway",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "CPAP",
+            "C0199451",
+            "Continuous Positive Airway Pressure",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "BPAP",
+            null,
+            null,
+            null
+        ]
+    ],
+    "401.9: Pulmonary hypertension": [
+        [
+            "vasodilators",
+            "C0042402",
+            "Vasodilator Agents",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "epoprostenol",
+            "C0033567",
+            "epoprostenol",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Biologically Active Substance"
+            ]
+        ],
+        [
+            "treprostinil",
+            "C1145760",
+            "treprostinil",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Iloprost",
+            "C0079594",
+            "iloprost",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "selexipag",
+            "C2000145",
+            "selexipag",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Soluble guanylate cyclase (sGC) stimulators",
+            "C3819023",
+            "Soluble Guanylate Cyclase Stimulator",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "riociguat",
+            "C2717561",
+            "riociguat",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "endothelin receptor antagonists",
+            "C1134681",
+            "Endothelin receptor antagonist",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "bosentan",
+            "C0252643",
+            "bosentan",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "macitentan",
+            "C2606556",
+            "macitentan",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "ambrisentan",
+            "C1176329",
+            "ambrisentan",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ]
+    ],
+    "416.9: Chronic obstructive pulmonary disease": [
+        [
+            "Bronchodilators",
+            "C0006280",
+            "Bronchodilator Agents",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "short-acting bronchodilator",
+            "C0356365",
+            "Insulin, Short-Acting",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance",
+                "Hormone"
+            ]
+        ],
+        [
+            "long-acting bronchodilator",
+            "C0304870",
+            "Insulin, Long-Acting",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance",
+                "Hormone"
+            ]
+        ],
+        [
+            "Albuterol",
+            "C0001927",
+            "albuterol",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Ipratropium",
+            "C0027235",
+            "ipratropium",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Levalbuterol",
+            "C0772501",
+            "levalbuterol",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ]
+    ],
+    "424.0: Valvular heart disease": [
+        [
+            "Heart valve repair",
+            "C0190112",
+            "Heart valvuloplasty",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Annuloplasty",
+            "C0190165",
+            "Annuloplasty",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Valvuloplasty",
+            "C0190112",
+            "Heart valvuloplasty",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "425.4: Cardiomyopathy": [
+        [
+            "Beta blockers",
+            "C0001645",
+            "Adrenergic beta-Antagonists",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "metoprolol",
+            "C0025859",
+            "metoprolol",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "propranolol",
+            "C0033497",
+            "propranolol",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "atenolol",
+            "C0004147",
+            "atenolol",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Calcium channel blockers",
+            "C0006684",
+            "Calcium Channel Blockers",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "verapamil",
+            "C0042523",
+            "verapamil",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "diltiazem",
+            "C0012373",
+            "diltiazem",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "mavacamten",
+            "C4742219",
+            "mavacamten",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Heart rhythm medicines",
+            "C2957896",
+            "RNAx assess heart rhythm",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "amiodarone",
+            "C0002598",
+            "amiodarone",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "disopyramide",
+            "C0012702",
+            "disopyramide",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Blood thinners",
+            "C0003280",
+            "Anticoagulants",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "warfarin",
+            "C0043031",
+            "warfarin",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Hazardous or Poisonous Substance"
+            ]
+        ],
+        [
+            "dabigatran",
+            "C2348066",
+            "dabigatran",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "rivaroxaban",
+            "C1739768",
+            "rivaroxaban",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "apixaban",
+            "C1831808",
+            "apixaban",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ]
+    ],
+    "428.0: Heart failure": [
+        [
+            "surgery",
+            "C0543467",
+            "Operative Surgical Procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Coronary bypass surgery",
+            "C0010055",
+            "Coronary Artery Bypass Surgery",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Heart valve repair or replacement",
+            "C0190173",
+            "Heart valve replacement (procedure)",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Implantable cardioverter-defibrillator",
+            "C5574644",
+            "implantable cardioverter-defibrillator (treatment)",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "427.31: Atrial fibrillation": [
+        [
+            "Beta blockers",
+            "C0001645",
+            "Adrenergic beta-Antagonists",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Calcium channel blockers",
+            "C0006684",
+            "Calcium Channel Blockers",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Digoxin",
+            "C0012265",
+            "digoxin",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Anti-arrhythmics",
+            "C0003195",
+            "Anti-Arrhythmia Agents",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Blood thinners",
+            "C0003280",
+            "Anticoagulants",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Anticoagulants",
+            "C0003280",
+            "Anticoagulants",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "warfarin",
+            "C0043031",
+            "warfarin",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Hazardous or Poisonous Substance"
+            ]
+        ],
+        [
+            "apixaban",
+            "C1831808",
+            "apixaban",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "dabigatran",
+            "C2348066",
+            "dabigatran",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "edoxaban",
+            "C2975435",
+            "edoxaban",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "rivaroxaban",
+            "C1739768",
+            "rivaroxaban",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Cardioversion therapy",
+            "C0514647",
+            "Provide antiarrhythmic therapy according to unit policy (e.g., antiarrhythmic medication, cardioversion, or defibrillation), as appropriate",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Electrical cardioversion",
+            "C0013778",
+            "Electric Countershock",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Drug cardioversion",
+            "C0199550",
+            "Atrial cardioversion",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Atrioventricular (AV) node ablation",
+            "C1998174",
+            "Ablation of atrioventricular node",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Cardiac ablation",
+            "C0162563",
+            "Cardiac ablation",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Maze procedure",
+            "C1260336",
+            "Maze Procedure",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Hybrid atrial fibrillation ablation",
+            "C2702800",
+            "catheter ablation for atrial fibrillation",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Pulsed field ablation",
+            "C5691310",
+            "Pulse Field Ablation",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "left atrial appendage closure",
+            "C4759306",
+            "Left Atrial Appendage Closure",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "518.81: Respiratory failure": [
+        [
+            "Supplemental oxygen",
+            "C2016153",
+            "rate of supplemental oxygen",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Mechanical ventilation",
+            "C0199470",
+            "Mechanical ventilation",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "intravenous fluids",
+            "C0522792",
+            "Administration of intravenous fluids",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "244.9: Hypothyroidism": [
+        [
+            "thyroid hormone medicine",
+            "C0279175",
+            "Thyroid preparations",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "levothyroxine",
+            "C0040165",
+            "levothyroxine",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance",
+                "Hormone"
+            ]
+        ]
+    ],
+    "486: Pneumonia": [
+        [
+            "Antibiotics",
+            "C0003232",
+            "Antibiotics",
+            [
+                "Antibiotic"
+            ]
+        ],
+        [
+            "Cough medicine",
+            "C0720725",
+            "Guaiasorb Cough Medicine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Fever reducers",
+            "C0305984",
+            "Dorcol Children's Fever & Pain Reducer",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "pain relievers",
+            "C0002771",
+            "Analgesics",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Hazardous or Poisonous Substance"
+            ]
+        ],
+        [
+            "aspirin",
+            "C0004057",
+            "aspirin",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "ibuprofen",
+            "C0020740",
+            "ibuprofen",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "acetaminophen",
+            "C0000970",
+            "acetaminophen",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ]
+    ],
+    "995.92: Sepsis": [
+        [
+            "Antibiotics",
+            "C0003232",
+            "Antibiotics",
+            [
+                "Antibiotic"
+            ]
+        ],
+        [
+            "Broad-spectrum antibiotics",
+            "C0355853",
+            "Broad spectrum penicillin",
+            [
+                "Organic Chemical",
+                "Antibiotic"
+            ]
+        ],
+        [
+            "intravenous fluids",
+            "C0522792",
+            "Administration of intravenous fluids",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Vasopressors",
+            "C0042397",
+            "Vasoconstrictor Agents",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "insulin for blood sugar levels",
+            "C0853230",
+            "Blood insulin",
+            [
+                "Laboratory Procedure"
+            ]
+        ],
+        [
+            "Painkillers",
+            "C0002771",
+            "Analgesics",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Hazardous or Poisonous Substance"
+            ]
+        ],
+        [
+            "oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "Dialysis",
+            "C0011946",
+            "Dialysis procedure",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Surgery",
+            "C0543467",
+            "Operative Surgical Procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "311: Major depressive disorder": [
+        [
+            "antidepressants",
+            "C0003289",
+            "Antidepressive Agents",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Selective serotonin reuptake inhibitors",
+            "C0360105",
+            "Selective Serotonin Reuptake Inhibitors",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "citalopram",
+            "C0008845",
+            "citalopram",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "escitalopram",
+            "C1099456",
+            "escitalopram",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "fluoxetine",
+            "C0016365",
+            "fluoxetine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "paroxetine",
+            "C0070122",
+            "paroxetine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "sertraline",
+            "C0074393",
+            "sertraline",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "vilazodone",
+            "C1530072",
+            "vilazodone",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Serotonin-norepinephrine reuptake inhibitors",
+            "C1579361",
+            "Serotonin and Norepinephrine Reuptake Inhibitors (SNRIs)",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "duloxetine",
+            "C0245561",
+            "duloxetine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "venlafaxine",
+            "C0078569",
+            "venlafaxine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "desvenlafaxine",
+            "C1880288",
+            "desvenlafaxine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "levomilnacipran",
+            "C3541367",
+            "levomilnacipran",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Atypical antidepressants",
+            "C0242905",
+            "Antidepressive Agents, Second-Generation",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "bupropion",
+            "C0085208",
+            "bupropion",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "mirtazapine",
+            "C0049506",
+            "mirtazapine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "nefazodone",
+            "C0068485",
+            "nefazodone",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "trazodone",
+            "C0040805",
+            "trazodone",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "vortioxetine",
+            "C3661282",
+            "vortioxetine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Tricyclic antidepressants",
+            "C0003290",
+            "Tricyclic Antidepressive Agents",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "imipramine",
+            "C0020934",
+            "imipramine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "nortriptyline",
+            "C0028420",
+            "nortriptyline",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "amitriptyline",
+            "C0002600",
+            "amitriptyline",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "doxepin",
+            "C0013085",
+            "doxepin",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "trimipramine",
+            "C0041056",
+            "trimipramine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "desipramine",
+            "C0011685",
+            "desipramine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "protriptyline",
+            "C0033743",
+            "protriptyline",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Monoamine oxidase inhibitors",
+            "C0026457",
+            "Monoamine Oxidase Inhibitors",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "tranylcypromine",
+            "C0040778",
+            "tranylcypromine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "phenelzine",
+            "C0031392",
+            "phenelzine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "isocarboxazid",
+            "C0022154",
+            "isocarboxazid",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "selegiline",
+            "C0036579",
+            "selegiline",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "mood stabilizers",
+            "C4020582",
+            "Mood Stabilizers",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "antipsychotics",
+            "C0040615",
+            "Antipsychotic Agents",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Anti-anxiety and stimulant medications",
+            "C0040616",
+            "Anti-Anxiety Agents",
+            [
+                "Pharmacologic Substance"
+            ]
+        ]
+    ],
+    "287.5: Thrombocytopenia": [
+        [
+            "Blood or platelet transfusions",
+            "C0086818",
+            "Platelet Transfusion",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "transfusions of packed red blood cells or platelets",
+            "C0199962",
+            "Transfusion of packed red blood cells",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "stronger medications can be used to suppress your immune system",
+            null,
+            null,
+            null
+        ],
+        [
+            "Corticosteroid",
+            "C3536709",
+            "Corticosteroid [EPC]",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Surgery",
+            "C0543467",
+            "Operative Surgical Procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Splenectomy",
+            "C0037995",
+            "Splenectomy",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Plasma exchange",
+            "C0032113",
+            "Plasma Exchange",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "455.2: Hemorrhoid": [
+        [
+            "surgical procedures",
+            "C0543467",
+            "Operative Surgical Procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "surgery",
+            "C0543467",
+            "Operative Surgical Procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Hemorrhoid removal",
+            "C5694718",
+            "Removal of multiple hemorrhoid groups",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "hemorrhoidectomy",
+            "C0019108",
+            "Hemorrhoidectomy",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "local anesthetic",
+            "C3536836",
+            "Local Anesthetic [EPC]",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Spinal anesthesia",
+            "C0002928",
+            "Spinal Anesthesia",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "general anesthesia",
+            "C0002915",
+            "General Anesthesia",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Hemorrhoid stapling",
+            "C1445908",
+            "Stapling of hemorrhoid",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "stapled hemorrhoidopexy",
+            "C1504256",
+            "Hemorrhoidopexy (eg, for prolapsing internal hemorrhoids) by stapling",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "852.00: Subarachnoid hemorrhage": [
+        [
+            "surgery",
+            "C0543467",
+            "Operative Surgical Procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "metal clip",
+            "C3695144",
+            "percutaneous breast biopsy with placement of metallic localization clip using ultrasound guidance",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "Endovascular embolization",
+            "C0189713",
+            "Repair of aneurysm by endovascular coil embolization",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "nimodipine",
+            "C0028094",
+            "nimodipine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "ventriculostomy catheter",
+            "C0042517",
+            "Ventriculostomy",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "lumbar drains",
+            "C0150396",
+            "Ventriculostomy/lumbar drain care",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "physical, occupational and speech therapy",
+            "C5441487",
+            "Physical, occupational, and respiratory therapy treatment",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "252.00: Hyperparathyroidism": [
+        [
+            "surgery",
+            "C0543467",
+            "Operative Surgical Procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "calcimimetics",
+            "C1443768",
+            "Calcimimetic Agents",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "cinacalcet",
+            "C1337242",
+            "cinacalcet",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "vitamin D analogs",
+            "C1520059",
+            "Vitamin D Analog",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Vitamin"
+            ]
+        ]
+    ],
+    "331.82: Dementia with Lewy bodies": [
+        [
+            "Cholinesterase inhibitors",
+            "C0008425",
+            "Cholinesterase Inhibitors",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "rivastigmine",
+            "C0649350",
+            "rivastigmine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "donepezil",
+            "C0527316",
+            "donepezil",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "galantamine",
+            "C0016967",
+            "galantamine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "memantine",
+            "C0025242",
+            "memantine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "carbidopa-levodopa",
+            "C0353697",
+            "carbidopa / levodopa",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "quetiapine",
+            "C0123091",
+            "quetiapine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "clozapine",
+            "C0009079",
+            "clozapine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Tolerating the behavior",
+            null,
+            null,
+            null
+        ],
+        [
+            "Modifying the environment",
+            "C0512934",
+            "Modify the environment to minimize hazards and risk",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Creating daily routines",
+            null,
+            null,
+            null
+        ]
+    ],
+    "465.9: Sinusitis": [
+        [
+            "Nasal corticosteroids",
+            "C3540700",
+            "Antiallergic nasal preparations for topical use, excl. corticosteroids",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Fluticasone",
+            "C0082607",
+            "fluticasone",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Budesonide",
+            "C0054201",
+            "budesonide",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Mometasone",
+            "C0360564",
+            "mometasone",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Beclomethasone",
+            "C0004905",
+            "beclomethasone",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Hormone"
+            ]
+        ],
+        [
+            "Saline nasal rinses",
+            "C3897009",
+            "Nasal Saline Irrigation Solution",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Neti pot",
+            "C3642576",
+            "sodium bicarbonate 700 MG / sodium chloride 2300 MG Powder for Nasal Solution",
+            [
+                "Clinical Drug"
+            ]
+        ],
+        [
+            "Corticosteroids shots or pills",
+            "C0582125",
+            "Corticosteroid and/or corticosteroid derivative",
+            [
+                "Organic Chemical",
+                "Hormone"
+            ]
+        ],
+        [
+            "Allergy medicines",
+            "C0718386",
+            "Allergy Medicine Antihistamine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Aspirin desensitization treatment",
+            "C0474192",
+            "Aspirin desensitization therapy",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Dupilumab",
+            "C3660996",
+            "dupilumab",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance",
+                "Immunologic Factor"
+            ]
+        ],
+        [
+            "Omalizumab",
+            "C0966225",
+            "omalizumab",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance",
+                "Immunologic Factor"
+            ]
+        ],
+        [
+            "Mepolizumab",
+            "C0969324",
+            "mepolizumab",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance",
+                "Immunologic Factor"
+            ]
+        ],
+        [
+            "Antibiotics",
+            "C0003232",
+            "Antibiotics",
+            [
+                "Antibiotic"
+            ]
+        ],
+        [
+            "Immunotherapy",
+            "C0021083",
+            "Immunotherapy",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Endoscopic sinus surgery",
+            "C4763878",
+            "Endoscopic Sinus Surgery",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "780.4: Dizziness": [
+        [
+            "water pills",
+            "C0012798",
+            "Diuretics",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "diuretic",
+            "C5399719",
+            "Diuretic [APC]",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Medications that relieve dizziness and nausea",
+            null,
+            null,
+            null
+        ],
+        [
+            "antihistamines",
+            "C0019590",
+            "Histamine Antagonists",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "anticholinergics",
+            "C3537307",
+            "Anticholinergics inhalants for obstructive airway diseases",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Anti-anxiety medications",
+            "C0040616",
+            "Anti-Anxiety Agents",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Diazepam",
+            "C0012010",
+            "diazepam",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "alprazolam",
+            "C0002333",
+            "alprazolam",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "benzodiazepines",
+            "C0005064",
+            "Benzodiazepines",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Preventive medicine for migraine",
+            "C3693660",
+            "preventive medicine screening for adult depression",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "372.30: Conjunctivitis": [
+        [
+            "eye drops",
+            "C1154269",
+            "Eye drops brand of Tetrahydrozoline",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "antihistamines",
+            "C0019590",
+            "Histamine Antagonists",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "mast cell stabilizers",
+            "C1268905",
+            "Mast cell stabilizer",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "decongestants",
+            "C0282374",
+            "Decongestants",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "steroids",
+            "C0038317",
+            "Steroids",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "anti-inflammatory drops",
+            "C0003209",
+            "Anti-Inflammatory Agents",
+            [
+                "Pharmacologic Substance"
+            ]
+        ]
+    ],
+    "196.0: Melanoma": [
+        [
+            "Radiation therapy",
+            "C1522449",
+            "Radiation therapy (procedure)",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Laser treatment",
+            "C0850168",
+            "Laser treatment",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "thermotherapy",
+            "C0020548",
+            "Induced Hyperthermia",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "435.9: Transient ischemic attack": [
+        [
+            "Anti-platelet drugs",
+            "C2963157",
+            "Anti-platelet drugs",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Aspirin",
+            "C0004057",
+            "aspirin",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "clopidogrel",
+            "C0070166",
+            "clopidogrel",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Anticoagulants",
+            "C0003280",
+            "Anticoagulants",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "apixaban",
+            "C1831808",
+            "apixaban",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "rivaroxaban",
+            "C1739768",
+            "rivaroxaban",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "edoxaban",
+            "C2975435",
+            "edoxaban",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "dabigatran",
+            "C2348066",
+            "dabigatran",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "warfarin",
+            "C0043031",
+            "warfarin",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Hazardous or Poisonous Substance"
+            ]
+        ]
+    ],
+    "078.5: Cytomegalovirus": [
+        [
+            "Antiviral medications",
+            "C0003451",
+            "Antiviral Agents",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "vaccines",
+            "C0042210",
+            "Vaccines",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance",
+                "Immunologic Factor"
+            ]
+        ]
+    ],
+    "746.02: Pulmonary valve stenosis": [
+        [
+            "Balloon valvuloplasty",
+            "C0004708",
+            "Balloon Valvuloplasty",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Pulmonary valve replacement",
+            "C0190129",
+            "Replacement of pulmonary valve",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "open-heart surgery",
+            "C0189745",
+            "Open heart surgery",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "catheter procedure",
+            "C0455760",
+            "Catheter procedure",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "567.9: Peritonitis": [
+        [
+            "antibiotics",
+            "C0003232",
+            "Antibiotics",
+            [
+                "Antibiotic"
+            ]
+        ],
+        [
+            "Surgery",
+            "C0543467",
+            "Operative Surgical Procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Pain medications",
+            "C0508321",
+            "Administer pain medications, as needed",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "intravenous fluids",
+            "C0522792",
+            "Administration of intravenous fluids",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Oxygen",
+            "C0030054",
+            "oxygen",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance",
+                "Element, Ion, or Isotope"
+            ]
+        ],
+        [
+            "blood transfusion",
+            "C0005841",
+            "Blood Transfusion",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "dialysis",
+            "C0011946",
+            "Dialysis procedure",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "322.9: Meningitis": [
+        [
+            "bed rest",
+            "C0004910",
+            "Bed rest",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "plenty of fluids",
+            "C1567107",
+            "SH3RF1 protein, human",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Enzyme"
+            ]
+        ],
+        [
+            "Pain medicine",
+            "C0002771",
+            "Analgesics",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Hazardous or Poisonous Substance"
+            ]
+        ]
+    ],
+    "198.4: Brain tumor": [
+        [
+            "Radiosurgery",
+            "C0085203",
+            "Radiosurgery",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Linear accelerator radiosurgery",
+            "C0086561",
+            "Radiosurgery, Linear Accelerator",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Gamma Knife radiosurgery",
+            "C0086330",
+            "Gamma Knife Radiosurgery",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Proton radiosurgery",
+            "C0864457",
+            "Particulate radiosurgery using proton accelerator",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "801.21: Craniosynostosis": [
+        [
+            "surgery",
+            "C0543467",
+            "Operative Surgical Procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "endoscopic surgery",
+            "C0282493",
+            "Surgical Endoscopy",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "open surgery",
+            "C0189745",
+            "Open heart surgery",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "blood transfusion",
+            "C0005841",
+            "Blood Transfusion",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "345.10: Epilepsy": [
+        [
+            "Vagus nerve stimulation",
+            "C2350432",
+            "Vagus Nerve Stimulation",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Deep brain stimulation",
+            "C0394162",
+            "Deep Brain Stimulation",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Responsive neurostimulation",
+            "C5202551",
+            "Electronic analysis with simple programming of implanted integrated neurostimulation system (eg, electrode array and receiver), including contact group(s), amplitude, pulse width, frequency (Hz), on/off cycling, burst, dose lockout, patient-selectable parameters, responsive neurostimulation, detection algorithms, closed-loop parameters, and passive parameters, when performed by physician or other qualified health care professional, posterior tibial nerve, 1-3 parameters",
+            [
+                "Diagnostic Procedure"
+            ]
+        ]
+    ],
+    "714.2: Lupus": [
+        [
+            "NSAIDs",
+            "C0003211",
+            "Anti-Inflammatory Agents, Non-Steroidal",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "naproxen sodium",
+            "C0546873",
+            "naproxen sodium",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "ibuprofen",
+            "C0020740",
+            "ibuprofen",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Antimalarial drugs",
+            "C0003374",
+            "Antimalarials",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "hydroxychloroquine",
+            "C0020336",
+            "hydroxychloroquine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Corticosteroids",
+            "C3540727",
+            "Corticosteroids, topical for treatment of hemorrhoids and anal fissures",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Prednisone",
+            "C0032952",
+            "prednisone",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Hormone"
+            ]
+        ],
+        [
+            "methylprednisolone",
+            "C0025815",
+            "methylprednisolone",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Hormone"
+            ]
+        ],
+        [
+            "Immunosuppressants",
+            "C0021081",
+            "Immunosuppressive Agents",
+            [
+                "Pharmacologic Substance",
+                "Immunologic Factor"
+            ]
+        ],
+        [
+            "azathioprine",
+            "C0004482",
+            "azathioprine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Hazardous or Poisonous Substance"
+            ]
+        ],
+        [
+            "mycophenolate",
+            "C0883242",
+            "mycophenolate",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "methotrexate",
+            "C0025677",
+            "methotrexate",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "cyclosporine",
+            "C0010592",
+            "cyclosporine",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "leflunomide",
+            "C0063041",
+            "leflunomide",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Biologics",
+            "C4553887",
+            "Biopharmaceuticals",
+            [
+                "Pharmacologic Substance",
+                "Biologically Active Substance"
+            ]
+        ],
+        [
+            "belimumab",
+            "C1723401",
+            "belimumab",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance",
+                "Immunologic Factor"
+            ]
+        ],
+        [
+            "Rituximab",
+            "C0393022",
+            "rituximab",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance",
+                "Immunologic Factor"
+            ]
+        ],
+        [
+            "voclosporin",
+            "C2607219",
+            "voclosporin",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "abatacept",
+            "C1619966",
+            "abatacept",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "anifrolumab",
+            "C4519739",
+            "anifrolumab",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance",
+                "Immunologic Factor"
+            ]
+        ]
+    ],
+    "517.2: Systemic scleroderma": [
+        [
+            "Blood pressure medications",
+            null,
+            null,
+            null
+        ],
+        [
+            "Drugs that suppress the immune system",
+            "C0021081",
+            "Immunosuppressive Agents",
+            [
+                "Pharmacologic Substance",
+                "Immunologic Factor"
+            ]
+        ],
+        [
+            "Pills to reduce stomach acid",
+            "C5694541",
+            "Banding of upper stomach to reduce size of stomach",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Antibiotics",
+            "C0003232",
+            "Antibiotics",
+            [
+                "Antibiotic"
+            ]
+        ],
+        [
+            "Cleaning and protection from the cold",
+            "C2145802",
+            "transverse colon procedure duodenum protected from injury",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Influenza and pneumonia vaccinations",
+            "C0042200",
+            "Influenza vaccination",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "hand therapy",
+            "C0729315",
+            "Hand therapy",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "stem cell transplants",
+            "C1504389",
+            "Stem cell transplant",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Bone marrow transplant",
+            "C0005961",
+            "Bone Marrow Transplantation",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Kidney transplant",
+            "C0022671",
+            "Kidney Transplantation",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Lung transplant",
+            "C0024128",
+            "Lung Transplantation",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "202.40: Hairy cell leukemia": [
+        [
+            "Chemotherapy",
+            "C3665472",
+            "Chemotherapy",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "581.1: Nephrotic syndrome": [
+        [
+            "Blood pressure medications",
+            null,
+            null,
+            null
+        ],
+        [
+            "angiotensin-converting enzyme (ACE) inhibitors",
+            "C0003015",
+            "Angiotensin-Converting Enzyme Inhibitors",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "lisinopril",
+            "C0065374",
+            "lisinopril",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "benazepril",
+            "C0053091",
+            "benazepril",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "captopril",
+            "C0006938",
+            "captopril",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "enalapril",
+            "C0014025",
+            "enalapril",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Water pills",
+            "C0012798",
+            "Diuretics",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Diuretics",
+            "C0012798",
+            "Diuretics",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "furosemide",
+            "C0016860",
+            "furosemide",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "spironolactone",
+            "C0037982",
+            "spironolactone",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "thiazides",
+            "C0541746",
+            "Thiazides",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "hydrochlorothiazide",
+            "C0020261",
+            "hydrochlorothiazide",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "metolazone",
+            "C0025854",
+            "metolazone",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Blood thinners",
+            "C0003280",
+            "Anticoagulants",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Anticoagulants",
+            "C0003280",
+            "Anticoagulants",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "heparin",
+            "C0019134",
+            "heparin",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Biologically Active Substance"
+            ]
+        ],
+        [
+            "warfarin",
+            "C0043031",
+            "warfarin",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Hazardous or Poisonous Substance"
+            ]
+        ],
+        [
+            "dabigatran",
+            "C2348066",
+            "dabigatran",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "apixaban",
+            "C1831808",
+            "apixaban",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "rivaroxaban",
+            "C1739768",
+            "rivaroxaban",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Immune system-suppressing medications",
+            "C0021081",
+            "Immunosuppressive Agents",
+            [
+                "Pharmacologic Substance",
+                "Immunologic Factor"
+            ]
+        ],
+        [
+            "Corticosteroids",
+            "C3540727",
+            "Corticosteroids, topical for treatment of hemorrhoids and anal fissures",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "rituximab",
+            "C0393022",
+            "rituximab",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance",
+                "Immunologic Factor"
+            ]
+        ],
+        [
+            "cyclosporine",
+            "C0010592",
+            "cyclosporine",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "cyclophosphamide",
+            "C0010583",
+            "cyclophosphamide",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ]
+    ],
+    "729.82: Cramp": [
+        [
+            "Pain relievers",
+            "C0002771",
+            "Analgesics",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Hazardous or Poisonous Substance"
+            ]
+        ],
+        [
+            "ibuprofen",
+            "C0020740",
+            "ibuprofen",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "naproxen sodium",
+            "C0546873",
+            "naproxen sodium",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "nonsteroidal anti-inflammatory drugs",
+            "C0003211",
+            "Anti-Inflammatory Agents, Non-Steroidal",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Hormonal birth control",
+            "C2985296",
+            "Hormonal Contraception",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "oral birth control pills",
+            "C0741514",
+            "BIRTH CONTROL PILL TREATMENT",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "injection",
+            "C1533685",
+            "Injection procedure",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "skin patch",
+            null,
+            null,
+            null
+        ],
+        [
+            "implant",
+            "C0021107",
+            "Implantation procedure",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "flexible ring",
+            "C0577992",
+            "Flexible cystoscopy",
+            [
+                "Diagnostic Procedure"
+            ]
+        ],
+        [
+            "intrauterine device",
+            "C0559236",
+            "Intrauterine device check",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "027.0: Listeriosis": [
+        [
+            "antibiotics",
+            "C0003232",
+            "Antibiotics",
+            [
+                "Antibiotic"
+            ]
+        ],
+        [
+            "prompt antibiotic treatment",
+            "C0812139",
+            "Prompted voiding",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "238.76: Myelofibrosis": [
+        [
+            "Blood transfusions",
+            "C0005841",
+            "Blood Transfusion",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Androgen therapy",
+            "C0279493",
+            "Androgen therapy",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Thalidomide",
+            "C0039736",
+            "thalidomide",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Hazardous or Poisonous Substance"
+            ]
+        ],
+        [
+            "lenalidomide",
+            "C1144149",
+            "lenalidomide",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "steroid medications",
+            "C0002845",
+            "Androgens, Synthetic",
+            [
+                "Pharmacologic Substance",
+                "Hormone"
+            ]
+        ]
+    ],
+    "250.30: Diabetes": [
+        [
+            "healthy diet",
+            "C0811813",
+            "Promote a healthy diet",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "exercise",
+            "C1522704",
+            "Exercise Pain Management",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "insulin",
+            "C0021641",
+            "Insulin",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance",
+                "Hormone"
+            ]
+        ]
+    ],
+    "729.2: Neuralgia": [
+        [
+            "depression medicines",
+            "C3693660",
+            "preventive medicine screening for adult depression",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Nortriptyline",
+            "C0028420",
+            "nortriptyline",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Amitriptyline",
+            "C0002600",
+            "amitriptyline",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Duloxetine",
+            "C0245561",
+            "duloxetine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Venlafaxine",
+            "C0078569",
+            "venlafaxine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ]
+    ],
+    "706.2: Sebaceous cyst": [
+        [
+            "Injection",
+            "C1533685",
+            "Injection procedure",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Incision and drainage",
+            "C0152277",
+            "Incision and drainage",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Minor surgery",
+            "C0038904",
+            "Minor Surgical Procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "816.00: Bone fracture": [
+        [
+            "wear a walking boot or brace",
+            "C2014610",
+            "pneumatic walking boot/splint",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "use crutches",
+            "C2094349",
+            "nursing care: patient ambulatory assist devices teach use crutch",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "surgery",
+            "C0543467",
+            "Operative Surgical Procedures",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "388.69: Otitis media": [
+        [
+            "pain medication",
+            "C0002771",
+            "Analgesics",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Hazardous or Poisonous Substance"
+            ]
+        ],
+        [
+            "acetaminophen",
+            "C0000970",
+            "acetaminophen",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "ibuprofen",
+            "C0020740",
+            "ibuprofen",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "anesthetic drops",
+            "C0305239",
+            "Americaine Otic Topical Anesthetic Ear Drops",
+            [
+                "Clinical Drug"
+            ]
+        ]
+    ],
+    "277.1: Inborn errors of metabolism": [
+        [
+            "special diets",
+            "C0184626",
+            "RNIx special diet",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "enzyme replacement",
+            "C0598391",
+            "Enzyme Replacement Therapy",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "vitamin therapy",
+            "C1533658",
+            "vitamin therapy",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "liver transplants",
+            "C0023911",
+            "Transplantation of liver",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "770.4: Atelectasis": [
+        [
+            "breathing tube",
+            "C5697568",
+            "Change of breathing tube in windpipe",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Continuous positive airway pressure",
+            "C0199451",
+            "Continuous Positive Airway Pressure",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "218.2: Adenomyosis": [
+        [
+            "Anti-inflammatory drugs",
+            "C0003209",
+            "Anti-Inflammatory Agents",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Ibuprofen",
+            "C0020740",
+            "ibuprofen",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "Hormone medications",
+            "C0001655",
+            "corticotropin",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance",
+                "Hormone"
+            ]
+        ],
+        [
+            "estrogen-progestin birth control pills",
+            "C0741514",
+            "BIRTH CONTROL PILL TREATMENT",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "patches",
+            null,
+            null,
+            null
+        ],
+        [
+            "vaginal rings",
+            "C4761166",
+            "Vaginal ring contraceptive method",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Progestin-only contraception",
+            "C5552941",
+            "Progestin Only Hormonal Contraception",
+            [
+                "Clinical Drug"
+            ]
+        ],
+        [
+            "Intrauterine device",
+            "C0559236",
+            "Intrauterine device check",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "continuous-use birth control pills",
+            "C0741514",
+            "BIRTH CONTROL PILL TREATMENT",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "Hysterectomy",
+            "C0020699",
+            "Hysterectomy",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ]
+    ],
+    "691.8: Atopic dermatitis": [
+        [
+            "creams",
+            "C4528825",
+            "Topical Solution/Creams, Pediculicidal",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "gels",
+            "C0599034",
+            "Silicone Gels",
+            [
+                "Organic Chemical",
+                "Biomedical or Dental Material"
+            ]
+        ],
+        [
+            "ointments",
+            "C4699791",
+            "Topical agents: Ointments",
+            [
+                "Therapeutic or Preventive Procedure"
+            ]
+        ],
+        [
+            "corticosteroid",
+            "C3536709",
+            "Corticosteroid [EPC]",
+            [
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "antibiotic pills",
+            "C0003232",
+            "Antibiotics",
+            [
+                "Antibiotic"
+            ]
+        ],
+        [
+            "cyclosporine",
+            "C0010592",
+            "cyclosporine",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "methotrexate",
+            "C0025677",
+            "methotrexate",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "prednisone",
+            "C0032952",
+            "prednisone",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Hormone"
+            ]
+        ],
+        [
+            "mycophenolate",
+            "C0883242",
+            "mycophenolate",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance"
+            ]
+        ],
+        [
+            "azathioprine",
+            "C0004482",
+            "azathioprine",
+            [
+                "Organic Chemical",
+                "Pharmacologic Substance",
+                "Hazardous or Poisonous Substance"
+            ]
+        ],
+        [
+            "dupilumab",
+            "C3660996",
+            "dupilumab",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance",
+                "Immunologic Factor"
+            ]
+        ],
+        [
+            "tralokinumab",
+            "C3658667",
+            "tralokinumab",
+            [
+                "Amino Acid, Peptide, or Protein",
+                "Pharmacologic Substance",
+                "Immunologic Factor"
+            ]
+        ]
+    ]
+}

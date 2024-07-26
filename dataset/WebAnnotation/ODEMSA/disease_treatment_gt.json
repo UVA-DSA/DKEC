@@ -1,0 +1,404 @@
+{
+    "Medical - Chest Pain - Cardiac Suspected (Protocol 2 - 1)": [
+        "CPR",
+        "defibrillation",
+        "oxygen",
+        "cardiac monitor",
+        "12 lead ECG",
+        "ALS",
+        "ASPIRIN",
+        "IV",
+        "normal saline",
+        "MIDAZOLAM",
+        "DIAZEPAM",
+        "NITROGLYCERIN",
+        "PRESCRIBED NITROGLYCERIN",
+        "nitroglycerin paste",
+        "FENTANYL",
+        "MORPHINE"
+    ],
+    "Medical - ST Elevation Myocardial Infarction (ACS/AMI) (Protocol 2 - 2)": [
+        "oxygen",
+        "IV",
+        "normal saline",
+        "12 lead ECG",
+        "cardiac monitor",
+        "ASA",
+        "NITROGLYCERIN"
+    ],
+    "Medical - Pulmonary Edema/CHF (Protocol 2 - 3)": [
+        "oxygen",
+        "CPAP",
+        "endotracheal intubation",
+        "pulse oximetry",
+        "IV",
+        "normal saline",
+        "12 lead ECG",
+        "NITROGLYCERIN",
+        "LASIX",
+        "ALBUTEROL",
+        "ATROVENT",
+        "FENTANYL"
+    ],
+    "Medical - Supraventricular Tachycardia (including atrial fibrillation) Medical - Tachycardia Medical - Ventricular Tachycardia with a Pulse (Protocol 2 - 8)": [],
+    "Medical - Bradycardia (Protocol 2 - 9)": [],
+    "Medical - Abdominal Pain (Protocol 3 - 2)": [
+        "pulse oximetry",
+        "Oxygen",
+        "cardiac monitor",
+        "distraction",
+        "breathing techniques",
+        "IV",
+        "Normal Saline",
+        "12-Lead ECG",
+        "ONDANSETRON",
+        "orally dissolving tablet"
+    ],
+    "Medical - Allergic Reaction/Anaphylaxis (Protocol 3 - 3)": [
+        "oxygen",
+        "autoinjector",
+        "epinephrine",
+        "DIPHENHYDRAMINE",
+        "IV",
+        "normal saline"
+    ],
+    "General - Behavioral/Patient Restraint (Protocol 3 - 4)": [
+        "Request police",
+        "Patient management",
+        "Oxygen",
+        "Glucose determination",
+        "Physically restrain",
+        "Chemical Restraint",
+        "MIDAZOLAM",
+        "DIAZEPAM",
+        "GEODON",
+        "Haldol"
+    ],
+    "Medical - Stroke/TIA (Protocol 3 - 5)": [
+        "Oxygen",
+        "BVM",
+        "Cincinnati or FAST stroke evaluation",
+        "VAN",
+        "glucose determination",
+        "IV",
+        "normal saline",
+        "Cardiac monitor",
+        "12 lead ECG"
+    ],
+    "Medical - Diabetic - Hyperglycemia (Protocol 3 - 7)": [
+        "oxygen",
+        "IV",
+        "normal saline",
+        "cardiac monitor",
+        "12 lead ECG"
+    ],
+    "Medical - Diabetic - Hypoglycemia (Protocol 3 - 8)": [
+        "oxygen",
+        "Oral Glucose",
+        "Glucagon",
+        "DEXTROSE"
+    ],
+    "Medical - Nausea/Vomiting (Protocol 3 - 9)": [
+        "oxygen",
+        "IV",
+        "normal saline",
+        "ONDANSETRON"
+    ],
+    "General - Pain Control (Protocol 3 - 10)": [
+        "oxygen",
+        "non-opioid treatment",
+        "Nitronox",
+        "Acetaminophen",
+        "Nonsteroidal",
+        "ibuprofen",
+        "TORADOL",
+        "IV",
+        "normal saline",
+        "fentanyl",
+        "morphine sulfate",
+        "Ondansetron"
+    ],
+    "Medical - Respiratory Distress/Asthma/COPD/Croup/Reactive Airway (Respiratory Distress) (Protocol 3 - 11)": [
+        "oxygen",
+        "BVM",
+        "BRONCHODILATOR METERED DOSE INHALER",
+        "BVM ventilation",
+        "ENDOTRACHEAL TUBE",
+        "ALBUTEROL",
+        "IPRATOPRIUM",
+        "DEXAMETHASONE",
+        "CPAP",
+        "MAGNESIUM SULFATE",
+        "EPINEPHRINE"
+    ],
+    "Medical - Seizure (Protocol 3 - 12)": [
+        "Suction the oro/nasopharynx",
+        "nasopharyngeal airway",
+        "oxygen",
+        "BVM",
+        "glucose determination",
+        "IV",
+        "normal saline",
+        "MIDAZOLAM",
+        "DIAZEPAM",
+        "cardiac monitor"
+    ],
+    "Medical - Hypotension/Shock (Nontrauma) (Protocol 3 - 13)": [
+        "oxygen",
+        "BVM",
+        "tourniquet",
+        "IV",
+        "IO",
+        "Normal Saline",
+        "bolus",
+        "Norepinephrine",
+        "Dopamine"
+    ],
+    "Medical - Altered Mental Status (Protocol 3 - 15)": [
+        "supine position",
+        "oxygen",
+        "glucose check",
+        "cardiac monitor",
+        "12 lead ECG",
+        "IV",
+        "Normal Saline"
+    ],
+    "Airway - Failed (Protocol 3 - 16)": [
+        "Oxygen",
+        "head-tilt-chin-lift",
+        "jaw thrust",
+        "oral or nasal airway adjuncts",
+        "two man bag-valve-mask",
+        "intubation",
+        "alternative airway",
+        "medication facilitated intubation",
+        "surgical airway",
+        "Needle Cricothyrotomy"
+    ],
+    "Injury - Abdominal Trauma (Abdominal Trauma) (Protocol 4 - 2)": [
+        "oxygen",
+        "BVM",
+        "C-spine precautions",
+        "IV",
+        "normal saline",
+        "Pain Control",
+        "ONDANSETRON",
+        "Nausea/Vomiting protocol"
+    ],
+    "Injury - Burns - Thermal (Protocol 4 - 3)": [
+        "sterile water",
+        "saline",
+        "Tepid water",
+        "sterile",
+        "Oxygen",
+        "Orotracheal intubation",
+        "IV",
+        "NS",
+        "Wet dressing"
+    ],
+    "Injury - Crush Syndrome (Protocol 4 - 4)": [
+        "oxygen",
+        "BVM",
+        "IV",
+        "bolus",
+        "tourniquet",
+        "12 lead ECG",
+        "FENTANYL",
+        "MORPHINE",
+        "normal saline",
+        "SODIUM BICARBONATE",
+        "ALBUTEROL",
+        "CALCIUM CHLORIDE"
+    ],
+    "Injury - Head (Protocol 4 - 6)": [
+        "oxygen",
+        "BVM",
+        "capnography",
+        "cardiac monitor",
+        "IV",
+        "normal saline"
+    ],
+    "Injury - Thoracic (Protocol 4 - 11)": [
+        "oxygen",
+        "BVM",
+        "C-spine precautions",
+        "needle decompression",
+        "IV",
+        "normal saline",
+        "cardiac monitor",
+        "pain management"
+    ],
+    "Spinal Motion Restriction (Protocol 4 - 13)": [
+        "Cervical spinal motion restriction",
+        "SMR",
+        "Backboards"
+    ],
+    "Hemorrhage Control (Protocol 4 - 14)": [
+        "PPE",
+        "oxygen",
+        "BVM",
+        "direct pressure",
+        "digital pressure",
+        "bandage",
+        "TOURNIQUET",
+        "hemostatic gauze",
+        "packing"
+    ],
+    "Environmental - Hypothermia (Protocol 5 - 1)": [
+        "passive rewarming",
+        "warmed blankets",
+        "CPR",
+        "oxygen",
+        "AED",
+        "cardiac monitor",
+        "defibrillation",
+        "definitive (Supraglottic/dual lumen) airway device",
+        "endotracheal tube",
+        "IV",
+        "Normal Saline",
+        "cardiovascular drugs",
+        "drug therapy"
+    ],
+    "Environmental - Heat Exposure/Heat Exhaustion Environmental - Heat Stroke (Protocol 5 - 2)": [
+        "cool environment",
+        "oxygen",
+        "BVM",
+        "PO fluids",
+        "IV",
+        "Normal Saline",
+        "cardiac monitor",
+        "lukewarm water",
+        "fan",
+        "misting",
+        "fanning",
+        "wet sheets",
+        "IV",
+        "IO",
+        "12 lead ECG"
+    ],
+    "OB/GYN - Childbirth/Labor/Delivery (Protocol 6 - 2)": [
+        "Oxygen",
+        "IV",
+        "Normal Saline",
+        "Infection control precautions",
+        "Elevate buttocks",
+        "Sterile field",
+        "Wrap placenta",
+        "Place sterile pad"
+    ],
+    "OB/GYN - Pre-term Labor (Pre-term Labor) (Protocol 6 - 12)": [
+        "oxygen",
+        "left lateral recumbent position",
+        "delivery",
+        "IV",
+        "Normal Saline"
+    ],
+    "Medical - Overdose/Poisoning - Opioid (Protocol 7 - 1)": [
+        "Oxygen",
+        "IV",
+        "Normal Saline",
+        "NARCAN INTRANASAL",
+        "NARCAN"
+    ],
+    "Medical - Overdose/Poisoning - Stimulant (Protocol 7 - 2)": [
+        "Oxygen",
+        "Suction oropharynx",
+        "IV",
+        "Normal Saline",
+        "MIDAZOLAM",
+        "DIAZEPAM",
+        "12 lead ECG"
+    ],
+    "Medical - Overdose/Poisoning - Calcium Channel Blocker (Protocol 7 - 5)": [
+        "Oxygen",
+        "IV",
+        "Normal Saline",
+        "Bolus",
+        "CALCIUM CHLORIDE",
+        "GLUCAGON",
+        "LEVOPHED"
+    ],
+    "General - Cardiac Arrest (Protocol 8 - 2)": [
+        "Defibrillation",
+        "Epinephrine",
+        "Amiodarone",
+        "Magnesium Sulfate"
+    ],
+    "Medical - Allergic Reaction/Anaphylaxis (Protocol 9 - 2)": [
+        "oxygen",
+        "DIPHENHYDRAMINE",
+        "epinephrine",
+        "normal saline"
+    ],
+    "General - Pain Control (Protocol 9 - 8)": [
+        "oxygen",
+        "IV",
+        "normal saline",
+        "non-opioid treatment",
+        "Nitronox",
+        "Acetaminophen",
+        "Nonsteroidal",
+        "ibuprofen",
+        "TORADOL",
+        "FENTANYL",
+        "KETAMINE",
+        "MORPHINE SULFATE"
+    ],
+    "Medical - Overdose/Poisoning/Toxic Ingestion (Protocol 9 - 9)": [
+        "oxygen",
+        "IV",
+        "normal saline",
+        "NARCAN INTRANASAL",
+        "NARCAN"
+    ],
+    "Medical - Respiratory Distress/Asthma/COPD/Croup/Reactive Airway (Respiratory Distress - Croup/Epiglottits) (Protocol 9 - 11)": [
+        "oxygen",
+        "BVM",
+        "Dexmethasone",
+        "RACEMIC EPINEPHRINE",
+        "Normal Saline",
+        "IV",
+        "12 lead ECG"
+    ],
+    "Medical - Seizure (Protocol 9 - 12)": [
+        "Suction the oro- and nasopharynx",
+        "nasopharyngeal airway",
+        "oxygen",
+        "BVM",
+        "MIDAZOLAM",
+        "DIAZEPAM",
+        "glucose",
+        "IV",
+        "normal saline",
+        "cardiac monitor",
+        "recovery position"
+    ],
+    "Medical - Altered Mental Status (Protocol 9 - 14)": [
+        "oxygen",
+        "NARCAN INTRANASAL",
+        "IV",
+        "Normal Saline"
+    ],
+    "Injury - Burns - Thermal (Protocol 10 - 2)": [
+        "sterile water",
+        "saline",
+        "tepid water",
+        "oxygen",
+        "Endotracheal Intubation",
+        "Cricothyrotomy",
+        "Wet dressing",
+        "IV",
+        "Pain control"
+    ],
+    "Injury - Head (Protocol 10 - 4)": [
+        "oxygen",
+        "BVM",
+        "capnography",
+        "spinal precautions",
+        "PMS",
+        "cardiac monitor",
+        "IV",
+        "normal saline",
+        ""
+    ]
+}
