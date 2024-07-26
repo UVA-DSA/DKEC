@@ -1,12 +1,21 @@
+<p align="center">
+  <img src="https://github.com/UVA-DSA/DKEC/figure/Pipeline.pdf" alt="First Image" width="45%" style="display:inline-block; margin-right:10px;"/>
+  <img src="https://github.com/UVA-DSA/DKEC/figure/HLA.pdf" alt="Second Image" width="45%" style="display:inline-block;"/>
+</p>
+
+
 ## Presentation
 One presentation ppt is available from [here](https://docs.google.com/presentation/d/1UDghDmYYrFjqUCDl9Q_15gfOCsv00Yur/edit#slide=id.p1)
 
 ## Dataset
 * EMS dataset
-  - EMS dataset is not publicly available, however I uploaded the processed dataset into folder 
-*/data/multi_label*
-- MIMIC3 dataset
+  - EMS dataset is not publicly available.
+* MIMIC3 dataset
   - MIMIC3 dataset is publicly available. Refer to [this page](https://physionet.org/content/mimiciii/1.4/) to apply online.
+* Web Annotation
+  -  To evaluate the accuracy of different methods for constructing knowledge graphs, we evenly sampled
+50 codes from head, middle, and tail classes and manually annotated symptoms and treatments from
+Wikipedia and Mayo Clinic website contents for ICD-9 diagnosis codes. For EMS protocols, we manually annotated all 43 protocols in ODEMSA documents.  
 
 
 ## Environment
