@@ -22,7 +22,7 @@ One presentation ppt is available from [here](https://docs.google.com/presentati
   - EMS dataset is not publicly available.
 * MIMIC-III dataset
   - MIMIC-III dataset is publicly available. Refer to [this page](https://physionet.org/content/mimiciii/1.4/) to apply online.
-  - The created adjacent matrix for ICD-9 codes are stored in corresponding MIMIC-III data folder
+  - The created adjacent matrix for ICD-9 codes are stored in corresponding [MIMIC-III data folder](https://github.com/UVA-DSA/DKEC/tree/main/dataset)
     - **SYMPTOM**: icd9code2symptom.json, symptom2icd9code.json
     - **TREATMENT**: icd9code2treatment.json, treatment2icd9.json
 * Web Annotation
