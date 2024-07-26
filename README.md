@@ -87,7 +87,7 @@ chmod +x install.sh
 This section specifies some parameters that can be changed in config file
   - train
     - dataset: MIMIC3-3737 or MIMIC3-1000 or MIMIC3-6668
-    - root_dir: the root the DKEC directory
+    - root_dir: the absolute path the DKEC directory
     - topk: 8 (MIMIC3-3737); 6 (MIMIC3-1000); 12 (MIMIC3-6668)
     - seed: 3407 or 1234 or 42 or 0 or 1 
   - test
