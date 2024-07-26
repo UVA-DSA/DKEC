@@ -14,8 +14,9 @@ sources to capture semantic relations among diverse medical entities.
 ![Architecture](<figure/Pipeline.png>)
 
 
-## Presentation
-One presentation ppt is available from [here](https://docs.google.com/presentation/d/1UDghDmYYrFjqUCDl9Q_15gfOCsv00Yur/edit#slide=id.p1)
+[//]: # (## Presentation)
+
+[//]: # (One presentation ppt is available from [here]&#40;https://docs.google.com/presentation/d/1UDghDmYYrFjqUCDl9Q_15gfOCsv00Yur/edit#slide=id.p1&#41;)
 
 ## Dataset
 * EMS dataset
@@ -96,13 +97,22 @@ This section specifies the terminal commands
 - Cluster: you can run the project with slurm, go to the slurm folder and run with `sbatch whichname.slurm`
 - Local machine: `python main.py ./config/whichname.json`
 
-### Citation
-**[DKEC: Domain knowledge enhanced multi-label classification for electronic health records](https://arxiv.org/pdf/2310.07059)**
-```
-@article{ge2023dkec,
-  title={Dkec: Domain knowledge enhanced multi-label classification for electronic health records},
-  author={Ge, Xueren and Williams, Ronald Dean and Stankovic, John A and Alemzadeh, Homa},
-  journal={arXiv preprint arXiv:2310.07059},
-  year={2023}
-}
-```
+[//]: # (### Citation)
+
+[//]: # (**[DKEC: Domain knowledge enhanced multi-label classification for electronic health records]&#40;https://arxiv.org/pdf/2310.07059&#41;**)
+
+[//]: # (```)
+
+[//]: # (@article{ge2023dkec,)
+
+[//]: # (  title={Dkec: Domain knowledge enhanced multi-label classification for electronic health records},)
+
+[//]: # (  author={Ge, Xueren and Williams, Ronald Dean and Stankovic, John A and Alemzadeh, Homa},)
+
+[//]: # (  journal={arXiv preprint arXiv:2310.07059},)
+
+[//]: # (  year={2023})
+
+[//]: # (})
+
+[//]: # (```)
