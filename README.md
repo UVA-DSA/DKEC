@@ -1,6 +1,14 @@
+## DKEC: Domain Knowledge Enhanced Multi-Label Classification for Diagnosis Prediction
+Multi-label text classification (MLTC) tasks in the medical domain often face the long-tail label distribution problem. 
+Prior works have explored hierarchical label structures to find relevant information for few-shot classes, 
+but mostly neglected to incorporate external knowledge from medical guidelines. 
+This paper presents DKEC, **D**omain **K**nowledge **E**nhanced **C**lassification for diagnosis prediction 
+with two innovations: 
+- (1) automated construction of heterogeneous knowledge graphs from external 
+sources to capture semantic relations among diverse medical entities, 
+![Architecture](<figure/KG.png>)
+- (2) incorporating the heterogeneous knowledge graphs in few-shot classification using a label-wise attention mechanism.
 ![Architecture](<figure/Pipeline.png>)
-
-
 ## Presentation
 One presentation ppt is available from [here](https://docs.google.com/presentation/d/1UDghDmYYrFjqUCDl9Q_15gfOCsv00Yur/edit#slide=id.p1)
 
