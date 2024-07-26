@@ -87,3 +87,14 @@ This section specifies some parameters that can be changed in config file
 This section specifies the terminal commands
 - Cluster: you can run the project with slurm, go to the slurm folder and run with `sbatch whichname.slurm`
 - Local machine: `python main.py ./config/whichname.json`
+
+### Citation
+**[DKEC: Domain knowledge enhanced multi-label classification for electronic health records](https://arxiv.org/pdf/2310.07059)**
+```
+@article{ge2023dkec,
+  title={Dkec: Domain knowledge enhanced multi-label classification for electronic health records},
+  author={Ge, Xueren and Williams, Ronald Dean and Stankovic, John A and Alemzadeh, Homa},
+  journal={arXiv preprint arXiv:2310.07059},
+  year={2023}
+}
+```
