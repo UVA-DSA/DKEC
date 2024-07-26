@@ -2,7 +2,7 @@
   "model": "DKEC",
   "task": "multi_label",
   "dataset": "MIMIC3-3737",
-  "root_dir": "your_root/DKEC",
+  "root_dir": "/home/xueren/Desktop/EMNLP",
 
   "train": {
     "learning_rate": 1e-4,
