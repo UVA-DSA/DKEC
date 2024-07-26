@@ -5,18 +5,26 @@ but mostly neglected to incorporate external knowledge from medical guidelines.
 This paper presents DKEC, **D**omain **K**nowledge **E**nhanced **C**lassification for diagnosis prediction 
 with two innovations: 
 - (1) automated construction of heterogeneous knowledge graphs from external 
-sources to capture semantic relations among diverse medical entities, 
+sources to capture semantic relations among diverse medical entities.
+
 ![Architecture](<figure/KG.png>)
+
 - (2) incorporating the heterogeneous knowledge graphs in few-shot classification using a label-wise attention mechanism.
+
 ![Architecture](<figure/Pipeline.png>)
+
+
 ## Presentation
 One presentation ppt is available from [here](https://docs.google.com/presentation/d/1UDghDmYYrFjqUCDl9Q_15gfOCsv00Yur/edit#slide=id.p1)
 
 ## Dataset
 * EMS dataset
   - EMS dataset is not publicly available.
-* MIMIC3 dataset
-  - MIMIC3 dataset is publicly available. Refer to [this page](https://physionet.org/content/mimiciii/1.4/) to apply online.
+* MIMIC-III dataset
+  - MIMIC-III dataset is publicly available. Refer to [this page](https://physionet.org/content/mimiciii/1.4/) to apply online.
+  - The created adjacent matrix for ICD-9 codes are stored in corresponding MIMIC-III data folder
+    - **SYMPTOM**: icd9code2symptom.json, symptom2icd9code.json
+    - **TREATMENT**: icd9code2treatment.json, treatment2icd9.json
 * Web Annotation
   -  To evaluate the accuracy of different methods for constructing knowledge graphs, we evenly sampled
 50 codes from head, middle, and tail classes and manually annotated symptoms and treatments from
