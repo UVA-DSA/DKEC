@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github.com/UVA-DSA/DKEC/figure/Pipeline.pdf" alt="First Image" width="45%" style="display:inline-block; margin-right:10px;"/>
-  <img src="https://github.com/UVA-DSA/DKEC/figure/HLA.pdf" alt="Second Image" width="45%" style="display:inline-block;"/>
+  <img src="https://github.com/UVA-DSA/DKEC/blob/main/figure/Pipeline.pdf" alt="First Image" width="45%" style="display:inline-block; margin-right:10px;"/>
+  <img src="https://github.com/UVA-DSA/DKEC/blob/main/figure/HLA.pdf" alt="Second Image" width="45%" style="display:inline-block;"/>
 </p>
 
 
