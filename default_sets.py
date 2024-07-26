@@ -21,9 +21,6 @@ if is_main_process():
     print(cfg)
 config = Config(config_file=sys.argv[1])
 
-# with open('config/DKEC_CNN_1e-4.json', 'r') as f:
-#     conf = json.load(f)
-# config = Config(conf)
 
 try:
     note = config.train.note

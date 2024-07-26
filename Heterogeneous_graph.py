@@ -14,11 +14,15 @@ from default_sets import *
 from logger import is_main_process
 import os
 import json
+import nltk
+nltk.download('stopwords')
+nltk.download('punkt')
 
 class bertEmbedding():
     def __init__(self, tokenizer, model):
         self.tokenizer = tokenizer
-        self.model = model.to(device)
+        self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+        self.model = model.to(self.device)
         if self.tokenizer.pad_token is None:
             self.tokenizer.pad_token = tokenizer.eos_token
         # if dataset == 'RAA':
@@ -67,7 +71,7 @@ class bertEmbedding():
         ids, segs = self.tokenization(node)
         self.model.eval()
         with torch.no_grad():
-            output = self.model(input_ids=ids.to(device), attention_mask=segs.to(device))
+            output = self.model(input_ids=ids.to(self.device), attention_mask=segs.to(self.device))
         token_embeddings = torch.stack(output.hidden_states, dim=0)
         token_embeddings = torch.squeeze(token_embeddings, dim=1)
         token_embeddings = token_embeddings.permute(1, 0, 2)
@@ -86,7 +90,7 @@ class HeteroGraph(nn.Module):
 
         self.p_node = label
         self.hier_node = list(hier2label.keys())
-        self.ICD9_description = ICD9_description if dataset == "MIMIC3" else None
+        self.ICD9_description = ICD9_description if "MIMIC3" in dataset else None
         self.sign_node = []
         self.treat_node = []
         self.h2idx = {}
@@ -1543,14 +1547,13 @@ class CooccurGraph(nn.Module):
 if __name__ == '__main__':
     ### heterogeneous graph
     from default_sets import config
-    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
     if config.train.graph == 'HGT':
         HGraph = HeteroGraph(config)
         if dataset == 'RAA':
             signs_df = pd.read_excel(os.path.join(DIR, 'All Protocols Mapping.xlsx'))
             graph = HGraph(signs_df)
-        elif dataset == 'MIMIC3':
+        elif 'MIMIC3' in dataset:
             graph = HGraph()
         else:
             raise Exception('check dataset in default_sets.py')

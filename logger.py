@@ -19,6 +19,7 @@ def is_main_process():
     return get_rank() == 0
 
 def setup_wandb(config):
+    wandb.login()
     os.environ["WANDB__SERVICE_WAIT"] = "300"
     if not (config.wandb.enable):
         return

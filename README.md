@@ -33,9 +33,11 @@ Wikipedia and Mayo Clinic website contents for ICD-9 diagnosis codes. For EMS pr
 
 
 ## Environment
-* run with `conda env create --file=environment.yml`
-* conda activate EMSProject
-
+Run the following commands to get an anaconda environment `DKEC`
+```
+chmod +x install.sh
+./install.sh
+```
 [//]: # (* A pre-built docker image is available in docker hub [repo]&#40;https://hub.docker.com/repository/docker/masqueraderx/emnlp_2023/general&#41;,)
 
 
@@ -78,7 +80,8 @@ Wikipedia and Mayo Clinic website contents for ICD-9 diagnosis codes. For EMS pr
 
 ### Generate pre-trained embedding 
 - First specify config files well for every backbone
-- run `python Heterogeneous_graph.py` to generate embedding for different backbones
+- run `python Heterogeneous_graph.py config/whichname.json` to generate embedding for different backbones
+  - We suggest to change `dataset` to `MIMIC3-6668` since it will generate the initial node embedding for all 6668 ICD-9 codes.
 
 ### Config
 This section specifies some parameters that can be changed in config file
@@ -93,12 +96,13 @@ This section specifies some parameters that can be changed in config file
     - is_test: True when testing, False when training
   - wandb
     - enable: True if you use wandb to check training curves
-    - entity: your wandb account name
+    - entity: your wandb account name 
+Use `DKEC-CNN.json` to train the DKEC on multi-filter CNN backbones; Use `DKEC-GatorTron.json` to tran DKEC on GatorTron backbones.
 
 ### Slurm
 This section specifies the terminal commands
 - Cluster: you can run the project with slurm, go to the slurm folder and run with `sbatch whichname.slurm`
-- Local machine: `python main.py ./config/whichname.json`
+- Local machine: `python main.py config/whichname.json`
 
 [//]: # (### Citation)
 

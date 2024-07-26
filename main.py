@@ -3,7 +3,6 @@ import torch.multiprocessing as mp
 from config import Config
 import wandb
 import os
-import default_sets
 from default_sets import *
 import re
 import warnings
