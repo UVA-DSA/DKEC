@@ -34,7 +34,9 @@ Wikipedia and Mayo Clinic website contents for ICD-9 diagnosis codes. For EMS pr
 
 ## Environment
 * run with `conda env create --file=environment.yaml`
-* A pre-built docker image is available in docker hub [repo](https://hub.docker.com/repository/docker/masqueraderx/emnlp_2023/general),
+* conda activate EMSProject
+
+[//]: # (* A pre-built docker image is available in docker hub [repo]&#40;https://hub.docker.com/repository/docker/masqueraderx/emnlp_2023/general&#41;,)
 
 
 [//]: # (* Creating docker images:)
@@ -72,6 +74,7 @@ Wikipedia and Mayo Clinic website contents for ICD-9 diagnosis codes. For EMS pr
 - download code from [CAML](https://github.com/jamesmullenbach/caml-mimic) and run notebook `dataproc_mimic_III.ipynb`, you need to download pre-trained embeddings
 `BioWordVec_PubMed_MIMICIII_d200.vec.bin` from [link](https://github.com/ncbi-nlp/BioSentVec).
 - run `mimic_iii_6668.ipynb`, `mimic_iii_3737.ipynb` and `mimic_iii_1000.ipynb` in sequence.
+  - You need specify the root for CAML code and BioWordVec_PubMed_MIMICIII_d200.vec.bin in the `mimic_iii_6668.ipynb`
 
 ### Generate pre-trained embedding 
 - First specify config files well for every backbone
