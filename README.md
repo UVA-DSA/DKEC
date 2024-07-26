@@ -1,4 +1,4 @@
-![Architecture](<figure/Pipeline.pdf>)
+![Architecture](<figure/Pipeline.png>)
 
 
 ## Presentation
