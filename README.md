@@ -33,7 +33,7 @@ Wikipedia and Mayo Clinic website contents for ICD-9 diagnosis codes. For EMS pr
 
 
 ## Environment
-* run with `conda env create --file=environment.yaml`
+* run with `conda env create --file=environment.yml`
 * conda activate EMSProject
 
 [//]: # (* A pre-built docker image is available in docker hub [repo]&#40;https://hub.docker.com/repository/docker/masqueraderx/emnlp_2023/general&#41;,)
