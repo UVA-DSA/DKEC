@@ -78,7 +78,7 @@ chmod +x install.sh
 - run `mimic_iii_6668.ipynb`, `mimic_iii_3737.ipynb` and `mimic_iii_1000.ipynb` in sequence.
   - You need specify the root for CAML code and BioWordVec_PubMed_MIMICIII_d200.vec.bin in the `mimic_iii_6668.ipynb`
 
-### Generate pre-trained embedding 
+### Generate pre-trained embedding
 - First specify config files well for every backbone
 - run `python Heterogeneous_graph.py config/whichname.json` to generate embedding for different backbones
   - We suggest to change `dataset` to `MIMIC3-6668` since it will generate the initial node embedding for all 6668 ICD-9 codes.
@@ -96,13 +96,26 @@ This section specifies some parameters that can be changed in config file
     - is_test: True when testing, False when training
   - wandb
     - enable: True if you use wandb to check training curves
-    - entity: your wandb account name 
-Use `DKEC-CNN.json` to train the DKEC on multi-filter CNN backbones; Use `DKEC-GatorTron.json` to tran DKEC on GatorTron backbones.
+    - entity: your wandb account name
 
 ### Slurm
 This section specifies the terminal commands
 - Cluster: you can run the project with slurm, go to the slurm folder and run with `sbatch whichname.slurm`
 - Local machine: `python main.py config/whichname.json`
+
+### Reproduce Experimental Results
+The following tables specify how to reproduce main experimental results in Table 4 by using slurm.
+You can also find corresponding json file in config to run on local machine.
+For ISD, we directly use their github code. 
+
+| Model          |              Slurm script or URL              |
+|:----: |:---------------------------------------------:|
+| CAML           |               sbatch CAML.slurm               |
+ | ZAGCNN         |              sbatch ZAGCNN.slurm              |
+ | MultiResCNN    |           sbatch MultiResCNN.slurm            |
+ | ISD            | https://github.com/tongzhou21/ISD/tree/master |
+ | DKEC-M-CNN     |             sbatch DKEC_CNN.slurm             |
+ | DKEC-GatirTron |          sbatch DKEC_GatorTron.slurm          |
 
 [//]: # (### Citation)
 
