@@ -108,14 +108,14 @@ The following tables specify how to reproduce main experimental results in Table
 You can also find corresponding json file in config to run on local machine.
 For ISD, we directly use their github code. 
 
-| Model          |              Slurm script or URL              |
-|:----: |:---------------------------------------------:|
-| CAML           |               sbatch CAML.slurm               |
- | ZAGCNN         |              sbatch ZAGCNN.slurm              |
- | MultiResCNN    |           sbatch MultiResCNN.slurm            |
- | ISD            | https://github.com/tongzhou21/ISD/tree/master |
- | DKEC-M-CNN     |             sbatch DKEC_CNN.slurm             |
- | DKEC-GatirTron |          sbatch DKEC_GatorTron.slurm          |
+| Model          |               Slurm script or URL               |
+|:----: |:-----------------------------------------------:|
+| CAML           |               `sbatch CAML.slurm`               |
+ | ZAGCNN         |              `sbatch ZAGCNN.slurm`              |
+ | MultiResCNN    |           `sbatch MultiResCNN.slurm`            |
+ | ISD            |  https://github.com/tongzhou21/ISD/tree/master  |
+ | DKEC-M-CNN     |             `sbatch DKEC_CNN.slurm`             |
+ | DKEC-GatirTron |           `sbatch DKEC_GatorTron.slurm`           |
 
 [//]: # (### Citation)
 
