@@ -1,4 +1,8 @@
-## DKEC: Domain Knowledge Enhanced Multi-Label Classification for Diagnosis Prediction
+# DKEC: Domain Knowledge Enhanced Multi-Label Classification for Diagnosis Prediction
+
+code repository for EMNLP 2024 main conference paper [DKEC: Domain Knowledge Enhanced Multi-Label Classification for Diagnosis Prediction](https://arxiv.org/pdf/2310.07059)
+
+## Introduction
 Multi-label text classification (MLTC) tasks in the medical domain often face the long-tail label distribution problem. 
 Prior works have explored hierarchical label structures to find relevant information for few-shot classes, 
 but mostly neglected to incorporate external knowledge from medical guidelines. 
@@ -117,22 +121,13 @@ For ISD, we directly use their github code.
  | DKEC-M-CNN     |             `sbatch DKEC_CNN.slurm`             |
  | DKEC-GatirTron |           `sbatch DKEC_GatorTron.slurm`           |
 
-[//]: # (### Citation)
-
-[//]: # (**[DKEC: Domain knowledge enhanced multi-label classification for electronic health records]&#40;https://arxiv.org/pdf/2310.07059&#41;**)
-
-[//]: # (```)
-
-[//]: # (@article{ge2023dkec,)
-
-[//]: # (  title={Dkec: Domain knowledge enhanced multi-label classification for electronic health records},)
-
-[//]: # (  author={Ge, Xueren and Williams, Ronald Dean and Stankovic, John A and Alemzadeh, Homa},)
-
-[//]: # (  journal={arXiv preprint arXiv:2310.07059},)
-
-[//]: # (  year={2023})
-
-[//]: # (})
-
-[//]: # (```)
+### Citation
+If you find this work helpful, please cite,
+```
+@article{ge2023dkec,
+  title={Dkec: Domain knowledge enhanced multi-label classification for electronic health records},
+  author={Ge, Xueren and Williams, Ronald Dean and Stankovic, John A and Alemzadeh, Homa},
+  journal={arXiv preprint arXiv:2310.07059},
+  year={2023}
+}
+```
