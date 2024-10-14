@@ -24,7 +24,7 @@ sources to capture semantic relations among diverse medical entities.
 
 ## Dataset
 * EMS dataset
-  - EMS dataset is not publicly available.
+  - The EMS dataset is restrictedly available due to patient privacy concerns.
 * MIMIC-III dataset
   - MIMIC-III dataset is publicly available. Refer to [this page](https://physionet.org/content/mimiciii/1.4/) to apply online.
   - The created adjacent matrix for ICD-9 codes are stored in corresponding [MIMIC-III data folder](https://github.com/UVA-DSA/DKEC/tree/main/dataset)
