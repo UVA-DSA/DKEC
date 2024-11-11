@@ -124,10 +124,23 @@ For ISD, we directly use their github code.
 ### Citation
 If you find this work helpful, please cite,
 ```
-@article{ge2023dkec,
-  title={Dkec: Domain knowledge enhanced multi-label classification for electronic health records},
-  author={Ge, Xueren and Williams, Ronald Dean and Stankovic, John A and Alemzadeh, Homa},
-  journal={arXiv preprint arXiv:2310.07059},
-  year={2023}
+@inproceedings{ge-etal-2024-dkec,
+    title = "{DKEC}: Domain Knowledge Enhanced Multi-Label Classification for Diagnosis Prediction",
+    author = "Ge, Xueren  and
+      Satpathy, Abhishek  and
+      Williams, Ronald Dean  and
+      Stankovic, John  and
+      Alemzadeh, Homa",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.712",
+    pages = "12798--12813",
+    abstract = "Multi-label text classification (MLTC) tasks in the medical domain often face the long-tail label distribution problem. Prior works have explored hierarchical label structures to find relevant information for few-shot classes, but mostly neglected to incorporate external knowledge from medical guidelines. This paper presents DKEC, Domain Knowledge Enhanced Classification for diagnosis prediction with two innovations: (1) automated construction of heterogeneous knowledge graphs from external sources to capture semantic relations among diverse medical entities, (2) incorporating the heterogeneous knowledge graphs in few-shot classification using a label-wise attention mechanism. We construct DKEC using three online medical knowledge sources and evaluate it on a real-world Emergency Medical Services (EMS) dataset and a public electronic health record (EHR) dataset. Results show that DKEC outperforms the state-of-the-art label-wise attention networks and transformer models of different sizes, particularly for the few-shot classes. More importantly, it helps the smaller language models achieve comparable performance to large language models.",
 }
 ```
