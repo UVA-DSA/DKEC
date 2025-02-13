@@ -1,8 +1,8 @@
 {
   "model": "DKEC",
   "task": "multi_label",
-  "dataset": "MIMIC3-3737",
-  "root_dir": "your_root/DKEC",
+  "dataset": "RAA",
+  "root_dir": "/scratch/zar8jw/DKEC",
 
   "train": {
     "learning_rate": 1e-4,
@@ -10,16 +10,16 @@
     "epochs": 30,
     "dropout": 0.2,
     "max_len": 512,
-    "window_size": 3,
+    "window_size": 1,
     "graph": "HGT",
     "graph_layer": 2,
     "with_hier": true,
-    "reduced_dim": 32,
+    "reduced_dim": null,
     "backbone": "nlpie/tiny-clinicalbert",
     "loss_type": "BCEWithLogitsLoss",
-    "topk": 8,
+    "topk": 1,
     "seed": 3407,
-    "note": "maxpool_linear"
+    "note": ""
   },
 
   "test": {
@@ -39,8 +39,8 @@
 
   "wandb": {
     "enable": true,
-    "entity": "your_wandb_name",
-    "project": "MIMIC-3737"
+    "entity": "gexueren",
+    "project": "RAA"
   },
 
   "DKEC": {
