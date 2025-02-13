@@ -17,6 +17,7 @@ import json
 import nltk
 nltk.download('stopwords')
 nltk.download('punkt')
+nltk.download('punkt_tab')
 
 class bertEmbedding():
     def __init__(self, tokenizer, model):

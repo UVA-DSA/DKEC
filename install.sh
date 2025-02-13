@@ -11,7 +11,9 @@ conda activate DKEC
 conda install pip -y
 
 # Install PyTorch and related packages
+# pip install torch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cu118
 pip install torch==2.2.0 torchvision==0.17.0 torchaudio==2.2.0 --index-url https://download.pytorch.org/whl/cu118
+
 
 # Install PyTorch Geometric packages
 pip install -q torch-scatter -f https://pytorch-geometric.com/whl/torch-2.2.0+cu118.html
